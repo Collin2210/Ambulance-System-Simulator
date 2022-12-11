@@ -10,7 +10,7 @@ public class City {
     ProductAcceptor sink;
     CEventList eventList;
 
-    static final Point hospitalPosition = new Point(0,0);
+    static final Point hospitalPosition = new Point(0, 0);
 
     static final double radius = 5;
     static final double side = radius;
@@ -23,22 +23,21 @@ public class City {
         this.eventList = eventList;
 
         // create regions
-        for(Point dock : getDockPositions())
+        for (Point dock : getDockPositions())
             regions.add(new Region(dock, this));
     }
 
-    public static Point[] getDockPositions(){
-        double
-                oX = hospitalPosition.getX(),
+    public static Point[] getDockPositions() {
+        double oX = hospitalPosition.getX(),
                 oY = hospitalPosition.getY();
 
-        return new Point[]{
+        return new Point[] {
                 new Point(oX, oY),
                 new Point(oX + radius + side / 2, oY + height),
                 new Point(oX + radius + side / 2, oY - height),
                 new Point(oX + 0, oY - 2 * height),
                 new Point(oX - (radius + side / 2), oY - height),
-                new Point(oX - (radius + side /2), oY + height),
+                new Point(oX - (radius + side / 2), oY + height),
                 new Point(oX + 0, oY + 2 * height)
         };
     }

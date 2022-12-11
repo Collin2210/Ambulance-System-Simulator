@@ -4,13 +4,13 @@ import static Simulation.RandomNumberGenerator.drawRandomExponential;
 import static Simulation.RandomNumberGenerator.randomErlang;
 
 /**
- *	Ambulance in a factory
- *	@author Joel Karel
- *	@version %I%, %G%
+ * Ambulance in a factory
+ * 
+ * @author Joel Karel
+ * @version %I%, %G%
  */
-public class Ambulance implements CProcess,ProductAcceptor
-{
-	/** Patient that is being handled  */
+public class Ambulance implements CProcess, ProductAcceptor {
+	/** Patient that is being handled */
 	private Patient patient;
 	/** Eventlist that will manage events */
 	private final CEventList eventlist;
@@ -34,74 +34,74 @@ public class Ambulance implements CProcess,ProductAcceptor
 	private Point currentPosition;
 
 	/**
-	*	Constructor
-	*        Service times are exponentially distributed with mean 30
-	*	@param q	Queue from which the machine has to take products
-	*	@param s	Where to send the completed products
-	*	@param e	Eventlist that will manage events
-	*	@param n	The name of the machine
-	*/
-	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n, Point dockPosition)
-	{
-		status='i';
-		queue=q;
-		sink=s;
-		eventlist=e;
-		name=n;
-		meanProcTime=30;
+	 * Constructor
+	 * Service times are exponentially distributed with mean 30
+	 * 
+	 * @param q Queue from which the machine has to take products
+	 * @param s Where to send the completed products
+	 * @param e Eventlist that will manage events
+	 * @param n The name of the machine
+	 */
+	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n, Point dockPosition) {
+		status = 'i';
+		queue = q;
+		sink = s;
+		eventlist = e;
+		name = n;
+		meanProcTime = 30;
 		this.waitingDockPosition = dockPosition;
 		queue.askProduct(this);
 	}
 
 	/**
-	*	Constructor
-	*        Service times are exponentially distributed with specified mean
-	*	@param q	Queue from which the machine has to take products
-	*	@param s	Where to send the completed products
-	*	@param e	Eventlist that will manage events
-	*	@param n	The name of the machine
-	*        @param m	Mean processing time
-	*/
-	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n, double m)
-	{
-		status='i';
-		queue=q;
-		sink=s;
-		eventlist=e;
-		name=n;
-		meanProcTime=m;
-		queue.askProduct(this);
-	}
-	
-	/**
-	*	Constructor
-	*        Service times are pre-specified
-	*	@param q	Queue from which the machine has to take products
-	*	@param s	Where to send the completed products
-	*	@param e	Eventlist that will manage events
-	*	@param n	The name of the machine
-	*        @param st	service times
-	*/
-	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n, double[] st)
-	{
-		status='i';
-		queue=q;
-		sink=s;
-		eventlist=e;
-		name=n;
-		meanProcTime=-1;
-		processingTimes=st;
-		procCnt=0;
+	 * Constructor
+	 * Service times are exponentially distributed with specified mean
+	 * 
+	 * @param q Queue from which the machine has to take products
+	 * @param s Where to send the completed products
+	 * @param e Eventlist that will manage events
+	 * @param n The name of the machine
+	 * @param m Mean processing time
+	 */
+	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n, double m) {
+		status = 'i';
+		queue = q;
+		sink = s;
+		eventlist = e;
+		name = n;
+		meanProcTime = m;
 		queue.askProduct(this);
 	}
 
 	/**
-	*	Method to have this object execute an event
-	*	@param type	The type of the event that has to be executed
-	*	@param tme	The current time
-	*/
-	public void execute(int type, double tme)
-	{
+	 * Constructor
+	 * Service times are pre-specified
+	 * 
+	 * @param q  Queue from which the machine has to take products
+	 * @param s  Where to send the completed products
+	 * @param e  Eventlist that will manage events
+	 * @param n  The name of the machine
+	 * @param st service times
+	 */
+	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n, double[] st) {
+		status = 'i';
+		queue = q;
+		sink = s;
+		eventlist = e;
+		name = n;
+		meanProcTime = -1;
+		processingTimes = st;
+		procCnt = 0;
+		queue.askProduct(this);
+	}
+
+	/**
+	 * Method to have this object execute an event
+	 * 
+	 * @param type The type of the event that has to be executed
+	 * @param tme  The current time
+	 */
+	public void execute(int type, double tme) {
 		// show arrival
 		System.out.println("Patient " + patient.getPriorityLevel() + " finished at time = " + tme);
 
@@ -109,81 +109,73 @@ public class Ambulance implements CProcess,ProductAcceptor
 		currentPosition = City.hospitalPosition;
 
 		// Remove patient from system
-		patient.stamp(tme,"Production complete",name);
+		patient.stamp(tme, "Production complete", name);
 		sink.giveProduct(patient);
-		patient =null;
+		patient = null;
 		// set machine status to idle
-		status='i';
+		status = 'i';
 		// Ask the queue for products
 		// if there are no patients to help rn, go back to waiting dock
-		if(!queue.askProduct(this))
+		if (!queue.askProduct(this))
 			currentPosition = waitingDockPosition;
 	}
-	
+
 	/**
-	*	Let the machine accept a patient and let it start handling it
-	*	@param p	The patient that is offered
-	*	@return	true if the patient is accepted and started, false in all other cases
-	*/
-        @Override
-	public boolean giveProduct(Patient p)
-	{
+	 * Let the machine accept a patient and let it start handling it
+	 * 
+	 * @param p The patient that is offered
+	 * @return true if the patient is accepted and started, false in all other cases
+	 */
+	@Override
+	public boolean giveProduct(Patient p) {
 		// Only accept something if the machine is idle
-		if(status=='i')
-		{
+		if (status == 'i') {
 			// accept the patient
 			patient = p;
 			// mark starting time
-			patient.stamp(eventlist.getTime(),"Production started",name);
+			patient.stamp(eventlist.getTime(), "Production started", name);
 			// start production
 			startProduction();
 			// Flag that the patient has arrived
 			return true;
 		}
 		// Flag that the patient has been rejected
-		else return false;
+		else
+			return false;
 	}
-	
+
 	/**
-	*	Starting routine for the production
-	*	Start the handling of the current patient with an exponentionally distributed processingtime with average 30
-	*	This time is placed in the eventlist
-	*/
-	private void startProduction()
-	{
+	 * Starting routine for the production
+	 * Start the handling of the current patient with an exponentionally distributed
+	 * processingtime with average 30
+	 * This time is placed in the eventlist
+	 */
+	private void startProduction() {
 		// generate duration
-		if(meanProcTime>0)
-		{
+		if (meanProcTime > 0) {
 			double duration = processingTime();
 			// Create a new event in the eventlist
 			double tme = eventlist.getTime();
-			eventlist.add(this,0,tme+duration); //target,type,time
+			eventlist.add(this, 0, tme + duration); // target,type,time
 			// set status to busy
-			status='b';
-		}
-		else
-		{
-			if(processingTimes.length>procCnt)
-			{
-				eventlist.add(this,0,eventlist.getTime()+processingTimes[procCnt]); //target,type,time
+			status = 'b';
+		} else {
+			if (processingTimes.length > procCnt) {
+				eventlist.add(this, 0, eventlist.getTime() + processingTimes[procCnt]); // target,type,time
 				// set status to busy
-				status='b';
+				status = 'b';
 				procCnt++;
-			}
-			else
-			{
+			} else {
 				eventlist.stop();
 			}
 		}
 	}
 
-
 	public void setStatus(char status) {
 		this.status = status;
 	}
 
-	// TODO: 12/11/2022 implement current position correctly such that we can calculate exactly processing time
-	public double processingTime(){
+	public double processingTime() {
 
 		double toPatient = currentPosition.manhattanDistance(patient.getPickupLocation());
 		double timeAtScene = randomErlang();
