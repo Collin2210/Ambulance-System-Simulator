@@ -1,2456 +1,1468 @@
 Event,Time,Number,Station
-Creation,2.0,1,Source A2
-Ambulance accepts patient,2.0,1,Ambulance 1 1
-Arrival at patient,3.248748203481161,1,Ambulance 1 1
-Waiting time,1.2487482034811608,1,Ambulance 1 1
-Production complete,7.488499154859022,1,Ambulance 1 1
-Creation,3.0,2,Source A1
-Ambulance accepts patient,3.0,2,Ambulance 4 1
-Arrival at patient,4.46936885166019,2,Ambulance 4 1
-Waiting time,1.4693688516601897,2,Ambulance 4 1
-Production complete,15.987556904912573,2,Ambulance 4 1
-Creation,2.0,3,Source A1
-Ambulance accepts patient,2.0,3,Ambulance 5 1
-Arrival at patient,2.781787733276678,3,Ambulance 5 1
-Waiting time,0.781787733276678,3,Ambulance 5 1
-Production complete,16.519112600432937,3,Ambulance 5 1
-Creation,5.0,4,Source A1
-Ambulance accepts patient,5.0,4,Ambulance 2 1
-Arrival at patient,6.588745822581389,4,Ambulance 2 1
-Waiting time,1.588745822581389,4,Ambulance 2 1
-Production complete,20.5815322728661,4,Ambulance 2 1
-Creation,4.0,5,Source B
-Ambulance accepts patient,4.0,5,Ambulance 6 1
-Arrival at patient,12.982221369305408,5,Ambulance 6 1
-Waiting time,8.982221369305408,5,Ambulance 6 1
-Production complete,23.896322999018743,5,Ambulance 6 1
-Creation,7.0,6,Source A1
-Ambulance accepts patient,7.488499154859022,6,Ambulance 1 1
-Arrival at patient,17.04571235901644,6,Ambulance 1 1
-Waiting time,10.045712359016441,6,Ambulance 1 1
-Production complete,28.092302185685618,6,Ambulance 1 1
-Creation,4.0,7,Source A2
-Ambulance accepts patient,4.0,7,Ambulance 3 1
-Arrival at patient,17.249457662324218,7,Ambulance 3 1
-Waiting time,13.249457662324218,7,Ambulance 3 1
-Production complete,28.242367853313514,7,Ambulance 3 1
-Creation,13.0,8,Source A1
-Ambulance accepts patient,23.896322999018743,8,Ambulance 6 1
-Arrival at patient,26.263209738401923,8,Ambulance 6 1
-Waiting time,13.263209738401923,8,Ambulance 6 1
-Production complete,30.0917027775397,8,Ambulance 6 1
+Creation,1.0,1,Source A1
+Production started,1.0,1,Ambulance -1 0
+Production complete,13.658919978709022,1,Ambulance -1 0
+Creation,4.0,2,Source B
+Production started,4.0,2,Ambulance -1 0
+Production complete,16.25439170323913,2,Ambulance -1 0
+Creation,2.0,3,Source A2
+Production started,2.0,3,Ambulance -1 0
+Production complete,16.46130951253584,3,Ambulance -1 0
+Creation,1.0,4,Source A2
+Production started,1.0,4,Ambulance -1 0
+Production complete,16.627958442429254,4,Ambulance -1 0
+Creation,4.0,5,Source A1
+Production started,4.0,5,Ambulance -1 0
+Production complete,17.22170351372651,5,Ambulance -1 0
+Creation,6.0,6,Source B
+Production started,6.0,6,Ambulance -1 0
+Production complete,23.036798470740273,6,Ambulance -1 0
+Creation,3.0,7,Source A1
+Production started,3.0,7,Ambulance -1 0
+Production complete,25.88782961122324,7,Ambulance -1 0
+Creation,7.0,8,Source A1
+Production started,13.658919978709022,8,Ambulance -1 0
+Production complete,34.519758316783246,8,Ambulance -1 0
 Creation,16.0,9,Source A1
-Ambulance accepts patient,28.242367853313514,9,Ambulance 3 1
-Arrival at patient,29.026528127948886,9,Ambulance 3 1
-Waiting time,13.026528127948886,9,Ambulance 3 1
-Production complete,30.587250925910414,9,Ambulance 3 1
+Production started,17.22170351372651,9,Ambulance -1 0
+Production complete,36.821510152840375,9,Ambulance -1 0
 Creation,10.0,10,Source A1
-Ambulance accepts patient,16.519112600432937,10,Ambulance 5 1
-Arrival at patient,23.5811763963216,10,Ambulance 5 1
-Waiting time,13.581176396321599,10,Ambulance 5 1
-Production complete,31.296891719813345,10,Ambulance 5 1
-Creation,21.0,11,Source A1
-Ambulance accepts patient,31.296891719813345,11,Ambulance 5 1
-Arrival at patient,32.18691324977386,11,Ambulance 5 1
-Waiting time,11.186913249773859,11,Ambulance 5 1
-Production complete,34.407563094084665,11,Ambulance 5 1
-Creation,5.0,12,Source B
-Ambulance accepts patient,5.0,12,Ambulance 7 1
-Arrival at patient,25.499804845469022,12,Ambulance 7 1
-Waiting time,20.499804845469022,12,Ambulance 7 1
-Production complete,38.555095564607896,12,Ambulance 7 1
-Creation,12.0,13,Source A1
-Ambulance accepts patient,20.5815322728661,13,Ambulance 2 1
-Arrival at patient,31.52805475250904,13,Ambulance 2 1
-Waiting time,19.52805475250904,13,Ambulance 2 1
-Production complete,43.27322437238246,13,Ambulance 2 1
-Creation,9.0,14,Source A1
-Ambulance accepts patient,15.987556904912573,14,Ambulance 4 1
-Arrival at patient,29.397227504880384,14,Ambulance 4 1
-Waiting time,20.397227504880384,14,Ambulance 4 1
-Production complete,43.28911213972427,14,Ambulance 4 1
-Creation,15.0,15,Source A1
-Ambulance accepts patient,28.092302185685618,15,Ambulance 1 1
-Arrival at patient,38.18334498748315,15,Ambulance 1 1
-Waiting time,23.183344987483153,15,Ambulance 1 1
-Production complete,48.75368693631269,15,Ambulance 1 1
-Creation,18.0,16,Source A1
-Ambulance accepts patient,30.0917027775397,16,Ambulance 6 1
-Arrival at patient,39.172437477244756,16,Ambulance 6 1
-Waiting time,21.172437477244756,16,Ambulance 6 1
-Production complete,48.77946555070522,16,Ambulance 6 1
-Creation,20.0,17,Source A1
-Ambulance accepts patient,30.587250925910414,17,Ambulance 3 1
-Arrival at patient,40.4302355850819,17,Ambulance 3 1
-Waiting time,20.430235585081903,17,Ambulance 3 1
-Production complete,50.52812508119466,17,Ambulance 3 1
-Creation,23.0,18,Source A1
-Ambulance accepts patient,34.407563094084665,18,Ambulance 5 1
-Arrival at patient,41.706752240486956,18,Ambulance 5 1
-Waiting time,18.706752240486956,18,Ambulance 5 1
-Production complete,50.609363591601806,18,Ambulance 5 1
-Creation,24.0,19,Source A1
-Ambulance accepts patient,38.555095564607896,19,Ambulance 7 1
-Arrival at patient,50.45901288487852,19,Ambulance 7 1
-Waiting time,26.45901288487852,19,Ambulance 7 1
-Production complete,63.035911787108446,19,Ambulance 7 1
-Creation,27.0,20,Source A1
-Ambulance accepts patient,43.28911213972427,20,Ambulance 4 1
-Arrival at patient,54.37773448228664,20,Ambulance 4 1
-Waiting time,27.37773448228664,20,Ambulance 4 1
-Production complete,65.99590696077331,20,Ambulance 4 1
-Creation,28.0,21,Source A1
-Ambulance accepts patient,48.75368693631269,21,Ambulance 1 1
-Arrival at patient,59.24194386179556,21,Ambulance 1 1
-Waiting time,31.241943861795562,21,Ambulance 1 1
-Production complete,70.90141894191264,21,Ambulance 1 1
-Creation,25.0,22,Source A1
-Ambulance accepts patient,43.27322437238246,22,Ambulance 2 1
-Arrival at patient,56.86095579589346,22,Ambulance 2 1
-Waiting time,31.86095579589346,22,Ambulance 2 1
-Production complete,70.96855356951129,22,Ambulance 2 1
-Creation,31.0,23,Source A1
-Ambulance accepts patient,48.77946555070522,23,Ambulance 6 1
-Arrival at patient,59.87073325838877,23,Ambulance 6 1
-Waiting time,28.870733258388768,23,Ambulance 6 1
-Production complete,71.97016060195205,23,Ambulance 6 1
-Creation,35.0,24,Source A1
-Ambulance accepts patient,50.609363591601806,24,Ambulance 5 1
-Arrival at patient,61.94275858431617,24,Ambulance 5 1
-Waiting time,26.942758584316167,24,Ambulance 5 1
-Production complete,75.00600816040901,24,Ambulance 5 1
-Creation,34.0,25,Source A1
-Ambulance accepts patient,50.52812508119466,25,Ambulance 3 1
-Arrival at patient,62.26519036425191,25,Ambulance 3 1
-Waiting time,28.265190364251907,25,Ambulance 3 1
-Production complete,75.08936779595204,25,Ambulance 3 1
-Creation,40.0,26,Source A1
-Ambulance accepts patient,70.90141894191264,26,Ambulance 1 1
-Arrival at patient,78.99744729638017,26,Ambulance 1 1
-Waiting time,38.99744729638017,26,Ambulance 1 1
-Production complete,88.11128173688844,26,Ambulance 1 1
-Creation,42.0,27,Source A1
-Ambulance accepts patient,71.97016060195205,27,Ambulance 6 1
-Arrival at patient,81.16815609011125,27,Ambulance 6 1
-Waiting time,39.16815609011125,27,Ambulance 6 1
-Production complete,92.25940172583682,27,Ambulance 6 1
-Creation,36.0,28,Source A1
-Ambulance accepts patient,63.035911787108446,28,Ambulance 7 1
-Arrival at patient,77.7077015706686,28,Ambulance 7 1
-Waiting time,41.707701570668604,28,Ambulance 7 1
-Production complete,93.75621562583771,28,Ambulance 7 1
-Creation,44.0,29,Source A1
-Ambulance accepts patient,75.00600816040901,29,Ambulance 5 1
-Arrival at patient,84.69239220979091,29,Ambulance 5 1
-Waiting time,40.69239220979091,29,Ambulance 5 1
-Production complete,95.29069293211444,29,Ambulance 5 1
-Creation,46.0,30,Source A1
-Ambulance accepts patient,75.08936779595204,30,Ambulance 3 1
-Arrival at patient,84.89812460164976,30,Ambulance 3 1
-Waiting time,38.898124601649755,30,Ambulance 3 1
-Production complete,95.58290214307996,30,Ambulance 3 1
-Creation,39.0,31,Source A1
-Ambulance accepts patient,65.99590696077331,31,Ambulance 4 1
-Arrival at patient,80.62213013460581,31,Ambulance 4 1
-Waiting time,41.62213013460581,31,Ambulance 4 1
-Production complete,96.13373479194645,31,Ambulance 4 1
-Creation,41.0,32,Source A1
-Ambulance accepts patient,70.96855356951129,32,Ambulance 2 1
-Arrival at patient,85.6284281375753,32,Ambulance 2 1
-Waiting time,44.6284281375753,32,Ambulance 2 1
-Production complete,101.20725730050451,32,Ambulance 2 1
-Creation,53.0,33,Source A1
-Ambulance accepts patient,95.29069293211444,33,Ambulance 5 1
-Arrival at patient,102.64304865681288,33,Ambulance 5 1
-Waiting time,49.64304865681288,33,Ambulance 5 1
-Production complete,111.4466634171203,33,Ambulance 5 1
-Creation,48.0,34,Source A1
-Ambulance accepts patient,88.11128173688844,34,Ambulance 1 1
-Arrival at patient,100.13387676222547,34,Ambulance 1 1
-Waiting time,52.13387676222547,34,Ambulance 1 1
-Production complete,112.78206410532323,34,Ambulance 1 1
-Creation,54.0,35,Source A1
-Ambulance accepts patient,95.58290214307996,35,Ambulance 3 1
-Arrival at patient,104.88097891128352,35,Ambulance 3 1
-Waiting time,50.88097891128352,35,Ambulance 3 1
-Production complete,114.86681927948354,35,Ambulance 3 1
-Creation,58.0,36,Source A1
-Ambulance accepts patient,101.20725730050451,36,Ambulance 2 1
-Arrival at patient,108.09735280660477,36,Ambulance 2 1
-Waiting time,50.097352806604775,36,Ambulance 2 1
-Production complete,115.91474333488758,36,Ambulance 2 1
-Creation,49.0,37,Source A1
-Ambulance accepts patient,92.25940172583682,37,Ambulance 6 1
-Arrival at patient,104.05802420426343,37,Ambulance 6 1
-Waiting time,55.05802420426343,37,Ambulance 6 1
-Production complete,116.66450774162584,37,Ambulance 6 1
-Creation,64.0,38,Source A1
-Ambulance accepts patient,112.78206410532323,38,Ambulance 1 1
-Arrival at patient,115.34557581761483,38,Ambulance 1 1
-Waiting time,51.34557581761483,38,Ambulance 1 1
-Production complete,118.73201818842506,38,Ambulance 1 1
-Creation,51.0,39,Source A1
-Ambulance accepts patient,93.75621562583771,39,Ambulance 7 1
-Arrival at patient,106.5634109228857,39,Ambulance 7 1
-Waiting time,55.563410922885694,39,Ambulance 7 1
-Production complete,120.54202312039399,39,Ambulance 7 1
-Creation,57.0,40,Source A1
-Ambulance accepts patient,96.13373479194645,40,Ambulance 4 1
-Arrival at patient,110.59420643435118,40,Ambulance 4 1
-Waiting time,53.59420643435118,40,Ambulance 4 1
-Production complete,125.91348609053827,40,Ambulance 4 1
-Creation,69.0,41,Source A1
-Ambulance accepts patient,114.86681927948354,41,Ambulance 3 1
-Arrival at patient,121.90602671963471,41,Ambulance 3 1
-Waiting time,52.90602671963471,41,Ambulance 3 1
-Production complete,129.26135477441545,41,Ambulance 3 1
-Creation,98.0,42,Source A1
-Ambulance accepts patient,125.91348609053827,42,Ambulance 4 1
-Arrival at patient,127.63151909486257,42,Ambulance 4 1
-Waiting time,29.63151909486257,42,Ambulance 4 1
-Production complete,130.4991483676068,42,Ambulance 4 1
-Creation,60.0,43,Source A1
-Ambulance accepts patient,111.4466634171203,43,Ambulance 5 1
-Arrival at patient,121.11206125325958,43,Ambulance 5 1
-Waiting time,61.11206125325958,43,Ambulance 5 1
-Production complete,131.96989921495467,43,Ambulance 5 1
-Creation,77.0,44,Source A1
-Ambulance accepts patient,115.91474333488758,44,Ambulance 2 1
-Arrival at patient,125.39480410412403,44,Ambulance 2 1
-Waiting time,48.394804104124034,44,Ambulance 2 1
-Production complete,135.2369637386741,44,Ambulance 2 1
-Creation,83.0,45,Source A1
-Ambulance accepts patient,116.66450774162584,45,Ambulance 6 1
-Arrival at patient,126.69232478341559,45,Ambulance 6 1
-Waiting time,43.692324783415586,45,Ambulance 6 1
-Production complete,138.0922641845028,45,Ambulance 6 1
-Creation,93.0,46,Source A1
-Ambulance accepts patient,120.54202312039399,46,Ambulance 7 1
-Arrival at patient,129.44945836084884,46,Ambulance 7 1
-Waiting time,36.44945836084884,46,Ambulance 7 1
-Production complete,138.72499653631814,46,Ambulance 7 1
-Creation,118.0,47,Source A1
-Ambulance accepts patient,135.2369637386741,47,Ambulance 2 1
-Arrival at patient,137.53629276444528,47,Ambulance 2 1
-Waiting time,19.536292764445278,47,Ambulance 2 1
-Production complete,140.84046919339056,47,Ambulance 2 1
-Creation,84.0,48,Source A1
-Ambulance accepts patient,118.73201818842506,48,Ambulance 1 1
-Arrival at patient,133.82774765630467,48,Ambulance 1 1
-Waiting time,49.827747656304666,48,Ambulance 1 1
-Production complete,149.77788631644432,48,Ambulance 1 1
-Creation,109.0,49,Source A1
-Ambulance accepts patient,130.4991483676068,49,Ambulance 4 1
-Arrival at patient,141.517784521054,49,Ambulance 4 1
-Waiting time,32.51778452105401,49,Ambulance 4 1
-Production complete,153.91416826778192,49,Ambulance 4 1
-Creation,122.0,50,Source A1
-Ambulance accepts patient,138.0922641845028,50,Ambulance 6 1
-Arrival at patient,145.95182219458476,50,Ambulance 6 1
-Waiting time,23.951822194584764,50,Ambulance 6 1
-Production complete,154.43923873696238,50,Ambulance 6 1
-Creation,130.0,51,Source A1
-Ambulance accepts patient,153.91416826778192,51,Ambulance 4 1
-Arrival at patient,155.056007649676,51,Ambulance 4 1
-Waiting time,25.05600764967599,51,Ambulance 4 1
-Production complete,156.30366161725985,51,Ambulance 4 1
-Creation,103.0,52,Source A1
-Ambulance accepts patient,129.26135477441545,52,Ambulance 3 1
-Arrival at patient,142.94492434915912,52,Ambulance 3 1
-Waiting time,39.94492434915912,52,Ambulance 3 1
-Production complete,158.13312412772285,52,Ambulance 3 1
-Creation,115.0,53,Source A1
-Ambulance accepts patient,131.96989921495467,53,Ambulance 5 1
-Arrival at patient,144.76947422817776,53,Ambulance 5 1
-Waiting time,29.769474228177756,53,Ambulance 5 1
-Production complete,159.24418327280438,53,Ambulance 5 1
-Creation,136.0,54,Source A1
-Ambulance accepts patient,156.30366161725985,54,Ambulance 4 1
-Arrival at patient,157.58913513293754,54,Ambulance 4 1
-Waiting time,21.589135132937542,54,Ambulance 4 1
-Production complete,160.15687115601114,54,Ambulance 4 1
-Creation,127.0,55,Source A1
-Ambulance accepts patient,138.72499653631814,55,Ambulance 7 1
-Arrival at patient,148.48198583569848,55,Ambulance 7 1
-Waiting time,21.48198583569848,55,Ambulance 7 1
-Production complete,160.25746236261207,55,Ambulance 7 1
-Creation,128.0,56,Source A1
-Ambulance accepts patient,140.84046919339056,56,Ambulance 2 1
-Arrival at patient,152.86128088590067,56,Ambulance 2 1
-Waiting time,24.86128088590067,56,Ambulance 2 1
-Production complete,165.35670686133312,56,Ambulance 2 1
-Creation,144.0,57,Source A1
-Ambulance accepts patient,160.15687115601114,57,Ambulance 4 1
-Arrival at patient,163.2735690624788,57,Ambulance 4 1
-Waiting time,19.2735690624788,57,Ambulance 4 1
-Production complete,168.00551319655668,57,Ambulance 4 1
-Creation,129.0,58,Source A1
-Ambulance accepts patient,149.77788631644432,58,Ambulance 1 1
-Arrival at patient,161.7080429484379,58,Ambulance 1 1
-Waiting time,32.70804294843791,58,Ambulance 1 1
-Production complete,174.26578725985001,58,Ambulance 1 1
-Creation,142.0,59,Source A1
-Ambulance accepts patient,159.24418327280438,59,Ambulance 5 1
-Arrival at patient,168.53212839873646,59,Ambulance 5 1
-Waiting time,26.53212839873646,59,Ambulance 5 1
-Production complete,179.81092672449856,59,Ambulance 5 1
-Creation,146.0,60,Source A1
-Ambulance accepts patient,160.25746236261207,60,Ambulance 7 1
-Arrival at patient,170.1276212723609,60,Ambulance 7 1
-Waiting time,24.127621272360898,60,Ambulance 7 1
-Production complete,182.41777294230343,60,Ambulance 7 1
-Creation,139.0,61,Source A1
-Ambulance accepts patient,158.13312412772285,61,Ambulance 3 1
-Arrival at patient,170.5883520321129,61,Ambulance 3 1
-Waiting time,31.58835203211291,61,Ambulance 3 1
-Production complete,184.6431967397126,61,Ambulance 3 1
-Creation,133.0,62,Source A1
-Ambulance accepts patient,154.43923873696238,62,Ambulance 6 1
-Arrival at patient,169.60763442295152,62,Ambulance 6 1
-Waiting time,36.60763442295152,62,Ambulance 6 1
-Production complete,186.25832440522316,62,Ambulance 6 1
-Creation,159.0,63,Source A1
-Ambulance accepts patient,184.6431967397126,63,Ambulance 3 1
-Arrival at patient,185.68089211677975,63,Ambulance 3 1
-Waiting time,26.680892116779745,63,Ambulance 3 1
-Production complete,187.24012430407006,63,Ambulance 3 1
-Creation,148.0,64,Source A1
-Ambulance accepts patient,165.35670686133312,64,Ambulance 2 1
-Arrival at patient,176.62175676292023,64,Ambulance 2 1
-Waiting time,28.621756762920228,64,Ambulance 2 1
-Production complete,189.13312094574826,64,Ambulance 2 1
-Creation,150.0,65,Source A1
-Ambulance accepts patient,168.00551319655668,65,Ambulance 4 1
-Arrival at patient,179.59484075293622,65,Ambulance 4 1
-Waiting time,29.59484075293622,65,Ambulance 4 1
-Production complete,192.20776825511254,65,Ambulance 4 1
-Creation,152.0,66,Source A1
-Ambulance accepts patient,174.26578725985001,66,Ambulance 1 1
-Arrival at patient,185.4709445678432,66,Ambulance 1 1
-Waiting time,33.47094456784319,66,Ambulance 1 1
-Production complete,198.0216323160834,66,Ambulance 1 1
-Creation,177.0,67,Source A1
-Ambulance accepts patient,198.0216323160834,67,Ambulance 1 1
-Arrival at patient,198.99242576937922,67,Ambulance 1 1
-Waiting time,21.992425769379224,67,Ambulance 1 1
-Production complete,201.02491816482492,67,Ambulance 1 1
-Creation,153.0,68,Source A1
-Ambulance accepts patient,179.81092672449856,68,Ambulance 5 1
-Arrival at patient,190.08395208157134,68,Ambulance 5 1
-Waiting time,37.08395208157134,68,Ambulance 5 1
-Production complete,201.1749324393651,68,Ambulance 5 1
-Creation,157.0,69,Source A1
-Ambulance accepts patient,182.41777294230343,69,Ambulance 7 1
-Arrival at patient,196.3564445065123,69,Ambulance 7 1
-Waiting time,39.356444506512304,69,Ambulance 7 1
-Production complete,210.71896157433144,69,Ambulance 7 1
-Creation,167.0,70,Source A1
-Ambulance accepts patient,187.24012430407006,70,Ambulance 3 1
-Arrival at patient,198.3195713435609,70,Ambulance 3 1
-Waiting time,31.31957134356091,70,Ambulance 3 1
-Production complete,211.506117346591,70,Ambulance 3 1
-Creation,164.0,71,Source A1
-Ambulance accepts patient,186.25832440522316,71,Ambulance 6 1
-Arrival at patient,198.95615503170316,71,Ambulance 6 1
-Waiting time,34.95615503170316,71,Ambulance 6 1
-Production complete,212.26931068915718,71,Ambulance 6 1
-Creation,169.0,72,Source A1
-Ambulance accepts patient,189.13312094574826,72,Ambulance 2 1
-Arrival at patient,200.3685885363104,72,Ambulance 2 1
-Waiting time,31.368588536310398,72,Ambulance 2 1
-Production complete,212.35667322047692,72,Ambulance 2 1
-Creation,176.0,73,Source A1
-Ambulance accepts patient,192.20776825511254,73,Ambulance 4 1
-Arrival at patient,201.7331253235414,73,Ambulance 4 1
-Waiting time,25.7331253235414,73,Ambulance 4 1
-Production complete,212.67011274527465,73,Ambulance 4 1
-Creation,178.0,74,Source A1
-Ambulance accepts patient,201.02491816482492,74,Ambulance 1 1
-Arrival at patient,210.29643418608822,74,Ambulance 1 1
-Waiting time,32.29643418608822,74,Ambulance 1 1
-Production complete,221.10634642144277,74,Ambulance 1 1
-Creation,182.0,75,Source A1
-Ambulance accepts patient,201.1749324393651,75,Ambulance 5 1
-Arrival at patient,214.09185692386453,75,Ambulance 5 1
-Waiting time,32.091856923864526,75,Ambulance 5 1
-Production complete,227.20880098491028,75,Ambulance 5 1
-Creation,188.0,76,Source A1
-Ambulance accepts patient,210.71896157433144,76,Ambulance 7 1
-Arrival at patient,220.87119509912975,76,Ambulance 7 1
-Waiting time,32.87119509912975,76,Ambulance 7 1
-Production complete,231.40642575535813,76,Ambulance 7 1
-Creation,211.0,77,Source A1
-Ambulance accepts patient,212.67011274527465,77,Ambulance 4 1
-Arrival at patient,223.5658264103467,77,Ambulance 4 1
-Waiting time,12.565826410346688,77,Ambulance 4 1
-Production complete,235.74448069625552,77,Ambulance 4 1
-Creation,228.0,78,Source A1
-Ambulance accepts patient,231.40642575535813,78,Ambulance 7 1
-Arrival at patient,233.68678595500066,78,Ambulance 7 1
-Waiting time,5.6867859550006585,78,Ambulance 7 1
-Production complete,237.2207499290221,78,Ambulance 7 1
-Creation,202.0,79,Source A1
-Ambulance accepts patient,212.26931068915718,79,Ambulance 6 1
-Arrival at patient,224.5970390835373,79,Ambulance 6 1
-Waiting time,22.59703908353731,79,Ambulance 6 1
-Production complete,237.60845606803508,79,Ambulance 6 1
-Creation,207.0,80,Source A1
-Ambulance accepts patient,212.35667322047692,80,Ambulance 2 1
-Arrival at patient,224.92412124236046,80,Ambulance 2 1
-Waiting time,17.924121242360457,80,Ambulance 2 1
-Production complete,238.1508055526349,80,Ambulance 2 1
-Creation,7.0,81,Source A2
-Ambulance accepts patient,237.60845606803508,81,Ambulance 6 1
-Arrival at patient,239.7247998280175,81,Ambulance 6 1
-Waiting time,232.7247998280175,81,Ambulance 6 1
-Production complete,242.172150002364,81,Ambulance 6 1
-Creation,194.0,82,Source A1
-Ambulance accepts patient,211.506117346591,82,Ambulance 3 1
-Arrival at patient,226.600070351757,82,Ambulance 3 1
-Waiting time,32.60007035175701,82,Ambulance 3 1
-Production complete,242.4852350909103,82,Ambulance 3 1
-Creation,214.0,83,Source A1
-Ambulance accepts patient,221.10634642144277,83,Ambulance 1 1
-Arrival at patient,231.72023363109815,83,Ambulance 1 1
-Waiting time,17.720233631098154,83,Ambulance 1 1
-Production complete,243.16401348273482,83,Ambulance 1 1
-Creation,8.0,84,Source A2
-Ambulance accepts patient,238.1508055526349,84,Ambulance 2 1
-Arrival at patient,240.96756358005695,84,Ambulance 2 1
-Waiting time,232.96756358005695,84,Ambulance 2 1
-Production complete,244.3503687846667,84,Ambulance 2 1
-Creation,13.0,85,Source A2
-Ambulance accepts patient,243.16401348273482,85,Ambulance 1 1
-Arrival at patient,243.9962287929823,85,Ambulance 1 1
-Waiting time,230.9962287929823,85,Ambulance 1 1
-Production complete,245.41197010236505,85,Ambulance 1 1
-Creation,220.0,86,Source A1
-Ambulance accepts patient,227.20880098491028,86,Ambulance 5 1
-Arrival at patient,236.3924180627441,86,Ambulance 5 1
-Waiting time,16.3924180627441,86,Ambulance 5 1
-Production complete,245.89607428327326,86,Ambulance 5 1
-Creation,239.0,87,Source A1
-Ambulance accepts patient,242.172150002364,87,Ambulance 6 1
-Arrival at patient,244.86825619631713,87,Ambulance 6 1
-Waiting time,5.868256196317134,87,Ambulance 6 1
-Production complete,247.8507682128413,87,Ambulance 6 1
-Creation,244.0,88,Source A1
-Ambulance accepts patient,244.3503687846667,88,Ambulance 2 1
-Arrival at patient,247.77300318881348,88,Ambulance 2 1
-Waiting time,3.773003188813476,88,Ambulance 2 1
-Production complete,252.15954488246044,88,Ambulance 2 1
-Creation,234.0,89,Source A1
-Ambulance accepts patient,235.74448069625552,89,Ambulance 4 1
-Arrival at patient,248.88457883412525,89,Ambulance 4 1
-Waiting time,14.88457883412525,89,Ambulance 4 1
-Production complete,263.6001251647441,89,Ambulance 4 1
-Creation,17.0,90,Source A2
-Ambulance accepts patient,245.89607428327326,90,Ambulance 5 1
-Arrival at patient,254.54162513695783,90,Ambulance 5 1
-Waiting time,237.54162513695783,90,Ambulance 5 1
-Production complete,264.10839572141475,90,Ambulance 5 1
-Creation,14.0,91,Source A2
-Ambulance accepts patient,245.41197010236505,91,Ambulance 1 1
-Arrival at patient,254.6573653021433,91,Ambulance 1 1
-Waiting time,240.6573653021433,91,Ambulance 1 1
-Production complete,265.58626131908056,91,Ambulance 1 1
-Creation,21.0,92,Source A2
-Ambulance accepts patient,247.8507682128413,92,Ambulance 6 1
-Arrival at patient,256.7825493483515,92,Ambulance 6 1
-Waiting time,235.7825493483515,92,Ambulance 6 1
-Production complete,266.11262601181136,92,Ambulance 6 1
-Creation,6.0,93,Source A2
-Ambulance accepts patient,237.2207499290221,93,Ambulance 7 1
-Arrival at patient,251.56950859212563,93,Ambulance 7 1
-Waiting time,245.56950859212563,93,Ambulance 7 1
-Production complete,266.83684225139575,93,Ambulance 7 1
-Creation,12.0,94,Source A2
-Ambulance accepts patient,242.4852350909103,94,Ambulance 3 1
-Arrival at patient,255.5428588152518,94,Ambulance 3 1
-Waiting time,243.5428588152518,94,Ambulance 3 1
-Production complete,270.18184821689147,94,Ambulance 3 1
-Creation,27.0,95,Source A2
-Ambulance accepts patient,266.83684225139575,95,Ambulance 7 1
-Arrival at patient,267.57871652928577,95,Ambulance 7 1
-Waiting time,240.57871652928577,95,Ambulance 7 1
-Production complete,270.5516734341825,95,Ambulance 7 1
-Creation,248.0,96,Source A1
-Ambulance accepts patient,252.15954488246044,96,Ambulance 2 1
-Arrival at patient,263.2565801553166,96,Ambulance 2 1
-Waiting time,15.256580155316612,96,Ambulance 2 1
-Production complete,275.4562865714769,96,Ambulance 2 1
-Creation,267.0,97,Source A1
-Ambulance accepts patient,270.18184821689147,97,Ambulance 3 1
-Arrival at patient,272.4365980109626,97,Ambulance 3 1
-Waiting time,5.436598010962598,97,Ambulance 3 1
-Production complete,275.4640102122367,97,Ambulance 3 1
-Creation,24.0,98,Source A2
-Ambulance accepts patient,265.58626131908056,98,Ambulance 1 1
-Arrival at patient,274.2188335721279,98,Ambulance 1 1
-Waiting time,250.2188335721279,98,Ambulance 1 1
-Production complete,283.4062821417083,98,Ambulance 1 1
-Creation,263.0,99,Source A1
-Ambulance accepts patient,264.10839572141475,99,Ambulance 5 1
-Arrival at patient,273.3791797977653,99,Ambulance 5 1
-Waiting time,10.379179797765289,99,Ambulance 5 1
-Production complete,283.77311942912445,99,Ambulance 5 1
-Creation,25.0,100,Source A2
-Ambulance accepts patient,266.11262601181136,100,Ambulance 6 1
-Arrival at patient,275.6929156052915,100,Ambulance 6 1
-Waiting time,250.6929156052915,100,Ambulance 6 1
-Production complete,286.88010420306074,100,Ambulance 6 1
-Creation,276.0,101,Source A1
-Ambulance accepts patient,283.4062821417083,101,Ambulance 1 1
-Arrival at patient,285.1804928079131,101,Ambulance 1 1
-Waiting time,9.180492807913083,101,Ambulance 1 1
-Production complete,288.3231716462468,101,Ambulance 1 1
-Creation,288.0,102,Source A1
-Ambulance accepts patient,288.3231716462468,102,Ambulance 1 1
-Arrival at patient,288.79230431724005,102,Ambulance 1 1
-Waiting time,0.7923043172400526,102,Ambulance 1 1
-Production complete,290.08121635299057,102,Ambulance 1 1
-Creation,255.0,103,Source A1
-Ambulance accepts patient,263.6001251647441,103,Ambulance 4 1
-Arrival at patient,276.7137689434334,103,Ambulance 4 1
-Waiting time,21.713768943433422,103,Ambulance 4 1
-Production complete,290.7779133821464,103,Ambulance 4 1
-Creation,269.0,104,Source A1
-Ambulance accepts patient,270.5516734341825,104,Ambulance 7 1
-Arrival at patient,280.48017759301604,104,Ambulance 7 1
-Waiting time,11.480177593016037,104,Ambulance 7 1
-Production complete,291.0072454827596,104,Ambulance 7 1
-Creation,33.0,105,Source A2
-Ambulance accepts patient,286.88010420306074,105,Ambulance 6 1
-Arrival at patient,290.143946566354,105,Ambulance 6 1
-Waiting time,257.143946566354,105,Ambulance 6 1
-Production complete,293.7631685648114,105,Ambulance 6 1
-Creation,273.0,106,Source A1
-Ambulance accepts patient,275.4562865714769,106,Ambulance 2 1
-Arrival at patient,285.6617324469856,106,Ambulance 2 1
-Waiting time,12.661732446985582,106,Ambulance 2 1
-Production complete,296.35727460324296,106,Ambulance 2 1
-Creation,38.0,107,Source A2
-Ambulance accepts patient,290.7779133821464,107,Ambulance 4 1
-Arrival at patient,293.2448386295917,107,Ambulance 4 1
-Waiting time,255.2448386295917,107,Ambulance 4 1
-Production complete,296.76640990319487,107,Ambulance 4 1
-Creation,31.0,108,Source A2
-Ambulance accepts patient,275.4640102122367,108,Ambulance 3 1
-Arrival at patient,285.56401658953905,108,Ambulance 3 1
-Waiting time,254.56401658953905,108,Ambulance 3 1
-Production complete,296.825665678301,108,Ambulance 3 1
-Creation,282.0,109,Source A1
-Ambulance accepts patient,283.77311942912445,109,Ambulance 5 1
-Arrival at patient,293.15816351765534,109,Ambulance 5 1
-Waiting time,11.158163517655339,109,Ambulance 5 1
-Production complete,303.71975522209164,109,Ambulance 5 1
-Creation,291.0,110,Source A1
-Ambulance accepts patient,291.0072454827596,110,Ambulance 7 1
-Arrival at patient,297.93689601054865,110,Ambulance 7 1
-Waiting time,6.936896010548651,110,Ambulance 7 1
-Production complete,305.0693286082922,110,Ambulance 7 1
-Creation,36.0,111,Source A2
-Ambulance accepts patient,290.08121635299057,111,Ambulance 1 1
-Arrival at patient,301.06544099111704,111,Ambulance 1 1
-Waiting time,265.06544099111704,111,Ambulance 1 1
-Production complete,312.3591975391009,111,Ambulance 1 1
-Creation,41.0,112,Source A2
-Ambulance accepts patient,293.7631685648114,112,Ambulance 6 1
-Arrival at patient,305.67883200032526,112,Ambulance 6 1
-Waiting time,264.67883200032526,112,Ambulance 6 1
-Production complete,318.738383054447,112,Ambulance 6 1
-Creation,45.0,113,Source A2
-Ambulance accepts patient,296.825665678301,113,Ambulance 3 1
-Arrival at patient,307.401146427127,113,Ambulance 3 1
-Waiting time,262.401146427127,113,Ambulance 3 1
-Production complete,319.1510865191205,113,Ambulance 3 1
-Creation,43.0,114,Source A2
-Ambulance accepts patient,296.35727460324296,114,Ambulance 2 1
-Arrival at patient,307.68488155823377,114,Ambulance 2 1
-Waiting time,264.68488155823377,114,Ambulance 2 1
-Production complete,319.8262808538824,114,Ambulance 2 1
-Creation,44.0,115,Source A2
-Ambulance accepts patient,296.76640990319487,115,Ambulance 4 1
-Arrival at patient,308.97673200037076,115,Ambulance 4 1
-Waiting time,264.97673200037076,115,Ambulance 4 1
-Production complete,321.7739978821763,115,Ambulance 4 1
-Creation,299.0,116,Source A1
-Ambulance accepts patient,305.0693286082922,116,Ambulance 7 1
-Arrival at patient,315.8209960276835,116,Ambulance 7 1
-Waiting time,16.82099602768352,116,Ambulance 7 1
-Production complete,327.46091033636935,116,Ambulance 7 1
-Creation,297.0,117,Source A1
-Ambulance accepts patient,303.71975522209164,117,Ambulance 5 1
-Arrival at patient,316.1547501424798,117,Ambulance 5 1
-Waiting time,19.154750142479827,117,Ambulance 5 1
-Production complete,329.3419499741843,117,Ambulance 5 1
-Creation,315.0,118,Source A1
-Ambulance accepts patient,329.3419499741843,118,Ambulance 5 1
-Arrival at patient,332.4299869626676,118,Ambulance 5 1
-Waiting time,17.429986962667613,118,Ambulance 5 1
-Production complete,336.2692254393158,118,Ambulance 5 1
-Creation,303.0,119,Source A1
-Ambulance accepts patient,312.3591975391009,119,Ambulance 1 1
-Arrival at patient,324.3555320775785,119,Ambulance 1 1
-Waiting time,21.355532077578516,119,Ambulance 1 1
-Production complete,337.443518579654,119,Ambulance 1 1
-Creation,309.0,120,Source A1
-Ambulance accepts patient,319.8262808538824,120,Ambulance 2 1
-Arrival at patient,329.61294938098996,120,Ambulance 2 1
-Waiting time,20.61294938098996,120,Ambulance 2 1
-Production complete,340.9580568040444,120,Ambulance 2 1
-Creation,305.0,121,Source A1
-Ambulance accepts patient,318.738383054447,121,Ambulance 6 1
-Arrival at patient,330.95517555684165,121,Ambulance 6 1
-Waiting time,25.955175556841652,121,Ambulance 6 1
-Production complete,343.95038431407863,121,Ambulance 6 1
-Creation,307.0,122,Source A1
-Ambulance accepts patient,319.1510865191205,122,Ambulance 3 1
-Arrival at patient,331.9707157108561,122,Ambulance 3 1
-Waiting time,24.970715710856098,122,Ambulance 3 1
-Production complete,345.9555874726092,122,Ambulance 3 1
-Creation,313.0,123,Source A1
-Ambulance accepts patient,327.46091033636935,123,Ambulance 7 1
-Arrival at patient,337.00787494797817,123,Ambulance 7 1
-Waiting time,24.007874947978166,123,Ambulance 7 1
-Production complete,346.97944376995684,123,Ambulance 7 1
-Creation,312.0,124,Source A1
-Ambulance accepts patient,321.7739978821763,124,Ambulance 4 1
-Arrival at patient,336.58553830410153,124,Ambulance 4 1
-Waiting time,24.585538304101533,124,Ambulance 4 1
-Production complete,353.5036086419798,124,Ambulance 4 1
-Creation,317.0,125,Source A1
-Ambulance accepts patient,336.2692254393158,125,Ambulance 5 1
-Arrival at patient,345.5098953720921,125,Ambulance 5 1
-Waiting time,28.509895372092103,125,Ambulance 5 1
-Production complete,355.6979885389748,125,Ambulance 5 1
-Creation,325.0,126,Source A1
-Ambulance accepts patient,340.9580568040444,126,Ambulance 2 1
-Arrival at patient,349.5263471865882,126,Ambulance 2 1
-Waiting time,24.526347186588225,126,Ambulance 2 1
-Production complete,359.25679537868444,126,Ambulance 2 1
-Creation,340.0,127,Source A1
-Ambulance accepts patient,359.25679537868444,127,Ambulance 2 1
-Arrival at patient,360.1150600892909,127,Ambulance 2 1
-Waiting time,20.11506008929092,127,Ambulance 2 1
-Production complete,361.36197297424286,127,Ambulance 2 1
-Creation,328.0,128,Source A1
-Ambulance accepts patient,343.95038431407863,128,Ambulance 6 1
-Arrival at patient,353.70970703809803,128,Ambulance 6 1
-Waiting time,25.70970703809803,128,Ambulance 6 1
-Production complete,364.0901030670508,128,Ambulance 6 1
-Creation,320.0,129,Source A1
-Ambulance accepts patient,337.443518579654,129,Ambulance 1 1
-Arrival at patient,350.1758166490682,129,Ambulance 1 1
-Waiting time,30.175816649068224,129,Ambulance 1 1
-Production complete,364.7303823593857,129,Ambulance 1 1
-Creation,334.0,130,Source A1
-Ambulance accepts patient,346.97944376995684,130,Ambulance 7 1
-Arrival at patient,355.4990765810219,130,Ambulance 7 1
-Waiting time,21.499076581021882,130,Ambulance 7 1
-Production complete,364.80871992247614,130,Ambulance 7 1
-Creation,331.0,131,Source A1
-Ambulance accepts patient,345.9555874726092,131,Ambulance 3 1
-Arrival at patient,359.6306928478943,131,Ambulance 3 1
-Waiting time,28.630692847894295,131,Ambulance 3 1
-Production complete,374.41688700747085,131,Ambulance 3 1
-Creation,337.0,132,Source A1
-Ambulance accepts patient,355.6979885389748,132,Ambulance 5 1
-Arrival at patient,366.41198378754405,132,Ambulance 5 1
-Waiting time,29.411983787544045,132,Ambulance 5 1
-Production complete,377.61113586726407,132,Ambulance 5 1
-Creation,336.0,133,Source A1
-Ambulance accepts patient,353.5036086419798,133,Ambulance 4 1
-Arrival at patient,365.44113412153666,133,Ambulance 4 1
-Waiting time,29.441134121536663,133,Ambulance 4 1
-Production complete,378.3822628742641,133,Ambulance 4 1
-Creation,351.0,134,Source A1
-Ambulance accepts patient,364.80871992247614,134,Ambulance 7 1
-Arrival at patient,372.8815542771404,134,Ambulance 7 1
-Waiting time,21.881554277140424,134,Ambulance 7 1
-Production complete,382.3230716214505,134,Ambulance 7 1
-Creation,344.0,135,Source A1
-Ambulance accepts patient,364.0901030670508,135,Ambulance 6 1
-Arrival at patient,373.3328386797637,135,Ambulance 6 1
-Waiting time,29.33283867976371,135,Ambulance 6 1
-Production complete,383.5115839715374,135,Ambulance 6 1
-Creation,342.0,136,Source A1
-Ambulance accepts patient,361.36197297424286,136,Ambulance 2 1
-Arrival at patient,373.464145117513,136,Ambulance 2 1
-Waiting time,31.464145117513,136,Ambulance 2 1
-Production complete,386.5733304895891,136,Ambulance 2 1
-Creation,350.0,137,Source A1
-Ambulance accepts patient,364.7303823593857,137,Ambulance 1 1
-Arrival at patient,374.9559501614674,137,Ambulance 1 1
-Waiting time,24.9559501614674,137,Ambulance 1 1
-Production complete,386.77138651140166,137,Ambulance 1 1
-Creation,356.0,138,Source A1
-Ambulance accepts patient,377.61113586726407,138,Ambulance 5 1
-Arrival at patient,388.88855837062675,138,Ambulance 5 1
-Waiting time,32.888558370626754,138,Ambulance 5 1
-Production complete,400.66010569193185,138,Ambulance 5 1
-Creation,357.0,139,Source A1
-Ambulance accepts patient,378.3822628742641,139,Ambulance 4 1
-Arrival at patient,388.5024575637158,139,Ambulance 4 1
-Waiting time,31.50245756371578,139,Ambulance 4 1
-Production complete,401.3659937047872,139,Ambulance 4 1
-Creation,353.0,140,Source A1
-Ambulance accepts patient,374.41688700747085,140,Ambulance 3 1
-Arrival at patient,387.68527016466425,140,Ambulance 3 1
-Waiting time,34.685270164664246,140,Ambulance 3 1
-Production complete,401.6708202124738,140,Ambulance 3 1
-Creation,359.0,141,Source A1
-Ambulance accepts patient,382.3230716214505,141,Ambulance 7 1
-Arrival at patient,393.35111833360696,141,Ambulance 7 1
-Waiting time,34.35111833360696,141,Ambulance 7 1
-Production complete,404.8764805503472,141,Ambulance 7 1
-Creation,373.0,142,Source A1
-Ambulance accepts patient,386.77138651140166,142,Ambulance 1 1
-Arrival at patient,397.55726453272655,142,Ambulance 1 1
-Waiting time,24.55726453272655,142,Ambulance 1 1
-Production complete,408.83193348074605,142,Ambulance 1 1
-Creation,366.0,143,Source A1
-Ambulance accepts patient,386.5733304895891,143,Ambulance 2 1
-Arrival at patient,397.06671415943714,143,Ambulance 2 1
-Waiting time,31.06671415943714,143,Ambulance 2 1
-Production complete,409.30650243136483,143,Ambulance 2 1
-Creation,361.0,144,Source A1
-Ambulance accepts patient,383.5115839715374,144,Ambulance 6 1
-Arrival at patient,397.4921182375979,144,Ambulance 6 1
-Waiting time,36.49211823759788,144,Ambulance 6 1
-Production complete,411.717059286568,144,Ambulance 6 1
-Creation,390.0,145,Source A1
-Ambulance accepts patient,401.3659937047872,145,Ambulance 4 1
-Arrival at patient,409.8327792893896,145,Ambulance 4 1
-Waiting time,19.832779289389578,145,Ambulance 4 1
-Production complete,418.85278765569024,145,Ambulance 4 1
-Creation,400.0,146,Source A1
-Ambulance accepts patient,404.8764805503472,146,Ambulance 7 1
-Arrival at patient,411.66365568848045,146,Ambulance 7 1
-Waiting time,11.663655688480446,146,Ambulance 7 1
-Production complete,419.60595661841234,146,Ambulance 7 1
-Creation,382.0,147,Source A1
-Ambulance accepts patient,400.66010569193185,147,Ambulance 5 1
-Arrival at patient,411.8371313858176,147,Ambulance 5 1
-Waiting time,29.8371313858176,147,Ambulance 5 1
-Production complete,424.1039538547081,147,Ambulance 5 1
-Creation,396.0,148,Source A1
-Ambulance accepts patient,401.6708202124738,148,Ambulance 3 1
-Arrival at patient,414.1320810911508,148,Ambulance 3 1
-Waiting time,18.13208109115078,148,Ambulance 3 1
-Production complete,427.0732003620053,148,Ambulance 3 1
-Creation,406.0,149,Source A1
-Ambulance accepts patient,408.83193348074605,149,Ambulance 1 1
-Arrival at patient,419.48515997835113,149,Ambulance 1 1
-Waiting time,13.485159978351135,149,Ambulance 1 1
-Production complete,431.51864902994924,149,Ambulance 1 1
-Creation,409.0,150,Source A1
-Ambulance accepts patient,409.30650243136483,150,Ambulance 2 1
-Arrival at patient,422.0603571399083,150,Ambulance 2 1
-Waiting time,13.06035713990832,150,Ambulance 2 1
-Production complete,435.2903472462523,150,Ambulance 2 1
-Creation,48.0,151,Source A2
-Ambulance accepts patient,411.717059286568,151,Ambulance 6 1
-Arrival at patient,423.0431075215988,151,Ambulance 6 1
-Waiting time,375.0431075215988,151,Ambulance 6 1
-Production complete,435.39794441464323,151,Ambulance 6 1
-Creation,419.0,152,Source A1
-Ambulance accepts patient,419.60595661841234,152,Ambulance 7 1
-Arrival at patient,431.21885693176336,152,Ambulance 7 1
-Waiting time,12.218856931763355,152,Ambulance 7 1
-Production complete,443.3903836449274,152,Ambulance 7 1
-Creation,422.0,153,Source A1
-Ambulance accepts patient,427.0732003620053,153,Ambulance 3 1
-Arrival at patient,435.88082155376793,153,Ambulance 3 1
-Waiting time,13.88082155376793,153,Ambulance 3 1
-Production complete,444.9434606686316,153,Ambulance 3 1
-Creation,413.0,154,Source A1
-Ambulance accepts patient,418.85278765569024,154,Ambulance 4 1
-Arrival at patient,432.71927149627027,154,Ambulance 4 1
-Waiting time,19.719271496270267,154,Ambulance 4 1
-Production complete,447.4790699641025,154,Ambulance 4 1
-Creation,421.0,155,Source A1
-Ambulance accepts patient,424.1039538547081,155,Ambulance 5 1
-Arrival at patient,435.9802173100138,155,Ambulance 5 1
-Waiting time,14.980217310013813,155,Ambulance 5 1
-Production complete,448.8468875934825,155,Ambulance 5 1
-Creation,425.0,156,Source A1
-Ambulance accepts patient,435.2903472462523,156,Ambulance 2 1
-Arrival at patient,444.30518078580803,156,Ambulance 2 1
-Waiting time,19.305180785808034,156,Ambulance 2 1
-Production complete,453.71691287445026,156,Ambulance 2 1
-Creation,424.0,157,Source A1
-Ambulance accepts patient,431.51864902994924,157,Ambulance 1 1
-Arrival at patient,442.5768036395941,157,Ambulance 1 1
-Waiting time,18.576803639594118,157,Ambulance 1 1
-Production complete,454.2738152689137,157,Ambulance 1 1
-Creation,435.0,158,Source A1
-Ambulance accepts patient,453.71691287445026,158,Ambulance 2 1
-Arrival at patient,455.4871407931207,158,Ambulance 2 1
-Waiting time,20.487140793120716,158,Ambulance 2 1
-Production complete,457.9856795889461,158,Ambulance 2 1
-Creation,426.0,159,Source A1
-Ambulance accepts patient,435.39794441464323,159,Ambulance 6 1
-Arrival at patient,446.4890610471299,159,Ambulance 6 1
-Waiting time,20.489061047129894,159,Ambulance 6 1
-Production complete,459.18495046120603,159,Ambulance 6 1
-Creation,442.0,160,Source A1
-Ambulance accepts patient,457.9856795889461,160,Ambulance 2 1
-Arrival at patient,460.59768364795156,160,Ambulance 2 1
-Waiting time,18.597683647951555,160,Ambulance 2 1
-Production complete,463.33668466819546,160,Ambulance 2 1
-Creation,430.0,161,Source A1
-Ambulance accepts patient,444.9434606686316,161,Ambulance 3 1
-Arrival at patient,454.91301412117156,161,Ambulance 3 1
-Waiting time,24.913014121171557,161,Ambulance 3 1
-Production complete,465.34338621730495,161,Ambulance 3 1
-Creation,429.0,162,Source A1
-Ambulance accepts patient,443.3903836449274,162,Ambulance 7 1
-Arrival at patient,454.3736462821684,162,Ambulance 7 1
-Waiting time,25.37364628216841,162,Ambulance 7 1
-Production complete,466.1168296544996,162,Ambulance 7 1
-Creation,432.0,163,Source A1
-Ambulance accepts patient,447.4790699641025,163,Ambulance 4 1
-Arrival at patient,456.92958634008016,163,Ambulance 4 1
-Waiting time,24.929586340080164,163,Ambulance 4 1
-Production complete,467.2092787559891,163,Ambulance 4 1
-Creation,443.0,164,Source A1
-Ambulance accepts patient,459.18495046120603,164,Ambulance 6 1
-Arrival at patient,465.5127486496578,164,Ambulance 6 1
-Waiting time,22.512748649657794,164,Ambulance 6 1
-Production complete,472.7696900040692,164,Ambulance 6 1
-Creation,433.0,165,Source A1
-Ambulance accepts patient,448.8468875934825,165,Ambulance 5 1
-Arrival at patient,460.20878122424983,165,Ambulance 5 1
-Waiting time,27.208781224249833,165,Ambulance 5 1
-Production complete,473.23785698057765,165,Ambulance 5 1
-Creation,438.0,166,Source A1
-Ambulance accepts patient,454.2738152689137,166,Ambulance 1 1
-Arrival at patient,463.81582775634615,166,Ambulance 1 1
-Waiting time,25.815827756346152,166,Ambulance 1 1
-Production complete,474.61119163312105,166,Ambulance 1 1
-Creation,445.0,167,Source A1
-Ambulance accepts patient,463.33668466819546,167,Ambulance 2 1
-Arrival at patient,472.70807211191357,167,Ambulance 2 1
-Waiting time,27.708072111913566,167,Ambulance 2 1
-Production complete,483.76556913832644,167,Ambulance 2 1
-Creation,450.0,168,Source A1
-Ambulance accepts patient,467.2092787559891,168,Ambulance 4 1
-Arrival at patient,477.8991917826056,168,Ambulance 4 1
-Waiting time,27.899191782605612,168,Ambulance 4 1
-Production complete,489.1833576054198,168,Ambulance 4 1
-Creation,447.0,169,Source A1
-Ambulance accepts patient,465.34338621730495,169,Ambulance 3 1
-Arrival at patient,478.24579252202767,169,Ambulance 3 1
-Waiting time,31.24579252202767,169,Ambulance 3 1
-Production complete,492.40557655506603,169,Ambulance 3 1
-Creation,449.0,170,Source A1
-Ambulance accepts patient,466.1168296544996,170,Ambulance 7 1
-Arrival at patient,478.1393599232195,170,Ambulance 7 1
-Waiting time,29.1393599232195,170,Ambulance 7 1
-Production complete,492.4911862101247,170,Ambulance 7 1
-Creation,453.0,171,Source A1
-Ambulance accepts patient,473.23785698057765,171,Ambulance 5 1
-Arrival at patient,484.24869085066365,171,Ambulance 5 1
-Waiting time,31.24869085066365,171,Ambulance 5 1
-Production complete,495.90773765652165,171,Ambulance 5 1
-Creation,452.0,172,Source A1
-Ambulance accepts patient,472.7696900040692,172,Ambulance 6 1
-Arrival at patient,485.0014567010225,172,Ambulance 6 1
-Waiting time,33.001456701022505,172,Ambulance 6 1
-Production complete,497.88324932593525,172,Ambulance 6 1
-Creation,456.0,173,Source A1
-Ambulance accepts patient,474.61119163312105,173,Ambulance 1 1
-Arrival at patient,485.50198712566356,173,Ambulance 1 1
-Waiting time,29.50198712566356,173,Ambulance 1 1
-Production complete,497.96040245205137,173,Ambulance 1 1
-Creation,463.0,174,Source A1
-Ambulance accepts patient,492.4911862101247,174,Ambulance 7 1
-Arrival at patient,495.5132541028922,174,Ambulance 7 1
-Waiting time,32.513254102892176,174,Ambulance 7 1
-Production complete,499.3532779785289,174,Ambulance 7 1
-Creation,464.0,175,Source A1
-Ambulance accepts patient,495.90773765652165,175,Ambulance 5 1
-Arrival at patient,498.2706200631244,175,Ambulance 5 1
-Waiting time,34.2706200631244,175,Ambulance 5 1
-Production complete,502.0649920079363,175,Ambulance 5 1
-Creation,465.0,176,Source A1
-Ambulance accepts patient,497.88324932593525,176,Ambulance 6 1
-Arrival at patient,499.5461312358496,176,Ambulance 6 1
-Waiting time,34.5461312358496,176,Ambulance 6 1
-Production complete,502.78397709363367,176,Ambulance 6 1
-Creation,458.0,177,Source A1
-Ambulance accepts patient,483.76556913832644,177,Ambulance 2 1
-Arrival at patient,495.7493190776653,177,Ambulance 2 1
-Waiting time,37.74931907766529,177,Ambulance 2 1
-Production complete,509.3072326069394,177,Ambulance 2 1
-Creation,462.0,178,Source A1
-Ambulance accepts patient,492.40557655506603,178,Ambulance 3 1
-Arrival at patient,501.79729463023295,178,Ambulance 3 1
-Waiting time,39.797294630232955,178,Ambulance 3 1
-Production complete,512.7846465513198,178,Ambulance 3 1
-Creation,460.0,179,Source A1
-Ambulance accepts patient,489.1833576054198,179,Ambulance 4 1
-Arrival at patient,500.5276632816369,179,Ambulance 4 1
-Waiting time,40.527663281636876,179,Ambulance 4 1
-Production complete,513.0851413290577,179,Ambulance 4 1
-Creation,480.0,180,Source A1
-Ambulance accepts patient,512.7846465513198,180,Ambulance 3 1
-Arrival at patient,513.0433600153499,180,Ambulance 3 1
-Waiting time,33.04336001534989,180,Ambulance 3 1
-Production complete,514.3274820553424,180,Ambulance 3 1
-Creation,467.0,181,Source A1
-Ambulance accepts patient,497.96040245205137,181,Ambulance 1 1
-Arrival at patient,506.8641275645437,181,Ambulance 1 1
-Waiting time,39.86412756454371,181,Ambulance 1 1
-Production complete,516.5228251070912,181,Ambulance 1 1
-Creation,474.0,182,Source A1
-Ambulance accepts patient,502.0649920079363,182,Ambulance 5 1
-Arrival at patient,511.96395239439767,182,Ambulance 5 1
-Waiting time,37.963952394397666,182,Ambulance 5 1
-Production complete,522.8241912665295,182,Ambulance 5 1
-Creation,471.0,183,Source A1
-Ambulance accepts patient,499.3532779785289,183,Ambulance 7 1
-Arrival at patient,510.82242748971083,183,Ambulance 7 1
-Waiting time,39.82242748971083,183,Ambulance 7 1
-Production complete,524.0269912715418,183,Ambulance 7 1
-Creation,475.0,184,Source A1
-Ambulance accepts patient,502.78397709363367,184,Ambulance 6 1
-Arrival at patient,514.9205809866355,184,Ambulance 6 1
-Waiting time,39.920580986635514,184,Ambulance 6 1
-Production complete,527.475198103257,184,Ambulance 6 1
-Creation,486.0,185,Source A1
-Ambulance accepts patient,513.0851413290577,185,Ambulance 4 1
-Arrival at patient,520.98701661684,185,Ambulance 4 1
-Waiting time,34.98701661684004,185,Ambulance 4 1
-Production complete,529.0644668643406,185,Ambulance 4 1
-Creation,507.0,186,Source A1
-Ambulance accepts patient,524.0269912715418,186,Ambulance 7 1
-Arrival at patient,527.0842472737219,186,Ambulance 7 1
-Waiting time,20.08424727372187,186,Ambulance 7 1
-Production complete,530.2967092331802,186,Ambulance 7 1
-Creation,490.0,187,Source A1
-Ambulance accepts patient,514.3274820553424,187,Ambulance 3 1
-Arrival at patient,522.0620368755849,187,Ambulance 3 1
-Waiting time,32.06203687558491,187,Ambulance 3 1
-Production complete,531.41675277716,187,Ambulance 3 1
-Creation,477.0,188,Source A1
-Ambulance accepts patient,509.3072326069394,188,Ambulance 2 1
-Arrival at patient,522.5028527877715,188,Ambulance 2 1
-Waiting time,45.50285278777153,188,Ambulance 2 1
-Production complete,537.2625911582269,188,Ambulance 2 1
-Creation,496.0,189,Source A1
-Ambulance accepts patient,516.5228251070912,189,Ambulance 1 1
-Arrival at patient,527.5832827453795,189,Ambulance 1 1
-Waiting time,31.583282745379506,189,Ambulance 1 1
-Production complete,538.9172832396814,189,Ambulance 1 1
-Creation,511.0,190,Source A1
-Ambulance accepts patient,527.475198103257,190,Ambulance 6 1
-Arrival at patient,537.5108973558284,190,Ambulance 6 1
-Waiting time,26.510897355828433,190,Ambulance 6 1
-Production complete,547.707904812857,190,Ambulance 6 1
-Creation,519.0,191,Source A1
-Ambulance accepts patient,530.2967092331802,191,Ambulance 7 1
-Arrival at patient,539.13857956946,191,Ambulance 7 1
-Waiting time,20.138579569460035,191,Ambulance 7 1
-Production complete,548.9480154642446,191,Ambulance 7 1
-Creation,500.0,192,Source A1
-Ambulance accepts patient,522.8241912665295,192,Ambulance 5 1
-Arrival at patient,535.8820112447199,192,Ambulance 5 1
-Waiting time,35.88201124471993,192,Ambulance 5 1
-Production complete,550.4444276488013,192,Ambulance 5 1
-Creation,525.0,193,Source A1
-Ambulance accepts patient,531.41675277716,193,Ambulance 3 1
-Arrival at patient,540.9583495840806,193,Ambulance 3 1
-Waiting time,15.958349584080565,193,Ambulance 3 1
-Production complete,550.8772857384909,193,Ambulance 3 1
-Creation,540.0,194,Source A1
-Ambulance accepts patient,547.707904812857,194,Ambulance 6 1
-Arrival at patient,550.5942596248656,194,Ambulance 6 1
-Waiting time,10.594259624865572,194,Ambulance 6 1
-Production complete,553.7646608756384,194,Ambulance 6 1
-Creation,518.0,195,Source A1
-Ambulance accepts patient,529.0644668643406,195,Ambulance 4 1
-Arrival at patient,541.7504927509456,195,Ambulance 4 1
-Waiting time,23.75049275094557,195,Ambulance 4 1
-Production complete,554.8245401181372,195,Ambulance 4 1
-Creation,535.0,196,Source A1
-Ambulance accepts patient,538.9172832396814,196,Ambulance 1 1
-Arrival at patient,547.2176004684944,196,Ambulance 1 1
-Waiting time,12.217600468494425,196,Ambulance 1 1
-Production complete,556.7785517376195,196,Ambulance 1 1
-Creation,554.0,197,Source A1
-Ambulance accepts patient,554.8245401181372,197,Ambulance 4 1
-Arrival at patient,556.6664263043409,197,Ambulance 4 1
-Waiting time,2.6664263043409164,197,Ambulance 4 1
-Production complete,559.2242081468131,197,Ambulance 4 1
-Creation,532.0,198,Source A1
-Ambulance accepts patient,537.2625911582269,198,Ambulance 2 1
-Arrival at patient,548.834652027949,198,Ambulance 2 1
-Waiting time,16.834652027949005,198,Ambulance 2 1
-Production complete,561.8195593703169,198,Ambulance 2 1
-Creation,51.0,199,Source A2
-Ambulance accepts patient,550.8772857384909,199,Ambulance 3 1
-Arrival at patient,560.1449444968538,199,Ambulance 3 1
-Waiting time,509.1449444968538,199,Ambulance 3 1
-Production complete,570.0500298946647,199,Ambulance 3 1
-Creation,546.0,200,Source A1
-Ambulance accepts patient,550.4444276488013,200,Ambulance 5 1
-Arrival at patient,559.8662144247544,200,Ambulance 5 1
-Waiting time,13.86621442475439,200,Ambulance 5 1
-Production complete,570.4875255838936,200,Ambulance 5 1
-Creation,552.0,201,Source A1
-Ambulance accepts patient,553.7646608756384,201,Ambulance 6 1
-Arrival at patient,563.5459712004258,201,Ambulance 6 1
-Waiting time,11.54597120042581,201,Ambulance 6 1
-Production complete,573.7233303913745,201,Ambulance 6 1
-Creation,556.0,202,Source A1
-Ambulance accepts patient,556.7785517376195,202,Ambulance 1 1
-Arrival at patient,565.8896792586511,202,Ambulance 1 1
-Waiting time,9.889679258651086,202,Ambulance 1 1
-Production complete,577.2298490133219,202,Ambulance 1 1
-Creation,567.0,203,Source A1
-Ambulance accepts patient,573.7233303913745,203,Ambulance 6 1
-Arrival at patient,575.6345362242037,203,Ambulance 6 1
-Waiting time,8.634536224203657,203,Ambulance 6 1
-Production complete,578.0271497130807,203,Ambulance 6 1
-Creation,544.0,204,Source A1
-Ambulance accepts patient,548.9480154642446,204,Ambulance 7 1
-Arrival at patient,562.7396525201542,204,Ambulance 7 1
-Waiting time,18.73965252015421,204,Ambulance 7 1
-Production complete,578.1652366736424,204,Ambulance 7 1
-Creation,572.0,205,Source A1
-Ambulance accepts patient,578.0271497130807,205,Ambulance 6 1
-Arrival at patient,579.6296803909297,205,Ambulance 6 1
-Waiting time,7.629680390929707,205,Ambulance 6 1
-Production complete,582.0734023776079,205,Ambulance 6 1
-Creation,560.0,206,Source A1
-Ambulance accepts patient,561.8195593703169,206,Ambulance 2 1
-Arrival at patient,572.3542932626568,206,Ambulance 2 1
-Waiting time,12.354293262656824,206,Ambulance 2 1
-Production complete,583.656996021734,206,Ambulance 2 1
-Creation,53.0,207,Source A2
-Ambulance accepts patient,559.2242081468131,207,Ambulance 4 1
-Arrival at patient,570.4841495707865,207,Ambulance 4 1
-Waiting time,517.4841495707865,207,Ambulance 4 1
-Production complete,583.8062399753192,207,Ambulance 4 1
-Creation,561.0,208,Source A1
-Ambulance accepts patient,570.0500298946647,208,Ambulance 3 1
-Arrival at patient,578.9655231474569,208,Ambulance 3 1
-Waiting time,17.965523147456906,208,Ambulance 3 1
-Production complete,589.7798570743452,208,Ambulance 3 1
-Creation,563.0,209,Source A1
-Ambulance accepts patient,570.4875255838936,209,Ambulance 5 1
-Arrival at patient,580.7663815530005,209,Ambulance 5 1
-Waiting time,17.766381553000542,209,Ambulance 5 1
-Production complete,591.1654981878231,209,Ambulance 5 1
-Creation,585.0,210,Source A1
-Ambulance accepts patient,589.7798570743452,210,Ambulance 3 1
-Arrival at patient,591.0913456939968,210,Ambulance 3 1
-Waiting time,6.0913456939968,210,Ambulance 3 1
-Production complete,593.4288534102834,210,Ambulance 3 1
-Creation,575.0,211,Source A1
-Ambulance accepts patient,578.1652366736424,211,Ambulance 7 1
-Arrival at patient,586.173621758728,211,Ambulance 7 1
-Waiting time,11.173621758728018,211,Ambulance 7 1
-Production complete,594.4806907612758,211,Ambulance 7 1
-Creation,569.0,212,Source A1
-Ambulance accepts patient,577.2298490133219,212,Ambulance 1 1
-Arrival at patient,586.935522661708,212,Ambulance 1 1
-Waiting time,17.935522661707978,212,Ambulance 1 1
-Production complete,597.3838409742069,212,Ambulance 1 1
-Creation,587.0,213,Source A1
-Ambulance accepts patient,591.1654981878231,213,Ambulance 5 1
-Arrival at patient,594.1425138280222,213,Ambulance 5 1
-Waiting time,7.1425138280221745,213,Ambulance 5 1
-Production complete,598.0100641219801,213,Ambulance 5 1
-Creation,581.0,214,Source A1
-Ambulance accepts patient,582.0734023776079,214,Ambulance 6 1
-Arrival at patient,591.5028795422315,214,Ambulance 6 1
-Waiting time,10.50287954223154,214,Ambulance 6 1
-Production complete,601.0215963304422,214,Ambulance 6 1
-Creation,56.0,215,Source A2
-Ambulance accepts patient,583.8062399753192,215,Ambulance 4 1
-Arrival at patient,594.1462443872747,215,Ambulance 4 1
-Waiting time,538.1462443872747,215,Ambulance 4 1
-Production complete,605.5450174349903,215,Ambulance 4 1
-Creation,54.0,216,Source A2
-Ambulance accepts patient,583.656996021734,216,Ambulance 2 1
-Arrival at patient,597.6236642311354,216,Ambulance 2 1
-Waiting time,543.6236642311354,216,Ambulance 2 1
-Production complete,612.15026049447,216,Ambulance 2 1
-Creation,589.0,217,Source A1
-Ambulance accepts patient,593.4288534102834,217,Ambulance 3 1
-Arrival at patient,603.2123757544238,217,Ambulance 3 1
-Waiting time,14.21237575442376,217,Ambulance 3 1
-Production complete,613.6373367696045,217,Ambulance 3 1
-Creation,592.0,218,Source A1
-Ambulance accepts patient,594.4806907612758,218,Ambulance 7 1
-Arrival at patient,604.5898384914688,218,Ambulance 7 1
-Waiting time,12.589838491468754,218,Ambulance 7 1
-Production complete,616.39658762909,218,Ambulance 7 1
-Creation,597.0,219,Source A1
-Ambulance accepts patient,598.0100641219801,219,Ambulance 5 1
-Arrival at patient,608.6919220885765,219,Ambulance 5 1
-Waiting time,11.691922088576462,219,Ambulance 5 1
-Production complete,620.4598027812971,219,Ambulance 5 1
-Creation,59.0,220,Source A2
-Ambulance accepts patient,601.0215963304422,220,Ambulance 6 1
-Arrival at patient,612.9319578300846,220,Ambulance 6 1
-Waiting time,553.9319578300846,220,Ambulance 6 1
-Production complete,625.1446227532209,220,Ambulance 6 1
-Creation,593.0,221,Source A1
-Ambulance accepts patient,597.3838409742069,221,Ambulance 1 1
-Arrival at patient,610.9386277605711,221,Ambulance 1 1
-Waiting time,17.93862776057108,221,Ambulance 1 1
-Production complete,625.914120288864,221,Ambulance 1 1
-Creation,603.0,222,Source A1
-Ambulance accepts patient,605.5450174349903,222,Ambulance 4 1
-Arrival at patient,618.5934866673882,222,Ambulance 4 1
-Waiting time,15.59348666738822,222,Ambulance 4 1
-Production complete,632.9052269431138,222,Ambulance 4 1
-Creation,608.0,223,Source A1
-Ambulance accepts patient,612.15026049447,223,Ambulance 2 1
-Arrival at patient,621.9511822502766,223,Ambulance 2 1
-Waiting time,13.951182250276588,223,Ambulance 2 1
-Production complete,633.0311861454802,223,Ambulance 2 1
-Creation,609.0,224,Source A1
-Ambulance accepts patient,613.6373367696045,224,Ambulance 3 1
-Arrival at patient,624.9921879222694,224,Ambulance 3 1
-Waiting time,15.992187922269409,224,Ambulance 3 1
-Production complete,637.7884835433778,224,Ambulance 3 1
-Creation,634.0,225,Source A1
-Ambulance accepts patient,637.7884835433778,225,Ambulance 3 1
-Arrival at patient,640.4296511966563,225,Ambulance 3 1
-Waiting time,6.429651196656323,225,Ambulance 3 1
-Production complete,643.7128470131203,225,Ambulance 3 1
-Creation,613.0,226,Source A1
-Ambulance accepts patient,616.39658762909,226,Ambulance 7 1
-Arrival at patient,630.7164796468022,226,Ambulance 7 1
-Waiting time,17.716479646802213,226,Ambulance 7 1
-Production complete,646.1813601730186,226,Ambulance 7 1
-Creation,618.0,227,Source A1
-Ambulance accepts patient,625.1446227532209,227,Ambulance 6 1
-Arrival at patient,635.6028885755335,227,Ambulance 6 1
-Waiting time,17.602888575533484,227,Ambulance 6 1
-Production complete,646.7921648385579,227,Ambulance 6 1
-Creation,616.0,228,Source A1
-Ambulance accepts patient,620.4598027812971,228,Ambulance 5 1
-Arrival at patient,635.1781462439108,228,Ambulance 5 1
-Waiting time,19.17814624391076,228,Ambulance 5 1
-Production complete,650.7198911558503,228,Ambulance 5 1
-Creation,622.0,229,Source A1
-Ambulance accepts patient,625.914120288864,229,Ambulance 1 1
-Arrival at patient,638.7990750288856,229,Ambulance 1 1
-Waiting time,16.799075028885568,229,Ambulance 1 1
-Production complete,651.8532462821507,229,Ambulance 1 1
-Creation,628.0,230,Source A1
-Ambulance accepts patient,632.9052269431138,230,Ambulance 4 1
-Arrival at patient,643.7104000905165,230,Ambulance 4 1
-Waiting time,15.710400090516487,230,Ambulance 4 1
-Production complete,655.4611143518491,230,Ambulance 4 1
-Creation,60.0,231,Source A2
-Ambulance accepts patient,633.0311861454802,231,Ambulance 2 1
-Arrival at patient,644.6928387818394,231,Ambulance 2 1
-Waiting time,584.6928387818394,231,Ambulance 2 1
-Production complete,657.790181743747,231,Ambulance 2 1
-Creation,644.0,232,Source A1
-Ambulance accepts patient,646.7921648385579,232,Ambulance 6 1
-Arrival at patient,654.2332915468934,232,Ambulance 6 1
-Waiting time,10.233291546893383,232,Ambulance 6 1
-Production complete,662.4002268892323,232,Ambulance 6 1
-Creation,62.0,233,Source A2
-Ambulance accepts patient,657.790181743747,233,Ambulance 2 1
-Arrival at patient,660.2561118140376,233,Ambulance 2 1
-Waiting time,598.2561118140376,233,Ambulance 2 1
-Production complete,663.9939813418117,233,Ambulance 2 1
-Creation,638.0,234,Source A1
-Ambulance accepts patient,643.7128470131203,234,Ambulance 3 1
-Arrival at patient,654.509528208072,234,Ambulance 3 1
-Waiting time,16.50952820807197,234,Ambulance 3 1
-Production complete,665.5264743900834,234,Ambulance 3 1
-Creation,641.0,235,Source A1
-Ambulance accepts patient,646.1813601730186,235,Ambulance 7 1
-Arrival at patient,655.0769319004119,235,Ambulance 7 1
-Waiting time,14.076931900411864,235,Ambulance 7 1
-Production complete,665.7346421453096,235,Ambulance 7 1
-Creation,660.0,236,Source A1
-Ambulance accepts patient,663.9939813418117,236,Ambulance 2 1
-Arrival at patient,667.0082227673931,236,Ambulance 2 1
-Waiting time,7.008222767393136,236,Ambulance 2 1
-Production complete,671.0942973444907,236,Ambulance 2 1
-Creation,647.0,237,Source A1
-Ambulance accepts patient,650.7198911558503,237,Ambulance 5 1
-Arrival at patient,661.2381656389468,237,Ambulance 5 1
-Waiting time,14.238165638946839,237,Ambulance 5 1
-Production complete,672.6557126021096,237,Ambulance 5 1
-Creation,655.0,238,Source A1
-Ambulance accepts patient,655.4611143518491,238,Ambulance 4 1
-Arrival at patient,664.2560553717497,238,Ambulance 4 1
-Waiting time,9.256055371749653,238,Ambulance 4 1
-Production complete,674.2253133345116,238,Ambulance 4 1
-Creation,650.0,239,Source A1
-Ambulance accepts patient,651.8532462821507,239,Ambulance 1 1
-Arrival at patient,662.7409252777051,239,Ambulance 1 1
-Waiting time,12.74092527770506,239,Ambulance 1 1
-Production complete,675.0735238103396,239,Ambulance 1 1
-Creation,658.0,240,Source A1
-Ambulance accepts patient,662.4002268892323,240,Ambulance 6 1
-Arrival at patient,669.6649309323001,240,Ambulance 6 1
-Waiting time,11.66493093230008,240,Ambulance 6 1
-Production complete,677.706615500415,240,Ambulance 6 1
-Creation,676.0,241,Source A1
-Ambulance accepts patient,677.706615500415,241,Ambulance 6 1
-Arrival at patient,679.9402774533772,241,Ambulance 6 1
-Waiting time,3.9402774533772345,241,Ambulance 6 1
-Production complete,682.9743277685708,241,Ambulance 6 1
-Creation,74.0,242,Source A2
-Ambulance accepts patient,671.0942973444907,242,Ambulance 2 1
-Arrival at patient,679.7606542605382,242,Ambulance 2 1
-Waiting time,605.7606542605382,242,Ambulance 2 1
-Production complete,688.7418582945327,242,Ambulance 2 1
-Creation,664.0,243,Source A1
-Ambulance accepts patient,665.5264743900834,243,Ambulance 3 1
-Arrival at patient,677.0557950235965,243,Ambulance 3 1
-Waiting time,13.055795023596488,243,Ambulance 3 1
-Production complete,689.4340702884989,243,Ambulance 3 1
-Creation,79.0,244,Source A2
-Ambulance accepts patient,672.6557126021096,244,Ambulance 5 1
-Arrival at patient,682.5460988778818,244,Ambulance 5 1
-Waiting time,603.5460988778818,244,Ambulance 5 1
-Production complete,692.7902097372529,244,Ambulance 5 1
-Creation,68.0,245,Source A2
-Ambulance accepts patient,665.7346421453096,245,Ambulance 7 1
-Arrival at patient,680.3740661652462,245,Ambulance 7 1
-Waiting time,612.3740661652462,245,Ambulance 7 1
-Production complete,695.2728268340959,245,Ambulance 7 1
-Creation,91.0,246,Source A2
-Ambulance accepts patient,675.0735238103396,246,Ambulance 1 1
-Arrival at patient,685.2758262881399,246,Ambulance 1 1
-Waiting time,594.2758262881399,246,Ambulance 1 1
-Production complete,696.4149207839279,246,Ambulance 1 1
-Creation,694.0,247,Source A1
-Ambulance accepts patient,695.2728268340959,247,Ambulance 7 1
-Arrival at patient,696.5374327891445,247,Ambulance 7 1
-Waiting time,2.537432789144532,247,Ambulance 7 1
-Production complete,698.7444188955841,247,Ambulance 7 1
-Creation,86.0,248,Source A2
-Ambulance accepts patient,674.2253133345116,248,Ambulance 4 1
-Arrival at patient,686.2207542234476,248,Ambulance 4 1
-Waiting time,600.2207542234476,248,Ambulance 4 1
-Production complete,698.8186062867721,248,Ambulance 4 1
-Creation,100.0,249,Source A2
-Ambulance accepts patient,682.9743277685708,249,Ambulance 6 1
-Arrival at patient,695.5997441634374,249,Ambulance 6 1
-Waiting time,595.5997441634374,249,Ambulance 6 1
-Production complete,708.4337945247914,249,Ambulance 6 1
-Creation,690.0,250,Source A1
-Ambulance accepts patient,692.7902097372529,250,Ambulance 5 1
-Arrival at patient,701.7551170111673,250,Ambulance 5 1
-Waiting time,11.755117011167272,250,Ambulance 5 1
-Production complete,710.8405443992548,250,Ambulance 5 1
-Creation,684.0,251,Source A1
-Ambulance accepts patient,688.7418582945327,251,Ambulance 2 1
-Arrival at patient,700.7745841473877,251,Ambulance 2 1
-Waiting time,16.774584147387714,251,Ambulance 2 1
-Production complete,713.3647003473797,251,Ambulance 2 1
-Creation,687.0,252,Source A1
-Ambulance accepts patient,689.4340702884989,252,Ambulance 3 1
-Arrival at patient,703.1795913164119,252,Ambulance 3 1
-Waiting time,16.179591316411916,252,Ambulance 3 1
-Production complete,718.2647126779931,252,Ambulance 3 1
-Creation,109.0,253,Source A2
-Ambulance accepts patient,696.4149207839279,253,Ambulance 1 1
-Arrival at patient,707.6970480256475,253,Ambulance 1 1
-Waiting time,598.6970480256475,253,Ambulance 1 1
-Production complete,719.3061261035376,253,Ambulance 1 1
-Creation,698.0,254,Source A1
-Ambulance accepts patient,698.7444188955841,254,Ambulance 7 1
-Arrival at patient,709.8328416401303,254,Ambulance 7 1
-Waiting time,11.832841640130255,254,Ambulance 7 1
-Production complete,722.2722527953727,254,Ambulance 7 1
-Creation,703.0,255,Source A1
-Ambulance accepts patient,708.4337945247914,255,Ambulance 6 1
-Arrival at patient,717.2592389124943,255,Ambulance 6 1
-Waiting time,14.259238912494311,255,Ambulance 6 1
-Production complete,727.3618883932431,255,Ambulance 6 1
-Creation,115.0,256,Source A2
-Ambulance accepts patient,698.8186062867721,256,Ambulance 4 1
-Arrival at patient,713.0347569950479,256,Ambulance 4 1
-Waiting time,598.0347569950479,256,Ambulance 4 1
-Production complete,728.1162481307512,256,Ambulance 4 1
-Creation,128.0,257,Source A2
-Ambulance accepts patient,713.3647003473797,257,Ambulance 2 1
-Arrival at patient,721.9275158652413,257,Ambulance 2 1
-Waiting time,593.9275158652413,257,Ambulance 2 1
-Production complete,732.4502185965416,257,Ambulance 2 1
-Creation,119.0,258,Source A2
-Ambulance accepts patient,710.8405443992548,258,Ambulance 5 1
-Arrival at patient,721.9733195388093,258,Ambulance 5 1
-Waiting time,602.9733195388093,258,Ambulance 5 1
-Production complete,734.375798221053,258,Ambulance 5 1
-Creation,715.0,259,Source A1
-Ambulance accepts patient,718.2647126779931,259,Ambulance 3 1
-Arrival at patient,732.1474237691277,259,Ambulance 3 1
-Waiting time,17.147423769127727,259,Ambulance 3 1
-Production complete,746.8822134711667,259,Ambulance 3 1
-Creation,130.0,260,Source A2
-Ambulance accepts patient,719.3061261035376,260,Ambulance 1 1
-Arrival at patient,733.3764602701963,260,Ambulance 1 1
-Waiting time,603.3764602701963,260,Ambulance 1 1
-Production complete,748.1897992367407,260,Ambulance 1 1
-Creation,722.0,261,Source A1
-Ambulance accepts patient,722.2722527953727,261,Ambulance 7 1
-Arrival at patient,735.8058267510428,261,Ambulance 7 1
-Waiting time,13.805826751042787,261,Ambulance 7 1
-Production complete,749.6904224214637,261,Ambulance 7 1
-Creation,728.0,262,Source A1
-Ambulance accepts patient,728.1162481307512,262,Ambulance 4 1
-Arrival at patient,740.1336700429052,262,Ambulance 4 1
-Waiting time,12.133670042905237,262,Ambulance 4 1
-Production complete,752.5279077090103,262,Ambulance 4 1
-Creation,735.0,263,Source A1
-Ambulance accepts patient,749.6904224214637,263,Ambulance 7 1
-Arrival at patient,751.1260016058309,263,Ambulance 7 1
-Waiting time,16.12600160583088,263,Ambulance 7 1
-Production complete,753.2098518958993,263,Ambulance 7 1
-Creation,729.0,264,Source A1
-Ambulance accepts patient,732.4502185965416,264,Ambulance 2 1
-Arrival at patient,742.3870478378303,264,Ambulance 2 1
-Waiting time,13.387047837830323,264,Ambulance 2 1
-Production complete,753.3526121572037,264,Ambulance 2 1
-Creation,733.0,265,Source A1
-Ambulance accepts patient,748.1897992367407,265,Ambulance 1 1
-Arrival at patient,750.7751444333577,265,Ambulance 1 1
-Waiting time,17.775144433357696,265,Ambulance 1 1
-Production complete,754.2734024193882,265,Ambulance 1 1
-Creation,730.0,266,Source A1
-Ambulance accepts patient,734.375798221053,266,Ambulance 5 1
-Arrival at patient,744.9693537963028,266,Ambulance 5 1
-Waiting time,14.969353796302812,266,Ambulance 5 1
-Production complete,756.08165881046,266,Ambulance 5 1
-Creation,723.0,267,Source A1
-Ambulance accepts patient,727.3618883932431,267,Ambulance 6 1
-Arrival at patient,742.2722310003179,267,Ambulance 6 1
-Waiting time,19.272231000317902,267,Ambulance 6 1
-Production complete,757.4405021294758,267,Ambulance 6 1
-Creation,745.0,268,Source A1
-Ambulance accepts patient,754.2734024193882,268,Ambulance 1 1
-Arrival at patient,756.1284054487487,268,Ambulance 1 1
-Waiting time,11.128405448748708,268,Ambulance 1 1
-Production complete,758.3873996029716,268,Ambulance 1 1
-Creation,731.0,269,Source A1
-Ambulance accepts patient,746.8822134711667,269,Ambulance 3 1
-Arrival at patient,758.8871295127626,269,Ambulance 3 1
-Waiting time,27.887129512762613,269,Ambulance 3 1
-Production complete,772.0803857873461,269,Ambulance 3 1
-Creation,741.0,270,Source A1
-Ambulance accepts patient,753.2098518958993,270,Ambulance 7 1
-Arrival at patient,762.9393976135995,270,Ambulance 7 1
-Waiting time,21.939397613599454,270,Ambulance 7 1
-Production complete,773.3799451806583,270,Ambulance 7 1
-Creation,751.0,271,Source A1
-Ambulance accepts patient,757.4405021294758,271,Ambulance 6 1
-Arrival at patient,767.1578425123499,271,Ambulance 6 1
-Waiting time,16.15784251234993,271,Ambulance 6 1
-Production complete,777.0380745455459,271,Ambulance 6 1
-Creation,749.0,272,Source A1
-Ambulance accepts patient,756.08165881046,272,Ambulance 5 1
-Arrival at patient,766.5693509316178,272,Ambulance 5 1
-Waiting time,17.569350931617805,272,Ambulance 5 1
-Production complete,777.8695788420482,272,Ambulance 5 1
-Creation,738.0,273,Source A1
-Ambulance accepts patient,752.5279077090103,273,Ambulance 4 1
-Arrival at patient,764.9274253337798,273,Ambulance 4 1
-Waiting time,26.927425333779752,273,Ambulance 4 1
-Production complete,779.0571771506989,273,Ambulance 4 1
-Creation,753.0,274,Source A1
-Ambulance accepts patient,758.3873996029716,274,Ambulance 1 1
-Arrival at patient,769.1118828104815,274,Ambulance 1 1
-Waiting time,16.11188281048146,274,Ambulance 1 1
-Production complete,780.5950309331303,274,Ambulance 1 1
-Creation,743.0,275,Source A1
-Ambulance accepts patient,753.3526121572037,275,Ambulance 2 1
-Arrival at patient,767.1870846054272,275,Ambulance 2 1
-Waiting time,24.18708460542723,275,Ambulance 2 1
-Production complete,781.2806250421763,275,Ambulance 2 1
-Creation,762.0,276,Source A1
-Ambulance accepts patient,773.3799451806583,276,Ambulance 7 1
-Arrival at patient,785.7594910304513,276,Ambulance 7 1
-Waiting time,23.759491030451272,276,Ambulance 7 1
-Production complete,798.4512535624316,276,Ambulance 7 1
-Creation,759.0,277,Source A1
-Ambulance accepts patient,772.0803857873461,277,Ambulance 3 1
-Arrival at patient,785.6203889250429,277,Ambulance 3 1
-Waiting time,26.620388925042903,277,Ambulance 3 1
-Production complete,799.9913326250459,277,Ambulance 3 1
-Creation,763.0,278,Source A1
-Ambulance accepts patient,777.0380745455459,278,Ambulance 6 1
-Arrival at patient,790.3488633100587,278,Ambulance 6 1
-Waiting time,27.348863310058732,278,Ambulance 6 1
-Production complete,804.0389139618758,278,Ambulance 6 1
-Creation,768.0,279,Source A1
-Ambulance accepts patient,780.5950309331303,279,Ambulance 1 1
-Arrival at patient,792.8968410259627,279,Ambulance 1 1
-Waiting time,24.896841025962658,279,Ambulance 1 1
-Production complete,806.0530737252997,279,Ambulance 1 1
-Creation,764.0,280,Source A1
-Ambulance accepts patient,777.8695788420482,280,Ambulance 5 1
-Arrival at patient,791.3465590794873,280,Ambulance 5 1
-Waiting time,27.346559079487292,280,Ambulance 5 1
-Production complete,806.9622142612908,280,Ambulance 5 1
-Creation,770.0,281,Source A1
-Ambulance accepts patient,781.2806250421763,281,Ambulance 2 1
-Arrival at patient,793.8484328382318,281,Ambulance 2 1
-Waiting time,23.848432838231815,281,Ambulance 2 1
-Production complete,807.5909883447537,281,Ambulance 2 1
-Creation,766.0,282,Source A1
-Ambulance accepts patient,779.0571771506989,282,Ambulance 4 1
-Arrival at patient,793.551014496744,282,Ambulance 4 1
-Waiting time,27.55101449674396,282,Ambulance 4 1
-Production complete,808.8590152416664,282,Ambulance 4 1
-Creation,771.0,283,Source A1
-Ambulance accepts patient,798.4512535624316,283,Ambulance 7 1
-Arrival at patient,805.993036943575,283,Ambulance 7 1
-Waiting time,34.99303694357502,283,Ambulance 7 1
-Production complete,814.9698030718149,283,Ambulance 7 1
-Creation,801.0,284,Source A1
-Ambulance accepts patient,814.9698030718149,284,Ambulance 7 1
-Arrival at patient,817.2610634286076,284,Ambulance 7 1
-Waiting time,16.2610634286076,284,Ambulance 7 1
-Production complete,821.8804000174664,284,Ambulance 7 1
-Creation,774.0,285,Source A1
-Ambulance accepts patient,799.9913326250459,285,Ambulance 3 1
-Arrival at patient,811.9556275935888,285,Ambulance 3 1
-Waiting time,37.955627593588815,285,Ambulance 3 1
-Production complete,825.1676991367715,285,Ambulance 3 1
-Creation,776.0,286,Source A1
-Ambulance accepts patient,804.0389139618758,286,Ambulance 6 1
-Arrival at patient,816.2625985486229,286,Ambulance 6 1
-Waiting time,40.26259854862292,286,Ambulance 6 1
-Production complete,830.2917302780083,286,Ambulance 6 1
-Creation,780.0,287,Source A1
-Ambulance accepts patient,806.9622142612908,287,Ambulance 5 1
-Arrival at patient,818.8421411376189,287,Ambulance 5 1
-Waiting time,38.84214113761891,287,Ambulance 5 1
-Production complete,831.6988712737566,287,Ambulance 5 1
-Creation,777.0,288,Source A1
-Ambulance accepts patient,806.0530737252997,288,Ambulance 1 1
-Arrival at patient,818.0891030098147,288,Ambulance 1 1
-Waiting time,41.08910300981472,288,Ambulance 1 1
-Production complete,832.0953234081177,288,Ambulance 1 1
-Creation,813.0,289,Source A1
-Ambulance accepts patient,830.2917302780083,289,Ambulance 6 1
-Arrival at patient,831.9678987809007,289,Ambulance 6 1
-Waiting time,18.96789878090067,289,Ambulance 6 1
-Production complete,834.7016196072507,289,Ambulance 6 1
-Creation,788.0,290,Source A1
-Ambulance accepts patient,807.5909883447537,290,Ambulance 2 1
-Arrival at patient,820.7686431182441,290,Ambulance 2 1
-Waiting time,32.768643118244086,290,Ambulance 2 1
-Production complete,834.7563696121205,290,Ambulance 2 1
-Creation,828.0,291,Source A1
-Ambulance accepts patient,834.7016196072507,291,Ambulance 6 1
-Arrival at patient,837.1943211630241,291,Ambulance 6 1
-Waiting time,9.194321163024142,291,Ambulance 6 1
-Production complete,840.3336294054241,291,Ambulance 6 1
-Creation,792.0,292,Source A1
-Ambulance accepts patient,808.8590152416664,292,Ambulance 4 1
-Arrival at patient,823.5098266622491,292,Ambulance 4 1
-Waiting time,31.50982666224911,292,Ambulance 4 1
-Production complete,840.5720649722427,292,Ambulance 4 1
-Creation,136.0,293,Source A2
-Ambulance accepts patient,840.5720649722427,293,Ambulance 4 1
-Arrival at patient,842.5784912180604,293,Ambulance 4 1
-Waiting time,706.5784912180604,293,Ambulance 4 1
-Production complete,845.700077182901,293,Ambulance 4 1
-Creation,808.0,294,Source A1
-Ambulance accepts patient,825.1676991367715,294,Ambulance 3 1
-Arrival at patient,836.4369535178246,294,Ambulance 3 1
-Waiting time,28.436953517824577,294,Ambulance 3 1
-Production complete,848.7793831355924,294,Ambulance 3 1
-Creation,804.0,295,Source A1
-Ambulance accepts patient,821.8804000174664,295,Ambulance 7 1
-Arrival at patient,835.0978101271041,295,Ambulance 7 1
-Waiting time,31.09781012710414,295,Ambulance 7 1
-Production complete,849.5664995001094,295,Ambulance 7 1
-Creation,822.0,296,Source A1
-Ambulance accepts patient,832.0953234081177,296,Ambulance 1 1
-Arrival at patient,841.5329959911351,296,Ambulance 1 1
-Waiting time,19.532995991135067,296,Ambulance 1 1
-Production complete,851.9059364111396,296,Ambulance 1 1
-Creation,818.0,297,Source A1
-Ambulance accepts patient,831.6988712737566,297,Ambulance 5 1
-Arrival at patient,844.155763620343,297,Ambulance 5 1
-Waiting time,26.15576362034301,297,Ambulance 5 1
-Production complete,857.729007019217,297,Ambulance 5 1
-Creation,831.0,298,Source A1
-Ambulance accepts patient,834.7563696121205,298,Ambulance 2 1
-Arrival at patient,846.2355749616222,298,Ambulance 2 1
-Waiting time,15.235574961622206,298,Ambulance 2 1
-Production complete,858.1540439195513,298,Ambulance 2 1
-Creation,842.0,299,Source A1
-Ambulance accepts patient,845.700077182901,299,Ambulance 4 1
-Arrival at patient,854.3052355913485,299,Ambulance 4 1
-Waiting time,12.305235591348492,299,Ambulance 4 1
-Production complete,863.6374487680774,299,Ambulance 4 1
-Creation,135.0,300,Source A2
-Ambulance accepts patient,840.3336294054241,300,Ambulance 6 1
-Arrival at patient,853.0238795886119,300,Ambulance 6 1
-Waiting time,718.0238795886119,300,Ambulance 6 1
-Production complete,867.1935004203015,300,Ambulance 6 1
-Creation,843.0,301,Source A1
-Ambulance accepts patient,848.7793831355924,301,Ambulance 3 1
-Arrival at patient,858.7521655774641,301,Ambulance 3 1
-Waiting time,15.752165577464098,301,Ambulance 3 1
-Production complete,870.018494864544,301,Ambulance 3 1
-Creation,846.0,302,Source A1
-Ambulance accepts patient,849.5664995001094,302,Ambulance 7 1
-Arrival at patient,860.3517148083031,302,Ambulance 7 1
-Waiting time,14.351714808303086,302,Ambulance 7 1
-Production complete,871.5110741620273,302,Ambulance 7 1
-Creation,139.0,303,Source A2
-Ambulance accepts patient,851.9059364111396,303,Ambulance 1 1
-Arrival at patient,861.7652055777564,303,Ambulance 1 1
-Waiting time,722.7652055777564,303,Ambulance 1 1
-Production complete,872.0092356338353,303,Ambulance 1 1
-Creation,853.0,304,Source A1
-Ambulance accepts patient,857.729007019217,304,Ambulance 5 1
-Arrival at patient,865.6360873614626,304,Ambulance 5 1
-Waiting time,12.636087361462614,304,Ambulance 5 1
-Production complete,874.1092609994505,304,Ambulance 5 1
-Creation,863.0,305,Source A1
-Ambulance accepts patient,871.5110741620273,305,Ambulance 7 1
-Arrival at patient,874.0955467492513,305,Ambulance 7 1
-Waiting time,11.095546749251298,305,Ambulance 7 1
-Production complete,877.80121337148,305,Ambulance 7 1
-Creation,857.0,306,Source A1
-Ambulance accepts patient,858.1540439195513,306,Ambulance 2 1
-Arrival at patient,870.9727923098137,306,Ambulance 2 1
-Waiting time,13.972792309813713,306,Ambulance 2 1
-Production complete,885.8782968856441,306,Ambulance 2 1
-Creation,861.0,307,Source A1
-Ambulance accepts patient,870.018494864544,307,Ambulance 3 1
-Arrival at patient,879.2501604773925,307,Ambulance 3 1
-Waiting time,18.250160477392456,307,Ambulance 3 1
-Production complete,889.415493991362,307,Ambulance 3 1
-Creation,859.0,308,Source A1
-Ambulance accepts patient,867.1935004203015,308,Ambulance 6 1
-Arrival at patient,878.3422002255696,308,Ambulance 6 1
-Waiting time,19.342200225569627,308,Ambulance 6 1
-Production complete,890.8873766029143,308,Ambulance 6 1
-Creation,858.0,309,Source A1
-Ambulance accepts patient,863.6374487680774,309,Ambulance 4 1
-Arrival at patient,877.9862048613675,309,Ambulance 4 1
-Waiting time,19.98620486136747,309,Ambulance 4 1
-Production complete,892.9721565809679,309,Ambulance 4 1
-Creation,871.0,310,Source A1
-Ambulance accepts patient,877.80121337148,310,Ambulance 7 1
-Arrival at patient,886.7358020019502,310,Ambulance 7 1
-Waiting time,15.73580200195022,310,Ambulance 7 1
-Production complete,896.5670856121178,310,Ambulance 7 1
-Creation,867.0,311,Source A1
-Ambulance accepts patient,872.0092356338353,311,Ambulance 1 1
-Arrival at patient,886.7277561184956,311,Ambulance 1 1
-Waiting time,19.727756118495563,311,Ambulance 1 1
-Production complete,901.6731274066525,311,Ambulance 1 1
-Creation,872.0,312,Source A1
-Ambulance accepts patient,885.8782968856441,312,Ambulance 2 1
-Arrival at patient,894.2593773163878,312,Ambulance 2 1
-Waiting time,22.259377316387827,312,Ambulance 2 1
-Production complete,903.9213333587062,312,Ambulance 2 1
-Creation,869.0,313,Source A1
-Ambulance accepts patient,874.1092609994505,313,Ambulance 5 1
-Arrival at patient,888.9378908769895,313,Ambulance 5 1
-Waiting time,19.937890876989513,313,Ambulance 5 1
-Production complete,904.6310207735282,313,Ambulance 5 1
-Creation,892.0,314,Source A1
-Ambulance accepts patient,904.6310207735282,314,Ambulance 5 1
-Arrival at patient,906.8157565483757,314,Ambulance 5 1
-Waiting time,14.815756548375703,314,Ambulance 5 1
-Production complete,909.6651451221928,314,Ambulance 5 1
-Creation,875.0,315,Source A1
-Ambulance accepts patient,889.415493991362,315,Ambulance 3 1
-Arrival at patient,899.82432030841,315,Ambulance 3 1
-Waiting time,24.82432030841005,315,Ambulance 3 1
-Production complete,911.5802384251799,315,Ambulance 3 1
-Creation,879.0,316,Source A1
-Ambulance accepts patient,892.9721565809679,316,Ambulance 4 1
-Arrival at patient,903.4153491939798,316,Ambulance 4 1
-Waiting time,24.41534919397975,316,Ambulance 4 1
-Production complete,914.449656407978,316,Ambulance 4 1
-Creation,882.0,317,Source A1
-Ambulance accepts patient,896.5670856121178,317,Ambulance 7 1
-Arrival at patient,906.4469568393191,317,Ambulance 7 1
-Waiting time,24.446956839319114,317,Ambulance 7 1
-Production complete,916.7241360076073,317,Ambulance 7 1
-Creation,878.0,318,Source A1
-Ambulance accepts patient,890.8873766029143,318,Ambulance 6 1
-Arrival at patient,903.5677115935752,318,Ambulance 6 1
-Waiting time,25.567711593575154,318,Ambulance 6 1
-Production complete,917.8514727248483,318,Ambulance 6 1
-Creation,889.0,319,Source A1
-Ambulance accepts patient,903.9213333587062,319,Ambulance 2 1
-Arrival at patient,911.0445372148058,319,Ambulance 2 1
-Waiting time,22.044537214805814,319,Ambulance 2 1
-Production complete,918.7305609617475,319,Ambulance 2 1
-Creation,886.0,320,Source A1
-Ambulance accepts patient,901.6731274066525,320,Ambulance 1 1
-Arrival at patient,916.0515789046397,320,Ambulance 1 1
-Waiting time,30.051578904639655,320,Ambulance 1 1
-Production complete,930.9256820948484,320,Ambulance 1 1
-Creation,895.0,321,Source A1
-Ambulance accepts patient,909.6651451221928,321,Ambulance 5 1
-Arrival at patient,921.1521679249786,321,Ambulance 5 1
-Waiting time,26.152167924978585,321,Ambulance 5 1
-Production complete,933.5858054251545,321,Ambulance 5 1
-Creation,900.0,322,Source A1
-Ambulance accepts patient,914.449656407978,322,Ambulance 4 1
-Arrival at patient,924.0838930465262,322,Ambulance 4 1
-Waiting time,24.083893046526214,322,Ambulance 4 1
-Production complete,934.4433968365933,322,Ambulance 4 1
-Creation,897.0,323,Source A1
-Ambulance accepts patient,911.5802384251799,323,Ambulance 3 1
-Arrival at patient,922.7503847217978,323,Ambulance 3 1
-Waiting time,25.750384721797786,323,Ambulance 3 1
-Production complete,934.679826407857,323,Ambulance 3 1
-Creation,907.0,324,Source A1
-Ambulance accepts patient,917.8514727248483,324,Ambulance 6 1
-Arrival at patient,928.3961464675773,324,Ambulance 6 1
-Waiting time,21.396146467577296,324,Ambulance 6 1
-Production complete,939.6495710557822,324,Ambulance 6 1
-Creation,904.0,325,Source A1
-Ambulance accepts patient,916.7241360076073,325,Ambulance 7 1
-Arrival at patient,928.7778238259175,325,Ambulance 7 1
-Waiting time,24.777823825917494,325,Ambulance 7 1
-Production complete,941.4706196436953,325,Ambulance 7 1
-Creation,910.0,326,Source A1
-Ambulance accepts patient,918.7305609617475,326,Ambulance 2 1
-Arrival at patient,931.3369038215338,326,Ambulance 2 1
-Waiting time,21.336903821533838,326,Ambulance 2 1
-Production complete,945.5883814770359,326,Ambulance 2 1
-Creation,914.0,327,Source A1
-Ambulance accepts patient,930.9256820948484,327,Ambulance 1 1
-Arrival at patient,940.8108209535881,327,Ambulance 1 1
-Waiting time,26.810820953588063,327,Ambulance 1 1
-Production complete,951.1188083893525,327,Ambulance 1 1
-Creation,927.0,328,Source A1
-Ambulance accepts patient,934.4433968365933,328,Ambulance 4 1
-Arrival at patient,943.0951119803533,328,Ambulance 4 1
-Waiting time,16.095111980353295,328,Ambulance 4 1
-Production complete,952.96210729592,328,Ambulance 4 1
+Production started,16.46130951253584,10,Ambulance -1 0
+Production complete,39.13415970916685,10,Ambulance -1 0
+Creation,9.0,11,Source A1
+Production started,16.25439170323913,11,Ambulance -1 0
+Production complete,40.533243557144864,11,Ambulance -1 0
+Creation,18.0,12,Source A1
+Production started,23.036798470740273,12,Ambulance -1 0
+Production complete,45.52051553946889,12,Ambulance -1 0
+Creation,14.0,13,Source A1
+Production started,16.627958442429254,13,Ambulance -1 0
+Production complete,48.00249682692339,13,Ambulance -1 0
+Creation,21.0,14,Source A1
+Production started,25.88782961122324,14,Ambulance -1 0
+Production complete,53.96536868074184,14,Ambulance -1 0
+Creation,28.0,15,Source A1
+Production started,40.533243557144864,15,Ambulance -1 0
+Production complete,59.94201790307676,15,Ambulance -1 0
+Creation,26.0,16,Source A1
+Production started,39.13415970916685,16,Ambulance -1 0
+Production complete,61.46493961678591,16,Ambulance -1 0
+Creation,24.0,17,Source A1
+Production started,36.821510152840375,17,Ambulance -1 0
+Production complete,61.674559358797204,17,Ambulance -1 0
+Creation,22.0,18,Source A1
+Production started,34.519758316783246,18,Ambulance -1 0
+Production complete,63.0357973304876,18,Ambulance -1 0
+Creation,31.0,19,Source A1
+Production started,48.00249682692339,19,Ambulance -1 0
+Production complete,66.19129950696286,19,Ambulance -1 0
+Creation,29.0,20,Source A1
+Production started,45.52051553946889,20,Ambulance -1 0
+Production complete,67.00325374446676,20,Ambulance -1 0
+Creation,34.0,21,Source A1
+Production started,53.96536868074184,21,Ambulance -1 0
+Production complete,81.44778629693852,21,Ambulance -1 0
+Creation,40.0,22,Source A1
+Production started,61.46493961678591,22,Ambulance -1 0
+Production complete,82.10197756208214,22,Ambulance -1 0
+Creation,36.0,23,Source A1
+Production started,59.94201790307676,23,Ambulance -1 0
+Production complete,82.73560818012588,23,Ambulance -1 0
+Creation,43.0,24,Source A1
+Production started,61.674559358797204,24,Ambulance -1 0
+Production complete,85.11893647169192,24,Ambulance -1 0
+Creation,45.0,25,Source A1
+Production started,63.0357973304876,25,Ambulance -1 0
+Production complete,85.32110503688544,25,Ambulance -1 0
+Creation,48.0,26,Source A1
+Production started,66.19129950696286,26,Ambulance -1 0
+Production complete,88.82235438116203,26,Ambulance -1 0
+Creation,57.0,27,Source A1
+Production started,85.11893647169192,27,Ambulance -1 0
+Production complete,90.7514334006172,27,Ambulance -1 0
+Creation,49.0,28,Source A1
+Production started,67.00325374446676,28,Ambulance -1 0
+Production complete,95.86968770159517,28,Ambulance -1 0
+Creation,53.0,29,Source A1
+Production started,81.44778629693852,29,Ambulance -1 0
+Production complete,97.61528345732876,29,Ambulance -1 0
+Creation,55.0,30,Source A1
+Production started,82.73560818012588,30,Ambulance -1 0
+Production complete,102.01432410500875,30,Ambulance -1 0
+Creation,54.0,31,Source A1
+Production started,82.10197756208214,31,Ambulance -1 0
+Production complete,103.16490922449414,31,Ambulance -1 0
+Creation,58.0,32,Source A1
+Production started,85.32110503688544,32,Ambulance -1 0
+Production complete,104.36630678973242,32,Ambulance -1 0
+Creation,78.0,33,Source A1
+Production started,95.86968770159517,33,Ambulance -1 0
+Production complete,110.4379496339034,33,Ambulance -1 0
+Creation,60.0,34,Source A1
+Production started,88.82235438116203,34,Ambulance -1 0
+Production complete,111.995780411206,34,Ambulance -1 0
+Creation,66.0,35,Source A1
+Production started,90.7514334006172,35,Ambulance -1 0
+Production complete,114.46630999440605,35,Ambulance -1 0
+Creation,95.0,36,Source A1
+Production started,103.16490922449414,36,Ambulance -1 0
+Production complete,119.92805106341288,36,Ambulance -1 0
+Creation,83.0,37,Source A1
+Production started,97.61528345732876,37,Ambulance -1 0
+Production complete,126.34055451526683,37,Ambulance -1 0
+Creation,99.0,38,Source A1
+Production started,104.36630678973242,38,Ambulance -1 0
+Production complete,127.76185634764992,38,Ambulance -1 0
+Creation,89.0,39,Source A1
+Production started,102.01432410500875,39,Ambulance -1 0
+Production complete,127.80579256337874,39,Ambulance -1 0
+Creation,105.0,40,Source A1
+Production started,110.4379496339034,40,Ambulance -1 0
+Production complete,130.1020077032064,40,Ambulance -1 0
+Creation,11.0,41,Source A2
+Production started,127.80579256337874,41,Ambulance -1 0
+Production complete,133.53225840157396,41,Ambulance -1 0
+Creation,10.0,42,Source A2
+Production started,127.76185634764992,42,Ambulance -1 0
+Production complete,134.19123861453633,42,Ambulance -1 0
+Creation,8.0,43,Source A2
+Production started,114.46630999440605,43,Ambulance -1 0
+Production complete,144.07531096599467,43,Ambulance -1 0
+Creation,119.0,44,Source A1
+Production started,119.92805106341288,44,Ambulance -1 0
+Production complete,144.22556105826195,44,Ambulance -1 0
+Creation,110.0,45,Source A1
+Production started,111.995780411206,45,Ambulance -1 0
+Production complete,144.87719646521555,45,Ambulance -1 0
+Creation,9.0,46,Source A2
+Production started,126.34055451526683,46,Ambulance -1 0
+Production complete,151.56400941811705,46,Ambulance -1 0
+Creation,129.0,47,Source A1
+Production started,130.1020077032064,47,Ambulance -1 0
+Production complete,152.7678518695132,47,Ambulance -1 0
+Creation,133.0,48,Source A1
+Production started,134.19123861453633,48,Ambulance -1 0
+Production complete,154.1973497744505,48,Ambulance -1 0
+Creation,131.0,49,Source A1
+Production started,133.53225840157396,49,Ambulance -1 0
+Production complete,155.64471206379588,49,Ambulance -1 0
+Creation,134.0,50,Source A1
+Production started,144.07531096599467,50,Ambulance -1 0
+Production complete,165.58653346855485,50,Ambulance -1 0
+Creation,135.0,51,Source A1
+Production started,144.22556105826195,51,Ambulance -1 0
+Production complete,167.57035858237185,51,Ambulance -1 0
+Creation,136.0,52,Source A1
+Production started,144.87719646521555,52,Ambulance -1 0
+Production complete,172.0715356288947,52,Ambulance -1 0
+Creation,148.0,53,Source A1
+Production started,155.64471206379588,53,Ambulance -1 0
+Production complete,173.97828936029,53,Ambulance -1 0
+Creation,144.0,54,Source A1
+Production started,152.7678518695132,54,Ambulance -1 0
+Production complete,175.7219695885674,54,Ambulance -1 0
+Creation,147.0,55,Source A1
+Production started,154.1973497744505,55,Ambulance -1 0
+Production complete,176.8910207869037,55,Ambulance -1 0
+Creation,139.0,56,Source A1
+Production started,151.56400941811705,56,Ambulance -1 0
+Production complete,178.19715309677935,56,Ambulance -1 0
+Creation,150.0,57,Source A1
+Production started,167.57035858237185,57,Ambulance -1 0
+Production complete,188.2827619790158,57,Ambulance -1 0
+Creation,149.0,58,Source A1
+Production started,165.58653346855485,58,Ambulance -1 0
+Production complete,195.29035482124405,58,Ambulance -1 0
+Creation,162.0,59,Source A1
+Production started,188.2827619790158,59,Ambulance -1 0
+Production complete,196.06884419936387,59,Ambulance -1 0
+Creation,152.0,60,Source A1
+Production started,172.0715356288947,60,Ambulance -1 0
+Production complete,196.99613906198522,60,Ambulance -1 0
+Creation,159.0,61,Source A1
+Production started,176.8910207869037,61,Ambulance -1 0
+Production complete,197.46735663650426,61,Ambulance -1 0
+Creation,157.0,62,Source A1
+Production started,175.7219695885674,62,Ambulance -1 0
+Production complete,199.4581721915306,62,Ambulance -1 0
+Creation,166.0,63,Source A1
+Production started,196.06884419936387,63,Ambulance -1 0
+Production complete,203.4725378720667,63,Ambulance -1 0
+Creation,153.0,64,Source A1
+Production started,173.97828936029,64,Ambulance -1 0
+Production complete,203.7008096918628,64,Ambulance -1 0
+Creation,160.0,65,Source A1
+Production started,178.19715309677935,65,Ambulance -1 0
+Production complete,209.65936503307117,65,Ambulance -1 0
+Creation,174.0,66,Source A1
+Production started,199.4581721915306,66,Ambulance -1 0
+Production complete,218.51220864792202,66,Ambulance -1 0
+Creation,170.0,67,Source A1
+Production started,196.99613906198522,67,Ambulance -1 0
+Production complete,218.82848666090553,67,Ambulance -1 0
+Creation,172.0,68,Source A1
+Production started,197.46735663650426,68,Ambulance -1 0
+Production complete,220.80242872419097,68,Ambulance -1 0
+Creation,191.0,69,Source A1
+Production started,218.82848666090553,69,Ambulance -1 0
+Production complete,223.14623561612515,69,Ambulance -1 0
+Creation,187.0,70,Source A1
+Production started,218.51220864792202,70,Ambulance -1 0
+Production complete,224.29739909952343,70,Ambulance -1 0
+Creation,181.0,71,Source A1
+Production started,203.7008096918628,71,Ambulance -1 0
+Production complete,225.53070206912696,71,Ambulance -1 0
+Creation,165.0,72,Source A1
+Production started,195.29035482124405,72,Ambulance -1 0
+Production complete,226.93967068853027,72,Ambulance -1 0
+Creation,178.0,73,Source A1
+Production started,203.4725378720667,73,Ambulance -1 0
+Production complete,233.00506514389187,73,Ambulance -1 0
+Creation,213.0,74,Source A1
+Production started,226.93967068853027,74,Ambulance -1 0
+Production complete,233.20175026234418,74,Ambulance -1 0
+Creation,183.0,75,Source A1
+Production started,209.65936503307117,75,Ambulance -1 0
+Production complete,238.96755873131,75,Ambulance -1 0
+Creation,199.0,76,Source A1
+Production started,223.14623561612515,76,Ambulance -1 0
+Production complete,240.69140164388008,76,Ambulance -1 0
+Creation,197.0,77,Source A1
+Production started,220.80242872419097,77,Ambulance -1 0
+Production complete,245.04732917752884,77,Ambulance -1 0
+Creation,203.0,78,Source A1
+Production started,224.29739909952343,78,Ambulance -1 0
+Production complete,245.75848119470103,78,Ambulance -1 0
+Creation,215.0,79,Source A1
+Production started,233.00506514389187,79,Ambulance -1 0
+Production complete,253.68834483425692,79,Ambulance -1 0
+Creation,208.0,80,Source A1
+Production started,225.53070206912696,80,Ambulance -1 0
+Production complete,254.85834308383005,80,Ambulance -1 0
+Creation,224.0,81,Source A1
+Production started,238.96755873131,81,Ambulance -1 0
+Production complete,259.8173047739442,81,Ambulance -1 0
+Creation,230.0,82,Source A1
+Production started,245.04732917752884,82,Ambulance -1 0
+Production complete,260.7146756062523,82,Ambulance -1 0
+Creation,220.0,83,Source A1
+Production started,233.20175026234418,83,Ambulance -1 0
+Production complete,261.5840527423488,83,Ambulance -1 0
+Creation,236.0,84,Source A1
+Production started,245.75848119470103,84,Ambulance -1 0
+Production complete,272.119809005116,84,Ambulance -1 0
+Creation,228.0,85,Source A1
+Production started,240.69140164388008,85,Ambulance -1 0
+Production complete,272.5979483636883,85,Ambulance -1 0
+Creation,248.0,86,Source A1
+Production started,254.85834308383005,86,Ambulance -1 0
+Production complete,274.15079564054605,86,Ambulance -1 0
+Creation,242.0,87,Source A1
+Production started,253.68834483425692,87,Ambulance -1 0
+Production complete,275.4450668494574,87,Ambulance -1 0
+Creation,252.0,88,Source A1
+Production started,259.8173047739442,88,Ambulance -1 0
+Production complete,275.5810830989435,88,Ambulance -1 0
+Creation,18.0,89,Source A2
+Production started,275.5810830989435,89,Ambulance -1 0
+Production complete,280.14714392658755,89,Ambulance -1 0
+Creation,15.0,90,Source A2
+Production started,261.5840527423488,90,Ambulance -1 0
+Production complete,280.9524508673626,90,Ambulance -1 0
+Creation,21.0,91,Source A2
+Production started,280.9524508673626,91,Ambulance -1 0
+Production complete,283.82573417794794,91,Ambulance -1 0
+Creation,13.0,92,Source A2
+Production started,260.7146756062523,92,Ambulance -1 0
+Production complete,287.2590334960584,92,Ambulance -1 0
+Creation,275.0,93,Source A1
+Production started,275.4450668494574,93,Ambulance -1 0
+Production complete,288.62563205329457,93,Ambulance -1 0
+Creation,271.0,94,Source A1
+Production started,274.15079564054605,94,Ambulance -1 0
+Production complete,296.0433050211562,94,Ambulance -1 0
+Creation,264.0,95,Source A1
+Production started,272.5979483636883,95,Ambulance -1 0
+Production complete,301.3031598805876,95,Ambulance -1 0
+Creation,262.0,96,Source A1
+Production started,272.119809005116,96,Ambulance -1 0
+Production complete,301.57576612172835,96,Ambulance -1 0
+Creation,279.0,97,Source A1
+Production started,280.14714392658755,97,Ambulance -1 0
+Production complete,301.97725985921176,97,Ambulance -1 0
+Creation,296.0,98,Source A1
+Production started,301.3031598805876,98,Ambulance -1 0
+Production complete,304.88442602606534,98,Ambulance -1 0
+Creation,22.0,99,Source A2
+Production started,283.82573417794794,99,Ambulance -1 0
+Production complete,307.38882382752763,99,Ambulance -1 0
+Creation,23.0,100,Source A2
+Production started,287.2590334960584,100,Ambulance -1 0
+Production complete,309.45134751157576,100,Ambulance -1 0
+Creation,24.0,101,Source A2
+Production started,288.62563205329457,101,Ambulance -1 0
+Production complete,311.7902591883399,101,Ambulance -1 0
+Creation,289.0,102,Source A1
+Production started,296.0433050211562,102,Ambulance -1 0
+Production complete,313.7315222483915,102,Ambulance -1 0
+Creation,25.0,103,Source A2
+Production started,301.97725985921176,103,Ambulance -1 0
+Production complete,327.4592889407894,103,Ambulance -1 0
+Creation,309.0,104,Source A1
+Production started,309.45134751157576,104,Ambulance -1 0
+Production complete,329.59191214566073,104,Ambulance -1 0
+Creation,302.0,105,Source A1
+Production started,304.88442602606534,105,Ambulance -1 0
+Production complete,330.3706919541237,105,Ambulance -1 0
+Creation,306.0,106,Source A1
+Production started,307.38882382752763,106,Ambulance -1 0
+Production complete,332.0415994295591,106,Ambulance -1 0
+Creation,300.0,107,Source A1
+Production started,301.57576612172835,107,Ambulance -1 0
+Production complete,332.55069609474344,107,Ambulance -1 0
+Creation,311.0,108,Source A1
+Production started,311.7902591883399,108,Ambulance -1 0
+Production complete,332.632782423098,108,Ambulance -1 0
+Creation,313.0,109,Source A1
+Production started,313.7315222483915,109,Ambulance -1 0
+Production complete,332.80346455861263,109,Ambulance -1 0
+Creation,325.0,110,Source A1
+Production started,332.632782423098,110,Ambulance -1 0
+Production complete,339.4320669023331,110,Ambulance -1 0
+Creation,317.0,111,Source A1
+Production started,329.59191214566073,111,Ambulance -1 0
+Production complete,347.8478050435859,111,Ambulance -1 0
+Creation,315.0,112,Source A1
+Production started,327.4592889407894,112,Ambulance -1 0
+Production complete,352.85256680250285,112,Ambulance -1 0
+Creation,318.0,113,Source A1
+Production started,330.3706919541237,113,Ambulance -1 0
+Production complete,353.3913602638165,113,Ambulance -1 0
+Creation,327.0,114,Source A1
+Production started,332.80346455861263,114,Ambulance -1 0
+Production complete,354.09070580709204,114,Ambulance -1 0
+Creation,336.0,115,Source A1
+Production started,353.3913602638165,115,Ambulance -1 0
+Production complete,355.8482776091191,115,Ambulance -1 0
+Creation,321.0,116,Source A1
+Production started,332.0415994295591,116,Ambulance -1 0
+Production complete,357.6655245965276,116,Ambulance -1 0
+Creation,332.0,117,Source A1
+Production started,339.4320669023331,117,Ambulance -1 0
+Production complete,357.7900521895664,117,Ambulance -1 0
+Creation,340.0,118,Source A1
+Production started,354.09070580709204,118,Ambulance -1 0
+Production complete,360.4322819795105,118,Ambulance -1 0
+Creation,323.0,119,Source A1
+Production started,332.55069609474344,119,Ambulance -1 0
+Production complete,362.8111334813086,119,Ambulance -1 0
+Creation,343.0,120,Source A1
+Production started,357.6655245965276,120,Ambulance -1 0
+Production complete,363.1949472835849,120,Ambulance -1 0
+Creation,356.0,121,Source A1
+Production started,363.1949472835849,121,Ambulance -1 0
+Production complete,367.24775003220543,121,Ambulance -1 0
+Creation,334.0,122,Source A1
+Production started,347.8478050435859,122,Ambulance -1 0
+Production complete,369.93915557612195,122,Ambulance -1 0
+Creation,341.0,123,Source A1
+Production started,355.8482776091191,123,Ambulance -1 0
+Production complete,375.11479532389075,123,Ambulance -1 0
+Creation,335.0,124,Source A1
+Production started,352.85256680250285,124,Ambulance -1 0
+Production complete,378.6411094248713,124,Ambulance -1 0
+Creation,349.0,125,Source A1
+Production started,360.4322819795105,125,Ambulance -1 0
+Production complete,379.75295515143875,125,Ambulance -1 0
+Creation,376.0,126,Source A1
+Production started,379.75295515143875,126,Ambulance -1 0
+Production complete,386.2632349112817,126,Ambulance -1 0
+Creation,345.0,127,Source A1
+Production started,357.7900521895664,127,Ambulance -1 0
+Production complete,387.58944945480226,127,Ambulance -1 0
+Creation,353.0,128,Source A1
+Production started,362.8111334813086,128,Ambulance -1 0
+Production complete,387.8944487774169,128,Ambulance -1 0
+Creation,384.0,129,Source A1
+Production started,386.2632349112817,129,Ambulance -1 0
+Production complete,392.56106211475867,129,Ambulance -1 0
+Creation,363.0,130,Source A1
+Production started,375.11479532389075,130,Ambulance -1 0
+Production complete,395.9214738870626,130,Ambulance -1 0
+Creation,358.0,131,Source A1
+Production started,367.24775003220543,131,Ambulance -1 0
+Production complete,395.9917658411534,131,Ambulance -1 0
+Creation,360.0,132,Source A1
+Production started,369.93915557612195,132,Ambulance -1 0
+Production complete,398.04434907045663,132,Ambulance -1 0
+Creation,393.0,133,Source A1
+Production started,395.9214738870626,133,Ambulance -1 0
+Production complete,401.96040790942106,133,Ambulance -1 0
+Creation,32.0,134,Source A2
+Production started,398.04434907045663,134,Ambulance -1 0
+Production complete,403.92275386635777,134,Ambulance -1 0
+Creation,367.0,135,Source A1
+Production started,378.6411094248713,135,Ambulance -1 0
+Production complete,405.06094947561803,135,Ambulance -1 0
+Creation,27.0,136,Source A2
+Production started,387.58944945480226,136,Ambulance -1 0
+Production complete,411.2507704223163,136,Ambulance -1 0
+Creation,28.0,137,Source A2
+Production started,387.8944487774169,137,Ambulance -1 0
+Production complete,412.7597168537466,137,Ambulance -1 0
+Creation,30.0,138,Source A2
+Production started,392.56106211475867,138,Ambulance -1 0
+Production complete,418.42419570306436,138,Ambulance -1 0
+Creation,39.0,139,Source A2
+Production started,403.92275386635777,139,Ambulance -1 0
+Production complete,425.75523447114335,139,Ambulance -1 0
+Creation,35.0,140,Source A2
+Production started,401.96040790942106,140,Ambulance -1 0
+Production complete,428.56420848444645,140,Ambulance -1 0
+Creation,395.0,141,Source A1
+Production started,395.9917658411534,141,Ambulance -1 0
+Production complete,428.8690558040897,141,Ambulance -1 0
+Creation,405.0,142,Source A1
+Production started,405.06094947561803,142,Ambulance -1 0
+Production complete,434.08179523135175,142,Ambulance -1 0
+Creation,41.0,143,Source A2
+Production started,411.2507704223163,143,Ambulance -1 0
+Production complete,434.9355700422722,143,Ambulance -1 0
+Creation,414.0,144,Source A1
+Production started,418.42419570306436,144,Ambulance -1 0
+Production complete,436.8299869925341,144,Ambulance -1 0
+Creation,43.0,145,Source A2
+Production started,412.7597168537466,145,Ambulance -1 0
+Production complete,437.3378234817428,145,Ambulance -1 0
+Creation,428.0,146,Source A1
+Production started,434.08179523135175,146,Ambulance -1 0
+Production complete,437.9054758516326,146,Ambulance -1 0
+Creation,431.0,147,Source A1
+Production started,437.3378234817428,147,Ambulance -1 0
+Production complete,445.163616969155,147,Ambulance -1 0
+Creation,420.0,148,Source A1
+Production started,425.75523447114335,148,Ambulance -1 0
+Production complete,449.2974216094185,148,Ambulance -1 0
+Creation,424.0,149,Source A1
+Production started,428.56420848444645,149,Ambulance -1 0
+Production complete,449.65954101152374,149,Ambulance -1 0
+Creation,432.0,150,Source A1
+Production started,437.9054758516326,150,Ambulance -1 0
+Production complete,452.7105243983366,150,Ambulance -1 0
+Creation,425.0,151,Source A1
+Production started,428.8690558040897,151,Ambulance -1 0
+Production complete,453.1049549215694,151,Ambulance -1 0
+Creation,429.0,152,Source A1
+Production started,434.9355700422722,152,Ambulance -1 0
+Production complete,454.81529841511025,152,Ambulance -1 0
+Creation,430.0,153,Source A1
+Production started,436.8299869925341,153,Ambulance -1 0
+Production complete,455.65774177306287,153,Ambulance -1 0
+Creation,440.0,154,Source A1
+Production started,452.7105243983366,154,Ambulance -1 0
+Production complete,456.00323832495343,154,Ambulance -1 0
+Creation,434.0,155,Source A1
+Production started,449.2974216094185,155,Ambulance -1 0
+Production complete,470.01422764718546,155,Ambulance -1 0
+Creation,433.0,156,Source A1
+Production started,445.163616969155,156,Ambulance -1 0
+Production complete,471.7687351714442,156,Ambulance -1 0
+Creation,438.0,157,Source A1
+Production started,449.65954101152374,157,Ambulance -1 0
+Production complete,474.83712037891894,157,Ambulance -1 0
+Creation,445.0,158,Source A1
+Production started,455.65774177306287,158,Ambulance -1 0
+Production complete,474.9348297323877,158,Ambulance -1 0
+Creation,441.0,159,Source A1
+Production started,453.1049549215694,159,Ambulance -1 0
+Production complete,475.89441639296166,159,Ambulance -1 0
+Creation,444.0,160,Source A1
+Production started,454.81529841511025,160,Ambulance -1 0
+Production complete,480.26844727293025,160,Ambulance -1 0
+Creation,452.0,161,Source A1
+Production started,456.00323832495343,161,Ambulance -1 0
+Production complete,483.24567247455866,161,Ambulance -1 0
+Creation,464.0,162,Source A1
+Production started,480.26844727293025,162,Ambulance -1 0
+Production complete,485.86067238688236,162,Ambulance -1 0
+Creation,453.0,163,Source A1
+Production started,470.01422764718546,163,Ambulance -1 0
+Production complete,487.4808840851197,163,Ambulance -1 0
+Creation,458.0,164,Source A1
+Production started,471.7687351714442,164,Ambulance -1 0
+Production complete,489.0380081468337,164,Ambulance -1 0
+Creation,463.0,165,Source A1
+Production started,475.89441639296166,165,Ambulance -1 0
+Production complete,502.92061400560203,165,Ambulance -1 0
+Creation,459.0,166,Source A1
+Production started,474.83712037891894,166,Ambulance -1 0
+Production complete,503.78326528327193,166,Ambulance -1 0
+Creation,460.0,167,Source A1
+Production started,474.9348297323877,167,Ambulance -1 0
+Production complete,505.47781951625643,167,Ambulance -1 0
+Creation,469.0,168,Source A1
+Production started,485.86067238688236,168,Ambulance -1 0
+Production complete,507.86300839415804,168,Ambulance -1 0
+Creation,467.0,169,Source A1
+Production started,483.24567247455866,169,Ambulance -1 0
+Production complete,507.8945929032102,169,Ambulance -1 0
+Creation,471.0,170,Source A1
+Production started,487.4808840851197,170,Ambulance -1 0
+Production complete,510.78278797873213,170,Ambulance -1 0
+Creation,473.0,171,Source A1
+Production started,489.0380081468337,171,Ambulance -1 0
+Production complete,512.4281204597373,171,Ambulance -1 0
+Creation,476.0,172,Source A1
+Production started,503.78326528327193,172,Ambulance -1 0
+Production complete,520.4844060820532,172,Ambulance -1 0
+Creation,478.0,173,Source A1
+Production started,507.86300839415804,173,Ambulance -1 0
+Production complete,522.527893887943,173,Ambulance -1 0
+Creation,474.0,174,Source A1
+Production started,502.92061400560203,174,Ambulance -1 0
+Production complete,522.9520080806122,174,Ambulance -1 0
+Creation,479.0,175,Source A1
+Production started,507.8945929032102,175,Ambulance -1 0
+Production complete,528.6507806973182,175,Ambulance -1 0
+Creation,487.0,176,Source A1
+Production started,512.4281204597373,176,Ambulance -1 0
+Production complete,531.1696922757236,176,Ambulance -1 0
+Creation,481.0,177,Source A1
+Production started,510.78278797873213,177,Ambulance -1 0
+Production complete,533.8804092911381,177,Ambulance -1 0
+Creation,477.0,178,Source A1
+Production started,505.47781951625643,178,Ambulance -1 0
+Production complete,535.8232919613101,178,Ambulance -1 0
+Creation,513.0,179,Source A1
+Production started,531.1696922757236,179,Ambulance -1 0
+Production complete,537.417661990016,179,Ambulance -1 0
+Creation,496.0,180,Source A1
+Production started,522.527893887943,180,Ambulance -1 0
+Production complete,542.3433037231997,180,Ambulance -1 0
+Creation,523.0,181,Source A1
+Production started,535.8232919613101,181,Ambulance -1 0
+Production complete,543.1786257011804,181,Ambulance -1 0
+Creation,488.0,182,Source A1
+Production started,520.4844060820532,182,Ambulance -1 0
+Production complete,546.0929663773578,182,Ambulance -1 0
+Creation,502.0,183,Source A1
+Production started,522.9520080806122,183,Ambulance -1 0
+Production complete,548.1250900206397,183,Ambulance -1 0
+Creation,516.0,184,Source A1
+Production started,533.8804092911381,184,Ambulance -1 0
+Production complete,555.5466016456846,184,Ambulance -1 0
+Creation,509.0,185,Source A1
+Production started,528.6507806973182,185,Ambulance -1 0
+Production complete,556.3004001632877,185,Ambulance -1 0
+Creation,526.0,186,Source A1
+Production started,537.417661990016,186,Ambulance -1 0
+Production complete,558.832768570655,186,Ambulance -1 0
+Creation,542.0,187,Source A1
+Production started,548.1250900206397,187,Ambulance -1 0
+Production complete,565.4691500687148,187,Ambulance -1 0
+Creation,533.0,188,Source A1
+Production started,543.1786257011804,188,Ambulance -1 0
+Production complete,567.5944946084936,188,Ambulance -1 0
+Creation,529.0,189,Source A1
+Production started,542.3433037231997,189,Ambulance -1 0
+Production complete,568.2456083685973,189,Ambulance -1 0
+Creation,538.0,190,Source A1
+Production started,546.0929663773578,190,Ambulance -1 0
+Production complete,568.8611530597921,190,Ambulance -1 0
+Creation,548.0,191,Source A1
+Production started,556.3004001632877,191,Ambulance -1 0
+Production complete,577.2025697304108,191,Ambulance -1 0
+Creation,544.0,192,Source A1
+Production started,555.5466016456846,192,Ambulance -1 0
+Production complete,577.9660613300313,192,Ambulance -1 0
+Creation,560.0,193,Source A1
+Production started,568.2456083685973,193,Ambulance -1 0
+Production complete,584.4334745049656,193,Ambulance -1 0
+Creation,550.0,194,Source A1
+Production started,558.832768570655,194,Ambulance -1 0
+Production complete,587.3552363092737,194,Ambulance -1 0
+Creation,551.0,195,Source A1
+Production started,565.4691500687148,195,Ambulance -1 0
+Production complete,590.2533600473514,195,Ambulance -1 0
+Creation,556.0,196,Source A1
+Production started,567.5944946084936,196,Ambulance -1 0
+Production complete,592.9681011072754,196,Ambulance -1 0
+Creation,591.0,197,Source A1
+Production started,592.9681011072754,197,Ambulance -1 0
+Production complete,596.7534931383598,197,Ambulance -1 0
+Creation,563.0,198,Source A1
+Production started,568.8611530597921,198,Ambulance -1 0
+Production complete,599.3725661963468,198,Ambulance -1 0
+Creation,567.0,199,Source A1
+Production started,577.2025697304108,199,Ambulance -1 0
+Production complete,600.5708998963726,199,Ambulance -1 0
+Creation,571.0,200,Source A1
+Production started,577.9660613300313,200,Ambulance -1 0
+Production complete,601.5773674495557,200,Ambulance -1 0
+Creation,46.0,201,Source A2
+Production started,600.5708998963726,201,Ambulance -1 0
+Production complete,604.9767658727457,201,Ambulance -1 0
+Creation,577.0,202,Source A1
+Production started,584.4334745049656,202,Ambulance -1 0
+Production complete,607.1008251635834,202,Ambulance -1 0
+Creation,595.0,203,Source A1
+Production started,596.7534931383598,203,Ambulance -1 0
+Production complete,610.7786526182786,203,Ambulance -1 0
+Creation,584.0,204,Source A1
+Production started,587.3552363092737,204,Ambulance -1 0
+Production complete,612.2471009730277,204,Ambulance -1 0
+Creation,588.0,205,Source A1
+Production started,590.2533600473514,205,Ambulance -1 0
+Production complete,615.4245617370501,205,Ambulance -1 0
+Creation,597.0,206,Source A1
+Production started,599.3725661963468,206,Ambulance -1 0
+Production complete,617.4438132991207,206,Ambulance -1 0
+Creation,48.0,207,Source A2
+Production started,601.5773674495557,207,Ambulance -1 0
+Production complete,622.1317341378834,207,Ambulance -1 0
+Creation,603.0,208,Source A1
+Production started,604.9767658727457,208,Ambulance -1 0
+Production complete,627.6509670378014,208,Ambulance -1 0
+Creation,49.0,209,Source A2
+Production started,607.1008251635834,209,Ambulance -1 0
+Production complete,629.0671318445416,209,Ambulance -1 0
+Creation,609.0,210,Source A1
+Production started,610.7786526182786,210,Ambulance -1 0
+Production complete,634.7283603330122,210,Ambulance -1 0
+Creation,54.0,211,Source A2
+Production started,612.2471009730277,211,Ambulance -1 0
+Production complete,635.3824617300079,211,Ambulance -1 0
+Creation,57.0,212,Source A2
+Production started,615.4245617370501,212,Ambulance -1 0
+Production complete,636.3242866836516,212,Ambulance -1 0
+Creation,616.0,213,Source A1
+Production started,617.4438132991207,213,Ambulance -1 0
+Production complete,637.368908428539,213,Ambulance -1 0
+Creation,620.0,214,Source A1
+Production started,622.1317341378834,214,Ambulance -1 0
+Production complete,646.5912286860478,214,Ambulance -1 0
+Creation,632.0,215,Source A1
+Production started,634.7283603330122,215,Ambulance -1 0
+Production complete,649.5064766909576,215,Ambulance -1 0
+Creation,624.0,216,Source A1
+Production started,627.6509670378014,216,Ambulance -1 0
+Production complete,652.5679457232387,216,Ambulance -1 0
+Creation,634.0,217,Source A1
+Production started,635.3824617300079,217,Ambulance -1 0
+Production complete,653.3601267514493,217,Ambulance -1 0
+Creation,627.0,218,Source A1
+Production started,629.0671318445416,218,Ambulance -1 0
+Production complete,653.5406505794516,218,Ambulance -1 0
+Creation,59.0,219,Source A2
+Production started,637.368908428539,219,Ambulance -1 0
+Production complete,658.2323981609849,219,Ambulance -1 0
+Creation,651.0,220,Source A1
+Production started,653.3601267514493,220,Ambulance -1 0
+Production complete,659.1728627155945,220,Ambulance -1 0
+Creation,640.0,221,Source A1
+Production started,646.5912286860478,221,Ambulance -1 0
+Production complete,662.2973640697473,221,Ambulance -1 0
+Creation,58.0,222,Source A2
+Production started,636.3242866836516,222,Ambulance -1 0
+Production complete,662.5248783090631,222,Ambulance -1 0
+Creation,62.0,223,Source A2
+Production started,653.5406505794516,223,Ambulance -1 0
+Production complete,673.5129863600142,223,Ambulance -1 0
+Creation,648.0,224,Source A1
+Production started,652.5679457232387,224,Ambulance -1 0
+Production complete,677.5842784731594,224,Ambulance -1 0
+Creation,644.0,225,Source A1
+Production started,649.5064766909576,225,Ambulance -1 0
+Production complete,678.4019940237608,225,Ambulance -1 0
+Creation,654.0,226,Source A1
+Production started,658.2323981609849,226,Ambulance -1 0
+Production complete,682.5603845191198,226,Ambulance -1 0
+Creation,657.0,227,Source A1
+Production started,659.1728627155945,227,Ambulance -1 0
+Production complete,682.9645055541818,227,Ambulance -1 0
+Creation,660.0,228,Source A1
+Production started,662.5248783090631,228,Ambulance -1 0
+Production complete,684.8062545209275,228,Ambulance -1 0
+Creation,659.0,229,Source A1
+Production started,662.2973640697473,229,Ambulance -1 0
+Production complete,687.8435907442463,229,Ambulance -1 0
+Creation,686.0,230,Source A1
+Production started,687.8435907442463,230,Ambulance -1 0
+Production complete,692.6652998507229,230,Ambulance -1 0
+Creation,663.0,231,Source A1
+Production started,673.5129863600142,231,Ambulance -1 0
+Production complete,696.4102106946987,231,Ambulance -1 0
+Creation,678.0,232,Source A1
+Production started,682.5603845191198,232,Ambulance -1 0
+Production complete,698.2596226170181,232,Ambulance -1 0
+Creation,668.0,233,Source A1
+Production started,677.5842784731594,233,Ambulance -1 0
+Production complete,699.9308532320985,233,Ambulance -1 0
+Creation,693.0,234,Source A1
+Production started,696.4102106946987,234,Ambulance -1 0
+Production complete,700.3890491368362,234,Ambulance -1 0
+Creation,671.0,235,Source A1
+Production started,678.4019940237608,235,Ambulance -1 0
+Production complete,704.8911950668197,235,Ambulance -1 0
+Creation,682.0,236,Source A1
+Production started,682.9645055541818,236,Ambulance -1 0
+Production complete,706.6008984517715,236,Ambulance -1 0
+Creation,67.0,237,Source A2
+Production started,684.8062545209275,237,Ambulance -1 0
+Production complete,712.6830151263104,237,Ambulance -1 0
+Creation,78.0,238,Source A2
+Production started,699.9308532320985,238,Ambulance -1 0
+Production complete,718.5105853671902,238,Ambulance -1 0
+Creation,72.0,239,Source A2
+Production started,698.2596226170181,239,Ambulance -1 0
+Production complete,720.6614017918122,239,Ambulance -1 0
+Creation,690.0,240,Source A1
+Production started,692.6652998507229,240,Ambulance -1 0
+Production complete,721.5412936542244,240,Ambulance -1 0
+Creation,700.0,241,Source A1
+Production started,700.3890491368362,241,Ambulance -1 0
+Production complete,723.6236382225983,241,Ambulance -1 0
+Creation,721.0,242,Source A1
+Production started,721.5412936542244,242,Ambulance -1 0
+Production complete,727.5815858058702,242,Ambulance -1 0
+Creation,89.0,243,Source A2
+Production started,706.6008984517715,243,Ambulance -1 0
+Production complete,728.2589439622662,243,Ambulance -1 0
+Creation,708.0,244,Source A1
+Production started,712.6830151263104,244,Ambulance -1 0
+Production complete,728.6886303994116,244,Ambulance -1 0
+Creation,84.0,245,Source A2
+Production started,704.8911950668197,245,Ambulance -1 0
+Production complete,732.5432591457178,245,Ambulance -1 0
+Creation,727.0,246,Source A1
+Production started,728.2589439622662,246,Ambulance -1 0
+Production complete,733.8600829852071,246,Ambulance -1 0
+Creation,113.0,247,Source A2
+Production started,728.6886303994116,247,Ambulance -1 0
+Production complete,734.3032418587667,247,Ambulance -1 0
+Creation,106.0,248,Source A2
+Production started,723.6236382225983,248,Ambulance -1 0
+Production complete,740.7370095872196,248,Ambulance -1 0
+Creation,715.0,249,Source A1
+Production started,718.5105853671902,249,Ambulance -1 0
+Production complete,741.7814935849422,249,Ambulance -1 0
+Creation,99.0,250,Source A2
+Production started,720.6614017918122,250,Ambulance -1 0
+Production complete,747.1194552592781,250,Ambulance -1 0
+Creation,734.0,251,Source A1
+Production started,734.3032418587667,251,Ambulance -1 0
+Production complete,756.359782113895,251,Ambulance -1 0
+Creation,729.0,252,Source A1
+Production started,732.5432591457178,252,Ambulance -1 0
+Production complete,758.0751179618981,252,Ambulance -1 0
+Creation,732.0,253,Source A1
+Production started,733.8600829852071,253,Ambulance -1 0
+Production complete,758.8080448280243,253,Ambulance -1 0
+Creation,725.0,254,Source A1
+Production started,727.5815858058702,254,Ambulance -1 0
+Production complete,759.1715531898137,254,Ambulance -1 0
+Creation,737.0,255,Source A1
+Production started,741.7814935849422,255,Ambulance -1 0
+Production complete,759.5528027535364,255,Ambulance -1 0
+Creation,735.0,256,Source A1
+Production started,740.7370095872196,256,Ambulance -1 0
+Production complete,762.2905703192471,256,Ambulance -1 0
+Creation,742.0,257,Source A1
+Production started,747.1194552592781,257,Ambulance -1 0
+Production complete,768.6354650600589,257,Ambulance -1 0
+Creation,763.0,258,Source A1
+Production started,768.6354650600589,258,Ambulance -1 0
+Production complete,772.1658316705493,258,Ambulance -1 0
+Creation,757.0,259,Source A1
+Production started,759.5528027535364,259,Ambulance -1 0
+Production complete,775.7689434710843,259,Ambulance -1 0
+Creation,746.0,260,Source A1
+Production started,756.359782113895,260,Ambulance -1 0
+Production complete,780.3727536811449,260,Ambulance -1 0
+Creation,766.0,261,Source A1
+Production started,775.7689434710843,261,Ambulance -1 0
+Production complete,782.206397043417,261,Ambulance -1 0
+Creation,759.0,262,Source A1
+Production started,762.2905703192471,262,Ambulance -1 0
+Production complete,782.3183564620838,262,Ambulance -1 0
+Creation,754.0,263,Source A1
+Production started,759.1715531898137,263,Ambulance -1 0
+Production complete,782.5333614117552,263,Ambulance -1 0
+Creation,753.0,264,Source A1
+Production started,758.8080448280243,264,Ambulance -1 0
+Production complete,786.4280537838608,264,Ambulance -1 0
+Creation,772.0,265,Source A1
+Production started,782.3183564620838,265,Ambulance -1 0
+Production complete,787.263451709524,265,Ambulance -1 0
+Creation,747.0,266,Source A1
+Production started,758.0751179618981,266,Ambulance -1 0
+Production complete,788.3749413160684,266,Ambulance -1 0
+Creation,765.0,267,Source A1
+Production started,772.1658316705493,267,Ambulance -1 0
+Production complete,797.9734637223941,267,Ambulance -1 0
+Creation,771.0,268,Source A1
+Production started,782.206397043417,268,Ambulance -1 0
+Production complete,801.1580910266686,268,Ambulance -1 0
+Creation,792.0,269,Source A1
+Production started,797.9734637223941,269,Ambulance -1 0
+Production complete,801.8747379611139,269,Ambulance -1 0
+Creation,773.0,270,Source A1
+Production started,782.5333614117552,270,Ambulance -1 0
+Production complete,803.4232977150868,270,Ambulance -1 0
+Creation,769.0,271,Source A1
+Production started,780.3727536811449,271,Ambulance -1 0
+Production complete,804.3629199328299,271,Ambulance -1 0
+Creation,780.0,272,Source A1
+Production started,787.263451709524,272,Ambulance -1 0
+Production complete,807.5746591013074,272,Ambulance -1 0
+Creation,778.0,273,Source A1
+Production started,786.4280537838608,273,Ambulance -1 0
+Production complete,811.2694461973591,273,Ambulance -1 0
+Creation,787.0,274,Source A1
+Production started,788.3749413160684,274,Ambulance -1 0
+Production complete,814.1879517159748,274,Ambulance -1 0
+Creation,802.0,275,Source A1
+Production started,803.4232977150868,275,Ambulance -1 0
+Production complete,822.3884783394711,275,Ambulance -1 0
+Creation,125.0,276,Source A2
+Production started,801.8747379611139,276,Ambulance -1 0
+Production complete,823.6636643696846,276,Ambulance -1 0
+Creation,118.0,277,Source A2
+Production started,801.1580910266686,277,Ambulance -1 0
+Production complete,824.7892214472706,277,Ambulance -1 0
+Creation,815.0,278,Source A1
+Production started,822.3884783394711,278,Ambulance -1 0
+Production complete,826.3193510861327,278,Ambulance -1 0
+Creation,127.0,279,Source A2
+Production started,804.3629199328299,279,Ambulance -1 0
+Production complete,830.938852447595,279,Ambulance -1 0
+Creation,129.0,280,Source A2
+Production started,807.5746591013074,280,Ambulance -1 0
+Production complete,832.9852807863015,280,Ambulance -1 0
+Creation,808.0,281,Source A1
+Production started,811.2694461973591,281,Ambulance -1 0
+Production complete,838.1451131734409,281,Ambulance -1 0
+Creation,131.0,282,Source A2
+Production started,814.1879517159748,282,Ambulance -1 0
+Production complete,842.38553995967,282,Ambulance -1 0
+Creation,820.0,283,Source A1
+Production started,823.6636643696846,283,Ambulance -1 0
+Production complete,842.5233618456615,283,Ambulance -1 0
+Creation,824.0,284,Source A1
+Production started,824.7892214472706,284,Ambulance -1 0
+Production complete,843.846594119043,284,Ambulance -1 0
+Creation,132.0,285,Source A2
+Production started,826.3193510861327,285,Ambulance -1 0
+Production complete,844.2163610604556,285,Ambulance -1 0
+Creation,135.0,286,Source A2
+Production started,830.938852447595,286,Ambulance -1 0
+Production complete,845.984710079778,286,Ambulance -1 0
+Creation,143.0,287,Source A2
+Production started,842.5233618456615,287,Ambulance -1 0
+Production complete,848.4823209892647,287,Ambulance -1 0
+Creation,831.0,288,Source A1
+Production started,832.9852807863015,288,Ambulance -1 0
+Production complete,849.7444247059769,288,Ambulance -1 0
+Creation,147.0,289,Source A2
+Production started,845.984710079778,289,Ambulance -1 0
+Production complete,851.9613612138388,289,Ambulance -1 0
+Creation,138.0,290,Source A2
+Production started,838.1451131734409,290,Ambulance -1 0
+Production complete,862.5727441750497,290,Ambulance -1 0
+Creation,841.0,291,Source A1
+Production started,842.38553995967,291,Ambulance -1 0
+Production complete,862.695010892259,291,Ambulance -1 0
+Creation,145.0,292,Source A2
+Production started,844.2163610604556,292,Ambulance -1 0
+Production complete,866.4994420737919,292,Ambulance -1 0
+Creation,149.0,293,Source A2
+Production started,849.7444247059769,293,Ambulance -1 0
+Production complete,868.1131757095753,293,Ambulance -1 0
+Creation,853.0,294,Source A1
+Production started,862.5727441750497,294,Ambulance -1 0
+Production complete,869.9552632899257,294,Ambulance -1 0
+Creation,850.0,295,Source A1
+Production started,851.9613612138388,295,Ambulance -1 0
+Production complete,870.6086133277216,295,Ambulance -1 0
+Creation,843.0,296,Source A1
+Production started,843.846594119043,296,Ambulance -1 0
+Production complete,873.270669971808,296,Ambulance -1 0
+Creation,847.0,297,Source A1
+Production started,848.4823209892647,297,Ambulance -1 0
+Production complete,873.8066040730316,297,Ambulance -1 0
+Creation,858.0,298,Source A1
+Production started,866.4994420737919,298,Ambulance -1 0
+Production complete,881.837950540657,298,Ambulance -1 0
+Creation,856.0,299,Source A1
+Production started,862.695010892259,299,Ambulance -1 0
+Production complete,889.177702006088,299,Ambulance -1 0
+Creation,866.0,300,Source A1
+Production started,870.6086133277216,300,Ambulance -1 0
+Production complete,894.170234552992,300,Ambulance -1 0
+Creation,863.0,301,Source A1
+Production started,869.9552632899257,301,Ambulance -1 0
+Production complete,895.4795049808894,301,Ambulance -1 0
+Creation,860.0,302,Source A1
+Production started,868.1131757095753,302,Ambulance -1 0
+Production complete,895.7371123188367,302,Ambulance -1 0
+Creation,869.0,303,Source A1
+Production started,873.8066040730316,303,Ambulance -1 0
+Production complete,898.6013498365122,303,Ambulance -1 0
+Creation,868.0,304,Source A1
+Production started,873.270669971808,304,Ambulance -1 0
+Production complete,902.1052028591525,304,Ambulance -1 0
+Creation,872.0,305,Source A1
+Production started,881.837950540657,305,Ambulance -1 0
+Production complete,903.6611248718067,305,Ambulance -1 0
+Creation,874.0,306,Source A1
+Production started,889.177702006088,306,Ambulance -1 0
+Production complete,911.9208555027429,306,Ambulance -1 0
+Creation,884.0,307,Source A1
+Production started,898.6013498365122,307,Ambulance -1 0
+Production complete,917.3627310011774,307,Ambulance -1 0
+Creation,888.0,308,Source A1
+Production started,902.1052028591525,308,Ambulance -1 0
+Production complete,918.0732776266126,308,Ambulance -1 0
+Creation,890.0,309,Source A1
+Production started,911.9208555027429,309,Ambulance -1 0
+Production complete,919.2576588440533,309,Ambulance -1 0
+Creation,878.0,310,Source A1
+Production started,895.4795049808894,310,Ambulance -1 0
+Production complete,922.6820487188716,310,Ambulance -1 0
+Creation,875.0,311,Source A1
+Production started,894.170234552992,311,Ambulance -1 0
+Production complete,922.819535225043,311,Ambulance -1 0
+Creation,898.0,312,Source A1
+Production started,919.2576588440533,312,Ambulance -1 0
+Production complete,924.0406467126452,312,Ambulance -1 0
+Creation,881.0,313,Source A1
+Production started,895.7371123188367,313,Ambulance -1 0
+Production complete,924.4349605419998,313,Ambulance -1 0
+Creation,893.0,314,Source A1
+Production started,918.0732776266126,314,Ambulance -1 0
+Production complete,925.9934088392924,314,Ambulance -1 0
+Creation,889.0,315,Source A1
+Production started,903.6611248718067,315,Ambulance -1 0
+Production complete,926.7132739787838,315,Ambulance -1 0
+Creation,923.0,316,Source A1
+Production started,926.7132739787838,316,Ambulance -1 0
+Production complete,930.1512292875075,316,Ambulance -1 0
+Creation,891.0,317,Source A1
+Production started,917.3627310011774,317,Ambulance -1 0
+Production complete,942.1224536016002,317,Ambulance -1 0
+Creation,902.0,318,Source A1
+Production started,922.819535225043,318,Ambulance -1 0
+Production complete,943.4206737688155,318,Ambulance -1 0
+Creation,899.0,319,Source A1
+Production started,922.6820487188716,319,Ambulance -1 0
+Production complete,944.7220851827094,319,Ambulance -1 0
+Creation,907.0,320,Source A1
+Production started,924.0406467126452,320,Ambulance -1 0
+Production complete,945.7156717790415,320,Ambulance -1 0
+Creation,938.0,321,Source A1
+Production started,944.7220851827094,321,Ambulance -1 0
+Production complete,947.5083857151235,321,Ambulance -1 0
+Creation,914.0,322,Source A1
+Production started,924.4349605419998,322,Ambulance -1 0
+Production complete,948.2626935899251,322,Ambulance -1 0
+Creation,927.0,323,Source A1
+Production started,930.1512292875075,323,Ambulance -1 0
+Production complete,950.4910801945365,323,Ambulance -1 0
+Creation,917.0,324,Source A1
+Production started,925.9934088392924,324,Ambulance -1 0
+Production complete,954.2963416587289,324,Ambulance -1 0
+Creation,947.0,325,Source A1
+Production started,947.5083857151235,325,Ambulance -1 0
+Production complete,963.0521616320016,325,Ambulance -1 0
+Creation,153.0,326,Source A2
+Production started,950.4910801945365,326,Ambulance -1 0
+Production complete,969.9078871192844,326,Ambulance -1 0
+Creation,944.0,327,Source A1
+Production started,945.7156717790415,327,Ambulance -1 0
+Production complete,970.139832180512,327,Ambulance -1 0
+Creation,935.0,328,Source A1
+Production started,943.4206737688155,328,Ambulance -1 0
+Production complete,970.1727778439197,328,Ambulance -1 0
 Creation,931.0,329,Source A1
-Ambulance accepts patient,934.679826407857,329,Ambulance 3 1
-Arrival at patient,943.6855215996633,329,Ambulance 3 1
-Waiting time,12.685521599663275,329,Ambulance 3 1
-Production complete,953.127464191457,329,Ambulance 3 1
-Creation,918.0,330,Source A1
-Ambulance accepts patient,933.5858054251545,330,Ambulance 5 1
-Arrival at patient,948.914241454952,330,Ambulance 5 1
-Waiting time,30.914241454952048,330,Ambulance 5 1
-Production complete,966.4640686618663,330,Ambulance 5 1
-Creation,937.0,331,Source A1
-Ambulance accepts patient,939.6495710557822,331,Ambulance 6 1
-Arrival at patient,953.3650488345742,331,Ambulance 6 1
-Waiting time,16.365048834574168,331,Ambulance 6 1
-Production complete,967.6906158237124,331,Ambulance 6 1
-Creation,141.0,332,Source A2
-Ambulance accepts patient,941.4706196436953,332,Ambulance 7 1
-Arrival at patient,954.1565581216965,332,Ambulance 7 1
-Waiting time,813.1565581216965,332,Ambulance 7 1
-Production complete,968.7894577591495,332,Ambulance 7 1
-Creation,144.0,333,Source A2
-Ambulance accepts patient,945.5883814770359,333,Ambulance 2 1
-Arrival at patient,956.9703608606743,333,Ambulance 2 1
-Waiting time,812.9703608606743,333,Ambulance 2 1
-Production complete,968.8594615830054,333,Ambulance 2 1
-Creation,946.0,334,Source A1
-Ambulance accepts patient,951.1188083893525,334,Ambulance 1 1
-Arrival at patient,962.6753589760632,334,Ambulance 1 1
-Waiting time,16.675358976063194,334,Ambulance 1 1
-Production complete,975.116939230783,334,Ambulance 1 1
-Creation,953.0,335,Source A1
-Ambulance accepts patient,953.127464191457,335,Ambulance 3 1
-Arrival at patient,967.8222608270972,335,Ambulance 3 1
-Waiting time,14.822260827097239,335,Ambulance 3 1
-Production complete,982.8645212648107,335,Ambulance 3 1
-Creation,146.0,336,Source A2
-Ambulance accepts patient,952.96210729592,336,Ambulance 4 1
-Arrival at patient,967.7011874236673,336,Ambulance 4 1
-Waiting time,821.7011874236673,336,Ambulance 4 1
-Production complete,983.2676221184928,336,Ambulance 4 1
-Creation,153.0,337,Source A2
-Ambulance accepts patient,968.8594615830054,337,Ambulance 2 1
-Arrival at patient,979.2197568633054,337,Ambulance 2 1
-Waiting time,826.2197568633054,337,Ambulance 2 1
-Production complete,990.3018780587049,337,Ambulance 2 1
-Creation,962.0,338,Source A1
-Ambulance accepts patient,966.4640686618663,338,Ambulance 5 1
-Arrival at patient,978.3619913505235,338,Ambulance 5 1
-Waiting time,16.361991350523454,338,Ambulance 5 1
-Production complete,990.8501283116427,338,Ambulance 5 1
-Creation,152.0,339,Source A2
-Ambulance accepts patient,968.7894577591495,339,Ambulance 7 1
-Arrival at patient,979.9448783062113,339,Ambulance 7 1
-Waiting time,827.9448783062113,339,Ambulance 7 1
-Production complete,991.8926681392045,339,Ambulance 7 1
-Creation,148.0,340,Source A2
-Ambulance accepts patient,967.6906158237124,340,Ambulance 6 1
-Arrival at patient,979.9231121378459,340,Ambulance 6 1
-Waiting time,831.9231121378459,340,Ambulance 6 1
-Production complete,992.5474342829059,340,Ambulance 6 1
-Creation,969.0,341,Source A1
-Ambulance accepts patient,975.116939230783,341,Ambulance 1 1
-Arrival at patient,988.7751328596969,341,Ambulance 1 1
-Waiting time,19.775132859696896,341,Ambulance 1 1
-Production complete,1003.2807406684635,341,Ambulance 1 1
-Creation,975.0,342,Source A1
-Ambulance accepts patient,982.8645212648107,342,Ambulance 3 1
-Arrival at patient,994.07564805203,342,Ambulance 3 1
-Waiting time,19.075648052030033,342,Ambulance 3 1
-Production complete,1007.1423297922926,342,Ambulance 3 1
-Creation,979.0,343,Source A1
-Ambulance accepts patient,983.2676221184928,343,Ambulance 4 1
-Arrival at patient,995.0122481635018,343,Ambulance 4 1
-Waiting time,16.012248163501795,343,Ambulance 4 1
-Production complete,1007.3942654548656,343,Ambulance 4 1
-Creation,982.0,344,Source A1
-Ambulance accepts patient,990.3018780587049,344,Ambulance 2 1
-Arrival at patient,1000.1762606070951,344,Ambulance 2 1
-Waiting time,18.17626060709506,344,Ambulance 2 1
-Production complete,1010.3443615139581,344,Ambulance 2 1
-Creation,154.0,345,Source A2
-Ambulance accepts patient,992.5474342829059,345,Ambulance 6 1
-Arrival at patient,1001.661673498251,345,Ambulance 6 1
-Waiting time,847.661673498251,345,Ambulance 6 1
-Production complete,1011.2978075599755,345,Ambulance 6 1
-Creation,985.0,346,Source A1
-Ambulance accepts patient,990.8501283116427,346,Ambulance 5 1
-Arrival at patient,1000.5818256968548,346,Ambulance 5 1
-Waiting time,15.581825696854821,346,Ambulance 5 1
-Production complete,1012.1073578724966,346,Ambulance 5 1
-Creation,1006.0,347,Source A1
-Ambulance accepts patient,1010.3443615139581,347,Ambulance 2 1
-Arrival at patient,1011.4845374265898,347,Ambulance 2 1
-Waiting time,5.484537426589782,347,Ambulance 2 1
-Production complete,1013.632910942033,347,Ambulance 2 1
-Creation,988.0,348,Source A1
-Ambulance accepts patient,991.8926681392045,348,Ambulance 7 1
-Arrival at patient,1003.3485559475128,348,Ambulance 7 1
-Waiting time,15.34855594751275,348,Ambulance 7 1
-Production complete,1015.336499633966,348,Ambulance 7 1
-Creation,997.0,349,Source A1
-Ambulance accepts patient,1007.1423297922926,349,Ambulance 3 1
-Arrival at patient,1014.9244058842784,349,Ambulance 3 1
-Waiting time,17.92440588427837,349,Ambulance 3 1
-Production complete,1023.1900077174201,349,Ambulance 3 1
-Creation,1001.0,350,Source A1
-Ambulance accepts patient,1007.3942654548656,350,Ambulance 4 1
-Arrival at patient,1016.8365015839593,350,Ambulance 4 1
-Waiting time,15.836501583959262,350,Ambulance 4 1
-Production complete,1027.2368273404252,350,Ambulance 4 1
-Creation,994.0,351,Source A1
-Ambulance accepts patient,1003.2807406684635,351,Ambulance 1 1
-Arrival at patient,1015.1556227552951,351,Ambulance 1 1
-Waiting time,21.1556227552951,351,Ambulance 1 1
-Production complete,1027.4949545167194,351,Ambulance 1 1
-Creation,1009.0,352,Source A1
-Ambulance accepts patient,1011.2978075599755,352,Ambulance 6 1
-Arrival at patient,1020.9401310237914,352,Ambulance 6 1
-Waiting time,11.940131023791423,352,Ambulance 6 1
-Production complete,1031.0363881037315,352,Ambulance 6 1
-Creation,156.0,353,Source A2
-Ambulance accepts patient,1013.632910942033,353,Ambulance 2 1
-Arrival at patient,1024.4202048141246,353,Ambulance 2 1
-Waiting time,868.4202048141246,353,Ambulance 2 1
-Production complete,1035.4137308921659,353,Ambulance 2 1
-Creation,1010.0,354,Source A1
-Ambulance accepts patient,1012.1073578724966,354,Ambulance 5 1
-Arrival at patient,1023.4583042211345,354,Ambulance 5 1
-Waiting time,13.45830422113454,354,Ambulance 5 1
-Production complete,1036.981927629993,354,Ambulance 5 1
-Creation,1015.0,355,Source A1
-Ambulance accepts patient,1015.336499633966,355,Ambulance 7 1
-Arrival at patient,1026.1313321295127,355,Ambulance 7 1
-Waiting time,11.131332129512657,355,Ambulance 7 1
-Production complete,1038.0757597245483,355,Ambulance 7 1
-Creation,1038.0,356,Source A1
-Ambulance accepts patient,1038.0757597245483,356,Ambulance 7 1
-Arrival at patient,1040.153134968287,356,Ambulance 7 1
-Waiting time,2.153134968287077,356,Ambulance 7 1
-Production complete,1043.7136994262737,356,Ambulance 7 1
-Creation,1019.0,357,Source A1
-Ambulance accepts patient,1023.1900077174201,357,Ambulance 3 1
-Arrival at patient,1033.1632921816306,357,Ambulance 3 1
-Waiting time,14.163292181630595,357,Ambulance 3 1
-Production complete,1044.3160878921274,357,Ambulance 3 1
-Creation,1025.0,358,Source A1
-Ambulance accepts patient,1027.2368273404252,358,Ambulance 4 1
-Arrival at patient,1035.7101794919838,358,Ambulance 4 1
-Waiting time,10.710179491983808,358,Ambulance 4 1
-Production complete,1045.4639902223248,358,Ambulance 4 1
-Creation,1028.0,359,Source A1
-Ambulance accepts patient,1031.0363881037315,359,Ambulance 6 1
-Arrival at patient,1038.1093887322136,359,Ambulance 6 1
-Waiting time,10.109388732213574,359,Ambulance 6 1
-Production complete,1046.1154603226178,359,Ambulance 6 1
-Creation,159.0,360,Source A2
-Ambulance accepts patient,1027.4949545167194,360,Ambulance 1 1
-Arrival at patient,1037.309259598926,360,Ambulance 1 1
-Waiting time,878.309259598926,360,Ambulance 1 1
-Production complete,1048.373722427181,360,Ambulance 1 1
-Creation,1048.0,361,Source A1
-Ambulance accepts patient,1048.373722427181,361,Ambulance 1 1
-Arrival at patient,1049.1397691482002,361,Ambulance 1 1
-Waiting time,1.1397691482002301,361,Ambulance 1 1
-Production complete,1050.6468270230407,361,Ambulance 1 1
-Creation,1046.0,362,Source A1
-Ambulance accepts patient,1046.1154603226178,362,Ambulance 6 1
-Arrival at patient,1048.1522072152172,362,Ambulance 6 1
-Waiting time,2.1522072152172314,362,Ambulance 6 1
-Production complete,1050.915953966804,362,Ambulance 6 1
-Creation,164.0,363,Source A2
-Ambulance accepts patient,1036.981927629993,363,Ambulance 5 1
-Arrival at patient,1046.7152914615228,363,Ambulance 5 1
-Waiting time,882.7152914615228,363,Ambulance 5 1
-Production complete,1057.7951850913669,363,Ambulance 5 1
-Creation,1035.0,364,Source A1
-Ambulance accepts patient,1035.4137308921659,364,Ambulance 2 1
-Arrival at patient,1046.6693084175533,364,Ambulance 2 1
-Waiting time,11.669308417553339,364,Ambulance 2 1
-Production complete,1058.5934303981587,364,Ambulance 2 1
-Creation,171.0,365,Source A2
-Ambulance accepts patient,1045.4639902223248,365,Ambulance 4 1
-Arrival at patient,1054.447220056866,365,Ambulance 4 1
-Waiting time,883.447220056866,365,Ambulance 4 1
-Production complete,1064.8042283126204,365,Ambulance 4 1
-Creation,1043.0,366,Source A1
-Ambulance accepts patient,1043.7136994262737,366,Ambulance 7 1
-Arrival at patient,1054.6688031441383,366,Ambulance 7 1
-Waiting time,11.668803144138337,366,Ambulance 7 1
-Production complete,1066.346195110735,366,Ambulance 7 1
-Creation,168.0,367,Source A2
-Ambulance accepts patient,1044.3160878921274,367,Ambulance 3 1
-Arrival at patient,1056.0978655934478,367,Ambulance 3 1
-Waiting time,888.0978655934478,367,Ambulance 3 1
-Production complete,1068.921035009214,367,Ambulance 3 1
-Creation,179.0,368,Source A2
-Ambulance accepts patient,1050.915953966804,368,Ambulance 6 1
-Arrival at patient,1062.4644739048542,368,Ambulance 6 1
-Waiting time,883.4644739048542,368,Ambulance 6 1
-Production complete,1074.3785926575815,368,Ambulance 6 1
-Creation,177.0,369,Source A2
-Ambulance accepts patient,1050.6468270230407,369,Ambulance 1 1
-Arrival at patient,1063.5610818467358,369,Ambulance 1 1
-Waiting time,886.5610818467358,369,Ambulance 1 1
-Production complete,1076.9188512242488,369,Ambulance 1 1
-Creation,1051.0,370,Source A1
-Ambulance accepts patient,1057.7951850913669,370,Ambulance 5 1
-Arrival at patient,1067.469586151813,370,Ambulance 5 1
-Waiting time,16.46958615181302,370,Ambulance 5 1
-Production complete,1078.8841430783239,370,Ambulance 5 1
-Creation,1055.0,371,Source A1
-Ambulance accepts patient,1058.5934303981587,371,Ambulance 2 1
-Arrival at patient,1072.912734368837,371,Ambulance 2 1
-Waiting time,17.912734368836936,371,Ambulance 2 1
-Production complete,1088.0397828030148,371,Ambulance 2 1
-Creation,1064.0,372,Source A1
-Ambulance accepts patient,1068.921035009214,372,Ambulance 3 1
-Arrival at patient,1078.0242713891573,372,Ambulance 3 1
-Waiting time,14.02427138915732,372,Ambulance 3 1
-Production complete,1089.2368301220583,372,Ambulance 3 1
-Creation,1061.0,373,Source A1
-Ambulance accepts patient,1066.346195110735,373,Ambulance 7 1
-Arrival at patient,1078.1740587500356,373,Ambulance 7 1
-Waiting time,17.174058750035556,373,Ambulance 7 1
-Production complete,1090.5911623636016,373,Ambulance 7 1
-Creation,1060.0,374,Source A1
-Ambulance accepts patient,1064.8042283126204,374,Ambulance 4 1
-Arrival at patient,1078.2212620675843,374,Ambulance 4 1
-Waiting time,18.221262067584348,374,Ambulance 4 1
-Production complete,1092.463727979867,374,Ambulance 4 1
-Creation,1076.0,375,Source A1
-Ambulance accepts patient,1088.0397828030148,375,Ambulance 2 1
-Arrival at patient,1090.9368917349452,375,Ambulance 2 1
-Waiting time,14.93689173494522,375,Ambulance 2 1
-Production complete,1094.5688372704665,375,Ambulance 2 1
-Creation,1087.0,376,Source A1
-Ambulance accepts patient,1090.5911623636016,376,Ambulance 7 1
-Arrival at patient,1094.031128543889,376,Ambulance 7 1
-Waiting time,7.031128543889054,376,Ambulance 7 1
-Production complete,1098.2324780962429,376,Ambulance 7 1
-Creation,1067.0,377,Source A1
-Ambulance accepts patient,1074.3785926575815,377,Ambulance 6 1
-Arrival at patient,1086.407560133481,377,Ambulance 6 1
-Waiting time,19.407560133480956,377,Ambulance 6 1
-Production complete,1099.2490740919925,377,Ambulance 6 1
-Creation,1070.0,378,Source A1
-Ambulance accepts patient,1076.9188512242488,378,Ambulance 1 1
-Arrival at patient,1087.824807940164,378,Ambulance 1 1
-Waiting time,17.824807940163964,378,Ambulance 1 1
-Production complete,1099.7386168948947,378,Ambulance 1 1
-Creation,1094.0,379,Source A1
-Ambulance accepts patient,1094.5688372704665,379,Ambulance 2 1
-Arrival at patient,1097.2278788549377,379,Ambulance 2 1
-Waiting time,3.2278788549376713,379,Ambulance 2 1
-Production complete,1100.858656227153,379,Ambulance 2 1
-Creation,1074.0,380,Source A1
-Ambulance accepts patient,1078.8841430783239,380,Ambulance 5 1
-Arrival at patient,1090.690820724415,380,Ambulance 5 1
-Waiting time,16.69082072441506,380,Ambulance 5 1
-Production complete,1103.141494049613,380,Ambulance 5 1
-Creation,194.0,381,Source A2
-Ambulance accepts patient,1099.7386168948947,381,Ambulance 1 1
-Arrival at patient,1101.8176794410913,381,Ambulance 1 1
-Waiting time,907.8176794410913,381,Ambulance 1 1
-Production complete,1105.7904423732002,381,Ambulance 1 1
-Creation,1080.0,382,Source A1
-Ambulance accepts patient,1089.2368301220583,382,Ambulance 3 1
-Arrival at patient,1098.7474128860858,382,Ambulance 3 1
-Waiting time,18.74741288608584,382,Ambulance 3 1
-Production complete,1108.9484327924677,382,Ambulance 3 1
-Creation,181.0,383,Source A2
-Ambulance accepts patient,1092.463727979867,383,Ambulance 4 1
-Arrival at patient,1102.1392376878132,383,Ambulance 4 1
-Waiting time,921.1392376878132,383,Ambulance 4 1
-Production complete,1112.8817469910844,383,Ambulance 4 1
-Creation,191.0,384,Source A2
-Ambulance accepts patient,1099.2490740919925,384,Ambulance 6 1
-Arrival at patient,1108.2699776083007,384,Ambulance 6 1
-Waiting time,917.2699776083007,384,Ambulance 6 1
-Production complete,1118.2608721100362,384,Ambulance 6 1
-Creation,202.0,385,Source A2
-Ambulance accepts patient,1100.858656227153,385,Ambulance 2 1
-Arrival at patient,1109.493287543665,385,Ambulance 2 1
-Waiting time,907.493287543665,385,Ambulance 2 1
-Production complete,1118.430281155267,385,Ambulance 2 1
-Creation,185.0,386,Source A2
-Ambulance accepts patient,1098.2324780962429,386,Ambulance 7 1
-Arrival at patient,1108.3632406494664,386,Ambulance 7 1
-Waiting time,923.3632406494664,386,Ambulance 7 1
-Production complete,1119.9780145924494,386,Ambulance 7 1
-Creation,1102.0,387,Source A1
-Ambulance accepts patient,1103.141494049613,387,Ambulance 5 1
-Arrival at patient,1112.330183323189,387,Ambulance 5 1
-Waiting time,10.330183323188976,387,Ambulance 5 1
-Production complete,1124.0216447194782,387,Ambulance 5 1
-Creation,1105.0,388,Source A1
-Ambulance accepts patient,1105.7904423732002,388,Ambulance 1 1
-Arrival at patient,1115.1369789552482,388,Ambulance 1 1
-Waiting time,10.136978955248196,388,Ambulance 1 1
-Production complete,1125.5971309931278,388,Ambulance 1 1
-Creation,213.0,389,Source A2
-Ambulance accepts patient,1125.5971309931278,389,Ambulance 1 1
-Arrival at patient,1126.2865624055128,389,Ambulance 1 1
-Waiting time,913.2865624055128,389,Ambulance 1 1
-Production complete,1127.885161846182,389,Ambulance 1 1
-Creation,1127.0,390,Source A1
-Ambulance accepts patient,1127.885161846182,390,Ambulance 1 1
-Arrival at patient,1128.8934146345907,390,Ambulance 1 1
-Waiting time,1.8934146345907266,390,Ambulance 1 1
-Production complete,1130.641891002038,390,Ambulance 1 1
-Creation,1112.0,391,Source A1
-Ambulance accepts patient,1112.8817469910844,391,Ambulance 4 1
-Arrival at patient,1123.2998192220161,391,Ambulance 4 1
-Waiting time,11.29981922201614,391,Ambulance 4 1
-Production complete,1133.977697789336,391,Ambulance 4 1
-Creation,1108.0,392,Source A1
-Ambulance accepts patient,1108.9484327924677,392,Ambulance 3 1
-Arrival at patient,1121.061242381011,392,Ambulance 3 1
-Waiting time,13.06124238101097,392,Ambulance 3 1
-Production complete,1134.0225769335648,392,Ambulance 3 1
-Creation,208.0,393,Source A2
-Ambulance accepts patient,1119.9780145924494,393,Ambulance 7 1
-Arrival at patient,1131.953554805335,393,Ambulance 7 1
-Waiting time,923.953554805335,393,Ambulance 7 1
-Production complete,1144.5053156570755,393,Ambulance 7 1
-Creation,205.0,394,Source A2
-Ambulance accepts patient,1118.430281155267,394,Ambulance 2 1
-Arrival at patient,1131.276003184638,394,Ambulance 2 1
-Waiting time,926.2760031846381,394,Ambulance 2 1
-Production complete,1144.7029290089097,394,Ambulance 2 1
-Creation,1117.0,395,Source A1
-Ambulance accepts patient,1118.2608721100362,395,Ambulance 6 1
-Arrival at patient,1131.315068227348,395,Ambulance 6 1
-Waiting time,14.315068227348092,395,Ambulance 6 1
-Production complete,1145.2794068516303,395,Ambulance 6 1
-Creation,1123.0,396,Source A1
-Ambulance accepts patient,1124.0216447194782,396,Ambulance 5 1
-Arrival at patient,1134.4576468886457,396,Ambulance 5 1
-Waiting time,11.45764688864574,396,Ambulance 5 1
-Production complete,1145.3720826739348,396,Ambulance 5 1
-Creation,226.0,397,Source A2
-Ambulance accepts patient,1144.7029290089097,397,Ambulance 2 1
-Arrival at patient,1146.8021292984731,397,Ambulance 2 1
-Waiting time,920.8021292984731,397,Ambulance 2 1
-Production complete,1150.0477104943805,397,Ambulance 2 1
-Creation,216.0,398,Source A2
-Ambulance accepts patient,1130.641891002038,398,Ambulance 1 1
-Arrival at patient,1142.2552296399426,398,Ambulance 1 1
-Waiting time,926.2552296399426,398,Ambulance 1 1
-Production complete,1154.3459368315243,398,Ambulance 1 1
-Creation,219.0,399,Source A2
-Ambulance accepts patient,1134.0225769335648,399,Ambulance 3 1
-Arrival at patient,1144.4660982199914,399,Ambulance 3 1
-Waiting time,925.4660982199914,399,Ambulance 3 1
-Production complete,1155.3203516415515,399,Ambulance 3 1
-Creation,1131.0,400,Source A1
-Ambulance accepts patient,1133.977697789336,400,Ambulance 4 1
-Arrival at patient,1145.4172700259326,400,Ambulance 4 1
-Waiting time,14.417270025932567,400,Ambulance 4 1
-Production complete,1158.1380036806283,400,Ambulance 4 1
-Creation,231.0,401,Source A2
-Ambulance accepts patient,1145.2794068516303,401,Ambulance 6 1
-Arrival at patient,1155.3079422308765,401,Ambulance 6 1
-Waiting time,924.3079422308765,401,Ambulance 6 1
-Production complete,1165.8080284193825,401,Ambulance 6 1
-Creation,1146.0,402,Source A1
-Ambulance accepts patient,1150.0477104943805,402,Ambulance 2 1
-Arrival at patient,1158.9127978536096,402,Ambulance 2 1
-Waiting time,12.912797853609618,402,Ambulance 2 1
-Production complete,1168.0294163521644,402,Ambulance 2 1
-Creation,236.0,403,Source A2
-Ambulance accepts patient,1145.3720826739348,403,Ambulance 5 1
-Arrival at patient,1156.7210152078787,403,Ambulance 5 1
-Waiting time,920.7210152078787,403,Ambulance 5 1
-Production complete,1169.1128533728415,403,Ambulance 5 1
+Production started,942.1224536016002,329,Ambulance -1 0
+Production complete,971.0769064962868,329,Ambulance -1 0
+Creation,953.0,330,Source A1
+Production started,954.2963416587289,330,Ambulance -1 0
+Production complete,974.6855547491638,330,Ambulance -1 0
+Creation,151.0,331,Source A2
+Production started,948.2626935899251,331,Ambulance -1 0
+Production complete,974.9661656552463,331,Ambulance -1 0
+Creation,158.0,332,Source A2
+Production started,971.0769064962868,332,Ambulance -1 0
+Production complete,975.6782874916776,332,Ambulance -1 0
+Creation,960.0,333,Source A1
+Production started,963.0521616320016,333,Ambulance -1 0
+Production complete,977.8058856617672,333,Ambulance -1 0
+Creation,163.0,334,Source A2
+Production started,975.6782874916776,334,Ambulance -1 0
+Production complete,980.6794053664107,334,Ambulance -1 0
+Creation,165.0,335,Source A2
+Production started,977.8058856617672,335,Ambulance -1 0
+Production complete,983.887746571715,335,Ambulance -1 0
+Creation,972.0,336,Source A1
+Production started,974.6855547491638,336,Ambulance -1 0
+Production complete,997.0681336709791,336,Ambulance -1 0
+Creation,156.0,337,Source A2
+Production started,970.139832180512,337,Ambulance -1 0
+Production complete,997.6905573474744,337,Ambulance -1 0
+Creation,160.0,338,Source A2
+Production started,974.9661656552463,338,Ambulance -1 0
+Production complete,998.685922862115,338,Ambulance -1 0
+Creation,157.0,339,Source A2
+Production started,970.1727778439197,339,Ambulance -1 0
+Production complete,998.9448682904755,339,Ambulance -1 0
+Creation,966.0,340,Source A1
+Production started,969.9078871192844,340,Ambulance -1 0
+Production complete,999.6073367680673,340,Ambulance -1 0
+Creation,981.0,341,Source A1
+Production started,983.887746571715,341,Ambulance -1 0
+Production complete,1002.438365908951,341,Ambulance -1 0
+Creation,173.0,342,Source A2
+Production started,999.6073367680673,342,Ambulance -1 0
+Production complete,1005.1694688831952,342,Ambulance -1 0
+Creation,1001.0,343,Source A1
+Production started,1002.438365908951,343,Ambulance -1 0
+Production complete,1007.132399963382,343,Ambulance -1 0
+Creation,1005.0,344,Source A1
+Production started,1005.1694688831952,344,Ambulance -1 0
+Production complete,1008.5167133136981,344,Ambulance -1 0
+Creation,978.0,345,Source A1
+Production started,980.6794053664107,345,Ambulance -1 0
+Production complete,1009.8209192465548,345,Ambulance -1 0
+Creation,986.0,346,Source A1
+Production started,997.0681336709791,346,Ambulance -1 0
+Production complete,1014.3378008946287,346,Ambulance -1 0
+Creation,169.0,347,Source A2
+Production started,998.9448682904755,347,Ambulance -1 0
+Production complete,1018.9429048520681,347,Ambulance -1 0
+Creation,1007.0,348,Source A1
+Production started,1007.132399963382,348,Ambulance -1 0
+Production complete,1021.3684932595843,348,Ambulance -1 0
+Creation,179.0,349,Source A2
+Production started,1009.8209192465548,349,Ambulance -1 0
+Production complete,1026.7563356309024,349,Ambulance -1 0
+Creation,166.0,350,Source A2
+Production started,998.685922862115,350,Ambulance -1 0
+Production complete,1027.213613847427,350,Ambulance -1 0
+Creation,992.0,351,Source A1
+Production started,997.6905573474744,351,Ambulance -1 0
+Production complete,1027.2971209613713,351,Ambulance -1 0
+Creation,176.0,352,Source A2
+Production started,1008.5167133136981,352,Ambulance -1 0
+Production complete,1031.1758562728855,352,Ambulance -1 0
+Creation,1011.0,353,Source A1
+Production started,1014.3378008946287,353,Ambulance -1 0
+Production complete,1037.223713741483,353,Ambulance -1 0
+Creation,1014.0,354,Source A1
+Production started,1018.9429048520681,354,Ambulance -1 0
+Production complete,1039.7971452911454,354,Ambulance -1 0
+Creation,1029.0,355,Source A1
+Production started,1037.223713741483,355,Ambulance -1 0
+Production complete,1041.5446864550026,355,Ambulance -1 0
+Creation,1034.0,356,Source A1
+Production started,1039.7971452911454,356,Ambulance -1 0
+Production complete,1045.310348629879,356,Ambulance -1 0
+Creation,1024.0,357,Source A1
+Production started,1027.2971209613713,357,Ambulance -1 0
+Production complete,1048.4214937254403,357,Ambulance -1 0
+Creation,1016.0,358,Source A1
+Production started,1021.3684932595843,358,Ambulance -1 0
+Production complete,1050.2705247904055,358,Ambulance -1 0
+Creation,1040.0,359,Source A1
+Production started,1050.2705247904055,359,Ambulance -1 0
+Production complete,1051.7216337807397,359,Ambulance -1 0
+Creation,1020.0,360,Source A1
+Production started,1026.7563356309024,360,Ambulance -1 0
+Production complete,1052.5378626708325,360,Ambulance -1 0
+Creation,1028.0,361,Source A1
+Production started,1031.1758562728855,361,Ambulance -1 0
+Production complete,1054.5743789565254,361,Ambulance -1 0
+Creation,1042.0,362,Source A1
+Production started,1051.7216337807397,362,Ambulance -1 0
+Production complete,1055.3912819685127,362,Ambulance -1 0
+Creation,1022.0,363,Source A1
+Production started,1027.213613847427,363,Ambulance -1 0
+Production complete,1055.6977486549363,363,Ambulance -1 0
+Creation,1036.0,364,Source A1
+Production started,1041.5446864550026,364,Ambulance -1 0
+Production complete,1060.688607735047,364,Ambulance -1 0
+Creation,1039.0,365,Source A1
+Production started,1048.4214937254403,365,Ambulance -1 0
+Production complete,1065.6217215079023,365,Ambulance -1 0
+Creation,1055.0,366,Source A1
+Production started,1060.688607735047,366,Ambulance -1 0
+Production complete,1067.9121738636063,366,Ambulance -1 0
+Creation,1058.0,367,Source A1
+Production started,1065.6217215079023,367,Ambulance -1 0
+Production complete,1068.9902835795228,367,Ambulance -1 0
+Creation,1038.0,368,Source A1
+Production started,1045.310348629879,368,Ambulance -1 0
+Production complete,1070.9392088345132,368,Ambulance -1 0
+Creation,1047.0,369,Source A1
+Production started,1054.5743789565254,369,Ambulance -1 0
+Production complete,1075.1939238447949,369,Ambulance -1 0
+Creation,1050.0,370,Source A1
+Production started,1055.3912819685127,370,Ambulance -1 0
+Production complete,1075.2569260629061,370,Ambulance -1 0
+Creation,1052.0,371,Source A1
+Production started,1055.6977486549363,371,Ambulance -1 0
+Production complete,1077.8969653980284,371,Ambulance -1 0
+Creation,1072.0,372,Source A1
+Production started,1075.1939238447949,372,Ambulance -1 0
+Production complete,1080.6510454806316,372,Ambulance -1 0
+Creation,1044.0,373,Source A1
+Production started,1052.5378626708325,373,Ambulance -1 0
+Production complete,1081.3838452462453,373,Ambulance -1 0
+Creation,1078.0,374,Source A1
+Production started,1080.6510454806316,374,Ambulance -1 0
+Production complete,1086.017123080255,374,Ambulance -1 0
+Creation,1064.0,375,Source A1
+Production started,1068.9902835795228,375,Ambulance -1 0
+Production complete,1093.1076613407633,375,Ambulance -1 0
+Creation,1061.0,376,Source A1
+Production started,1067.9121738636063,376,Ambulance -1 0
+Production complete,1094.1008246683245,376,Ambulance -1 0
+Creation,1068.0,377,Source A1
+Production started,1070.9392088345132,377,Ambulance -1 0
+Production complete,1094.2492640984358,377,Ambulance -1 0
+Creation,183.0,378,Source A2
+Production started,1075.2569260629061,378,Ambulance -1 0
+Production complete,1096.6745755355334,378,Ambulance -1 0
+Creation,1088.0,379,Source A1
+Production started,1093.1076613407633,379,Ambulance -1 0
+Production complete,1097.9213269245965,379,Ambulance -1 0
+Creation,1094.0,380,Source A1
+Production started,1094.1008246683245,380,Ambulance -1 0
+Production complete,1100.8030217537764,380,Ambulance -1 0
+Creation,1076.0,381,Source A1
+Production started,1077.8969653980284,381,Ambulance -1 0
+Production complete,1104.928088584652,381,Ambulance -1 0
+Creation,190.0,382,Source A2
+Production started,1086.017123080255,382,Ambulance -1 0
+Production complete,1106.284710330561,382,Ambulance -1 0
+Creation,1080.0,383,Source A1
+Production started,1081.3838452462453,383,Ambulance -1 0
+Production complete,1110.986564939358,383,Ambulance -1 0
+Creation,200.0,384,Source A2
+Production started,1094.2492640984358,384,Ambulance -1 0
+Production complete,1117.827399756061,384,Ambulance -1 0
+Creation,204.0,385,Source A2
+Production started,1097.9213269245965,385,Ambulance -1 0
+Production complete,1121.841421374497,385,Ambulance -1 0
+Creation,1100.0,386,Source A1
+Production started,1100.8030217537764,386,Ambulance -1 0
+Production complete,1124.2570030467664,386,Ambulance -1 0
+Creation,1105.0,387,Source A1
+Production started,1106.284710330561,387,Ambulance -1 0
+Production complete,1124.7141689208124,387,Ambulance -1 0
+Creation,1103.0,388,Source A1
+Production started,1104.928088584652,388,Ambulance -1 0
+Production complete,1126.7792599856557,388,Ambulance -1 0
+Creation,1095.0,389,Source A1
+Production started,1096.6745755355334,389,Ambulance -1 0
+Production complete,1127.2362461491,389,Ambulance -1 0
+Creation,1109.0,390,Source A1
+Production started,1110.986564939358,390,Ambulance -1 0
+Production complete,1129.046638748083,390,Ambulance -1 0
+Creation,1124.0,391,Source A1
+Production started,1124.2570030467664,391,Ambulance -1 0
+Production complete,1140.3903409179086,391,Ambulance -1 0
+Creation,1118.0,392,Source A1
+Production started,1121.841421374497,392,Ambulance -1 0
+Production complete,1140.8933024819314,392,Ambulance -1 0
+Creation,1115.0,393,Source A1
+Production started,1117.827399756061,393,Ambulance -1 0
+Production complete,1145.2793762584508,393,Ambulance -1 0
+Creation,210.0,394,Source A2
+Production started,1124.7141689208124,394,Ambulance -1 0
+Production complete,1146.3113189235569,394,Ambulance -1 0
+Creation,223.0,395,Source A2
+Production started,1129.046638748083,395,Ambulance -1 0
+Production complete,1149.4716757387082,395,Ambulance -1 0
+Creation,214.0,396,Source A2
+Production started,1126.7792599856557,396,Ambulance -1 0
+Production complete,1149.8358417418272,396,Ambulance -1 0
+Creation,218.0,397,Source A2
+Production started,1127.2362461491,397,Ambulance -1 0
+Production complete,1152.9395630740464,397,Ambulance -1 0
+Creation,1146.0,398,Source A1
+Production started,1149.8358417418272,398,Ambulance -1 0
+Production complete,1153.4484184171502,398,Ambulance -1 0
+Creation,1140.0,399,Source A1
+Production started,1140.8933024819314,399,Ambulance -1 0
+Production complete,1160.2263653262082,399,Ambulance -1 0
+Creation,1142.0,400,Source A1
+Production started,1145.2793762584508,400,Ambulance -1 0
+Production complete,1163.3435840498116,400,Ambulance -1 0
+Creation,1132.0,401,Source A1
+Production started,1140.3903409179086,401,Ambulance -1 0
+Production complete,1164.665264925618,401,Ambulance -1 0
+Creation,1144.0,402,Source A1
+Production started,1149.4716757387082,402,Ambulance -1 0
+Production complete,1167.1831852568114,402,Ambulance -1 0
+Creation,1143.0,403,Source A1
+Production started,1146.3113189235569,403,Ambulance -1 0
+Production complete,1169.8228696509616,403,Ambulance -1 0
 Creation,1147.0,404,Source A1
-Ambulance accepts patient,1154.3459368315243,404,Ambulance 1 1
-Arrival at patient,1162.2102386914812,404,Ambulance 1 1
-Waiting time,15.210238691481209,404,Ambulance 1 1
-Production complete,1171.4712382326802,404,Ambulance 1 1
-Creation,1155.0,405,Source A1
-Ambulance accepts patient,1165.8080284193825,405,Ambulance 6 1
-Arrival at patient,1168.5484482979502,405,Ambulance 6 1
-Waiting time,13.548448297950245,405,Ambulance 6 1
-Production complete,1171.8114362630192,405,Ambulance 6 1
-Creation,1139.0,406,Source A1
-Ambulance accepts patient,1144.5053156570755,406,Ambulance 7 1
-Arrival at patient,1159.18527793073,406,Ambulance 7 1
-Waiting time,20.18527793073008,406,Ambulance 7 1
-Production complete,1175.5545252742384,406,Ambulance 7 1
+Production started,1152.9395630740464,404,Ambulance -1 0
+Production complete,1172.5887082683737,404,Ambulance -1 0
+Creation,1148.0,405,Source A1
+Production started,1153.4484184171502,405,Ambulance -1 0
+Production complete,1176.6025020830778,405,Ambulance -1 0
+Creation,1152.0,406,Source A1
+Production started,1164.665264925618,406,Ambulance -1 0
+Production complete,1182.6240451379415,406,Ambulance -1 0
 Creation,1151.0,407,Source A1
-Ambulance accepts patient,1155.3203516415515,407,Ambulance 3 1
-Arrival at patient,1165.8742066167367,407,Ambulance 3 1
-Waiting time,14.874206616736728,407,Ambulance 3 1
-Production complete,1177.6854389953367,407,Ambulance 3 1
-Creation,1162.0,408,Source A1
-Ambulance accepts patient,1171.8114362630192,408,Ambulance 6 1
-Arrival at patient,1174.7438853250667,408,Ambulance 6 1
-Waiting time,12.743885325066685,408,Ambulance 6 1
-Production complete,1178.1136245677963,408,Ambulance 6 1
-Creation,1153.0,409,Source A1
-Ambulance accepts patient,1158.1380036806283,409,Ambulance 4 1
-Arrival at patient,1171.5860816173238,409,Ambulance 4 1
-Waiting time,18.58608161732377,409,Ambulance 4 1
-Production complete,1185.3841230302803,409,Ambulance 4 1
-Creation,1158.0,410,Source A1
-Ambulance accepts patient,1171.4712382326802,410,Ambulance 1 1
-Arrival at patient,1182.3753572878238,410,Ambulance 1 1
-Waiting time,24.375357287823817,410,Ambulance 1 1
-Production complete,1193.3927813448622,410,Ambulance 1 1
-Creation,1156.0,411,Source A1
-Ambulance accepts patient,1168.0294163521644,411,Ambulance 2 1
-Arrival at patient,1180.761831338932,411,Ambulance 2 1
-Waiting time,24.761831338932097,411,Ambulance 2 1
-Production complete,1194.298351518532,411,Ambulance 2 1
-Creation,1157.0,412,Source A1
-Ambulance accepts patient,1169.1128533728415,412,Ambulance 5 1
-Arrival at patient,1181.8465195153387,412,Ambulance 5 1
-Waiting time,24.84651951533874,412,Ambulance 5 1
-Production complete,1196.6472907931602,412,Ambulance 5 1
-Creation,1167.0,413,Source A1
-Ambulance accepts patient,1177.6854389953367,413,Ambulance 3 1
-Arrival at patient,1188.2293146609186,413,Ambulance 3 1
-Waiting time,21.22931466091859,413,Ambulance 3 1
-Production complete,1199.457235186733,413,Ambulance 3 1
-Creation,1169.0,414,Source A1
-Ambulance accepts patient,1178.1136245677963,414,Ambulance 6 1
-Arrival at patient,1188.6286422222363,414,Ambulance 6 1
-Waiting time,19.628642222236294,414,Ambulance 6 1
-Production complete,1200.6996903622855,414,Ambulance 6 1
-Creation,1164.0,415,Source A1
-Ambulance accepts patient,1175.5545252742384,415,Ambulance 7 1
-Arrival at patient,1187.177235629518,415,Ambulance 7 1
-Waiting time,23.17723562951801,415,Ambulance 7 1
-Production complete,1200.8384262272261,415,Ambulance 7 1
-Creation,1170.0,416,Source A1
-Ambulance accepts patient,1185.3841230302803,416,Ambulance 4 1
-Arrival at patient,1194.068007303739,416,Ambulance 4 1
-Waiting time,24.068007303739023,416,Ambulance 4 1
-Production complete,1203.3062000094658,416,Ambulance 4 1
-Creation,1184.0,417,Source A1
-Ambulance accepts patient,1200.8384262272261,417,Ambulance 7 1
-Arrival at patient,1202.1052560268984,417,Ambulance 7 1
-Waiting time,18.10525602689836,417,Ambulance 7 1
-Production complete,1204.5012669306261,417,Ambulance 7 1
-Creation,1172.0,418,Source A1
-Ambulance accepts patient,1193.3927813448622,418,Ambulance 1 1
-Arrival at patient,1202.0700172304741,418,Ambulance 1 1
-Waiting time,30.07001723047415,418,Ambulance 1 1
-Production complete,1211.3291314700775,418,Ambulance 1 1
-Creation,1174.0,419,Source A1
-Ambulance accepts patient,1194.298351518532,419,Ambulance 2 1
-Arrival at patient,1205.439965022571,419,Ambulance 2 1
-Waiting time,31.43996502257096,419,Ambulance 2 1
-Production complete,1217.1820204959795,419,Ambulance 2 1
-Creation,1175.0,420,Source A1
-Ambulance accepts patient,1196.6472907931602,420,Ambulance 5 1
-Arrival at patient,1207.420144133238,420,Ambulance 5 1
-Waiting time,32.420144133237955,420,Ambulance 5 1
-Production complete,1219.1567047036847,420,Ambulance 5 1
-Creation,1195.0,421,Source A1
-Ambulance accepts patient,1217.1820204959795,421,Ambulance 2 1
-Arrival at patient,1219.0856734144609,421,Ambulance 2 1
-Waiting time,24.08567341446087,421,Ambulance 2 1
-Production complete,1221.826289536175,421,Ambulance 2 1
-Creation,1179.0,422,Source A1
-Ambulance accepts patient,1199.457235186733,422,Ambulance 3 1
-Arrival at patient,1210.7587703248062,422,Ambulance 3 1
-Waiting time,31.758770324806164,422,Ambulance 3 1
-Production complete,1223.4595580682203,422,Ambulance 3 1
-Creation,1188.0,423,Source A1
-Ambulance accepts patient,1204.5012669306261,423,Ambulance 7 1
-Arrival at patient,1215.3134736728925,423,Ambulance 7 1
-Waiting time,27.313473672892542,423,Ambulance 7 1
-Production complete,1228.895312032787,423,Ambulance 7 1
-Creation,1185.0,424,Source A1
-Ambulance accepts patient,1203.3062000094658,424,Ambulance 4 1
-Arrival at patient,1216.207067963539,424,Ambulance 4 1
-Waiting time,31.207067963538975,424,Ambulance 4 1
-Production complete,1230.0984845930668,424,Ambulance 4 1
-Creation,1199.0,425,Source A1
-Ambulance accepts patient,1223.4595580682203,425,Ambulance 3 1
-Arrival at patient,1226.845663283829,425,Ambulance 3 1
-Waiting time,27.845663283829026,425,Ambulance 3 1
-Production complete,1231.0133984148517,425,Ambulance 3 1
-Creation,1182.0,426,Source A1
-Ambulance accepts patient,1200.6996903622855,426,Ambulance 6 1
-Arrival at patient,1215.5822682436778,426,Ambulance 6 1
-Waiting time,33.582268243677845,426,Ambulance 6 1
-Production complete,1231.2119260679522,426,Ambulance 6 1
-Creation,1204.0,427,Source A1
-Ambulance accepts patient,1230.0984845930668,427,Ambulance 4 1
-Arrival at patient,1230.778661100276,427,Ambulance 4 1
-Waiting time,26.77866110027594,427,Ambulance 4 1
-Production complete,1231.6565976855215,427,Ambulance 4 1
-Creation,1192.0,428,Source A1
-Ambulance accepts patient,1211.3291314700775,428,Ambulance 1 1
-Arrival at patient,1222.3210198450029,428,Ambulance 1 1
-Waiting time,30.321019845002866,428,Ambulance 1 1
-Production complete,1234.5808914022386,428,Ambulance 1 1
-Creation,1211.0,429,Source A1
-Ambulance accepts patient,1231.0133984148517,429,Ambulance 3 1
-Arrival at patient,1233.3022717507288,429,Ambulance 3 1
-Waiting time,22.302271750728778,429,Ambulance 3 1
-Production complete,1235.8267010116124,429,Ambulance 3 1
-Creation,1198.0,430,Source A1
-Ambulance accepts patient,1221.826289536175,430,Ambulance 2 1
-Arrival at patient,1231.545095095969,430,Ambulance 2 1
-Waiting time,33.54509509596892,430,Ambulance 2 1
-Production complete,1243.018790523699,430,Ambulance 2 1
-Creation,1196.0,431,Source A1
-Ambulance accepts patient,1219.1567047036847,431,Ambulance 5 1
-Arrival at patient,1231.6010062873772,431,Ambulance 5 1
-Waiting time,35.60100628737723,431,Ambulance 5 1
-Production complete,1244.9697291976922,431,Ambulance 5 1
-Creation,242.0,432,Source A2
-Ambulance accepts patient,1235.8267010116124,432,Ambulance 3 1
-Arrival at patient,1243.8025902110085,432,Ambulance 3 1
-Waiting time,1001.8025902110085,432,Ambulance 3 1
-Production complete,1252.1075694479082,432,Ambulance 3 1
-Creation,1219.0,433,Source A1
-Ambulance accepts patient,1231.2119260679522,433,Ambulance 6 1
-Arrival at patient,1241.4055078109257,433,Ambulance 6 1
-Waiting time,22.405507810925656,433,Ambulance 6 1
-Production complete,1253.7416723238357,433,Ambulance 6 1
-Creation,1200.0,434,Source A1
-Ambulance accepts patient,1228.895312032787,434,Ambulance 7 1
-Arrival at patient,1243.664551547602,434,Ambulance 7 1
-Waiting time,43.66455154760206,434,Ambulance 7 1
-Production complete,1259.7674314401445,434,Ambulance 7 1
-Creation,1228.0,435,Source A1
-Ambulance accepts patient,1231.6565976855215,435,Ambulance 4 1
-Arrival at patient,1245.1717487006813,435,Ambulance 4 1
-Waiting time,17.17174870068129,435,Ambulance 4 1
-Production complete,1260.5843642424088,435,Ambulance 4 1
-Creation,1236.0,436,Source A1
-Ambulance accepts patient,1243.018790523699,436,Ambulance 2 1
-Arrival at patient,1252.2605237618375,436,Ambulance 2 1
-Waiting time,16.260523761837476,436,Ambulance 2 1
-Production complete,1262.2690279124427,436,Ambulance 2 1
-Creation,238.0,437,Source A2
-Ambulance accepts patient,1234.5808914022386,437,Ambulance 1 1
-Arrival at patient,1248.1049034002679,437,Ambulance 1 1
-Waiting time,1010.1049034002679,437,Ambulance 1 1
-Production complete,1263.0837891385095,437,Ambulance 1 1
-Creation,253.0,438,Source A2
-Ambulance accepts patient,1253.7416723238357,438,Ambulance 6 1
-Arrival at patient,1262.3415886877788,438,Ambulance 6 1
-Waiting time,1009.3415886877788,438,Ambulance 6 1
-Production complete,1271.7766505350214,438,Ambulance 6 1
-Creation,246.0,439,Source A2
-Ambulance accepts patient,1244.9697291976922,439,Ambulance 5 1
-Arrival at patient,1259.295556728253,439,Ambulance 5 1
-Waiting time,1013.2955567282529,439,Ambulance 5 1
-Production complete,1274.3609244447373,439,Ambulance 5 1
-Creation,1247.0,440,Source A1
-Ambulance accepts patient,1252.1075694479082,440,Ambulance 3 1
-Arrival at patient,1263.467601577727,440,Ambulance 3 1
-Waiting time,16.46760157772701,440,Ambulance 3 1
-Production complete,1275.6840559593675,440,Ambulance 3 1
-Creation,257.0,441,Source A2
-Ambulance accepts patient,1262.2690279124427,441,Ambulance 2 1
-Arrival at patient,1272.5410802003105,441,Ambulance 2 1
-Waiting time,1015.5410802003105,441,Ambulance 2 1
-Production complete,1284.0205936503717,441,Ambulance 2 1
-Creation,260.0,442,Source A2
-Ambulance accepts patient,1263.0837891385095,442,Ambulance 1 1
-Arrival at patient,1274.6470843250713,442,Ambulance 1 1
-Waiting time,1014.6470843250713,442,Ambulance 1 1
-Production complete,1287.1200972224087,442,Ambulance 1 1
-Creation,1259.0,443,Source A1
-Ambulance accepts patient,1260.5843642424088,443,Ambulance 4 1
-Arrival at patient,1273.4423043347501,443,Ambulance 4 1
-Waiting time,14.442304334750133,443,Ambulance 4 1
-Production complete,1287.2364922299284,443,Ambulance 4 1
-Creation,1254.0,444,Source A1
-Ambulance accepts patient,1259.7674314401445,444,Ambulance 7 1
-Arrival at patient,1273.1221815826761,444,Ambulance 7 1
-Waiting time,19.12218158267615,444,Ambulance 7 1
-Production complete,1287.7380786061995,444,Ambulance 7 1
-Creation,1267.0,445,Source A1
-Ambulance accepts patient,1271.7766505350214,445,Ambulance 6 1
-Arrival at patient,1282.9931044994921,445,Ambulance 6 1
-Waiting time,15.99310449949212,445,Ambulance 6 1
-Production complete,1295.1316655268697,445,Ambulance 6 1
-Creation,1272.0,446,Source A1
-Ambulance accepts patient,1275.6840559593675,446,Ambulance 3 1
-Arrival at patient,1289.256340020905,446,Ambulance 3 1
-Waiting time,17.2563400209051,446,Ambulance 3 1
-Production complete,1304.2941515063444,446,Ambulance 3 1
-Creation,1269.0,447,Source A1
-Ambulance accepts patient,1274.3609244447373,447,Ambulance 5 1
-Arrival at patient,1288.9506415853543,447,Ambulance 5 1
-Waiting time,19.950641585354333,447,Ambulance 5 1
-Production complete,1304.432781769209,447,Ambulance 5 1
-Creation,1274.0,448,Source A1
-Ambulance accepts patient,1284.0205936503717,448,Ambulance 2 1
-Arrival at patient,1296.6067844550075,448,Ambulance 2 1
-Waiting time,22.606784455007528,448,Ambulance 2 1
-Production complete,1310.0834083877658,448,Ambulance 2 1
-Creation,1278.0,449,Source A1
-Ambulance accepts patient,1287.2364922299284,449,Ambulance 4 1
-Arrival at patient,1298.7101159997244,449,Ambulance 4 1
-Waiting time,20.710115999724394,449,Ambulance 4 1
-Production complete,1311.589334663011,449,Ambulance 4 1
+Production started,1163.3435840498116,407,Ambulance -1 0
+Production complete,1184.4334570481194,407,Ambulance -1 0
+Creation,1150.0,408,Source A1
+Production started,1160.2263653262082,408,Ambulance -1 0
+Production complete,1187.2631439165048,408,Ambulance -1 0
+Creation,1157.0,409,Source A1
+Production started,1172.5887082683737,409,Ambulance -1 0
+Production complete,1189.6638879807701,409,Ambulance -1 0
+Creation,1168.0,410,Source A1
+Production started,1189.6638879807701,410,Ambulance -1 0
+Production complete,1195.1675187438989,410,Ambulance -1 0
+Creation,1153.0,411,Source A1
+Production started,1167.1831852568114,411,Ambulance -1 0
+Production complete,1197.1861998987092,411,Ambulance -1 0
+Creation,1155.0,412,Source A1
+Production started,1169.8228696509616,412,Ambulance -1 0
+Production complete,1199.1852985007733,412,Ambulance -1 0
+Creation,1160.0,413,Source A1
+Production started,1176.6025020830778,413,Ambulance -1 0
+Production complete,1199.8933874347483,413,Ambulance -1 0
+Creation,1176.0,414,Source A1
+Production started,1199.8933874347483,414,Ambulance -1 0
+Production complete,1203.107203723489,414,Ambulance -1 0
+Creation,1179.0,415,Source A1
+Production started,1203.107203723489,415,Ambulance -1 0
+Production complete,1208.9590827344944,415,Ambulance -1 0
+Creation,1162.0,416,Source A1
+Production started,1184.4334570481194,416,Ambulance -1 0
+Production complete,1210.4673653742063,416,Ambulance -1 0
+Creation,1165.0,417,Source A1
+Production started,1187.2631439165048,417,Ambulance -1 0
+Production complete,1210.8881620054556,417,Ambulance -1 0
+Creation,1161.0,418,Source A1
+Production started,1182.6240451379415,418,Ambulance -1 0
+Production complete,1211.0497012255398,418,Ambulance -1 0
+Creation,1188.0,419,Source A1
+Production started,1210.8881620054556,419,Ambulance -1 0
+Production complete,1215.3348882337011,419,Ambulance -1 0
+Creation,1172.0,420,Source A1
+Production started,1197.1861998987092,420,Ambulance -1 0
+Production complete,1219.6542100074662,420,Ambulance -1 0
+Creation,1170.0,421,Source A1
+Production started,1195.1675187438989,421,Ambulance -1 0
+Production complete,1220.4717762808925,421,Ambulance -1 0
+Creation,1182.0,422,Source A1
+Production started,1208.9590827344944,422,Ambulance -1 0
+Production complete,1229.386240859958,422,Ambulance -1 0
+Creation,1174.0,423,Source A1
+Production started,1199.1852985007733,423,Ambulance -1 0
+Production complete,1229.4869759687142,423,Ambulance -1 0
+Creation,1190.0,424,Source A1
+Production started,1211.0497012255398,424,Ambulance -1 0
+Production complete,1230.6680052299682,424,Ambulance -1 0
+Creation,1192.0,425,Source A1
+Production started,1215.3348882337011,425,Ambulance -1 0
+Production complete,1236.1251608152597,425,Ambulance -1 0
+Creation,1184.0,426,Source A1
+Production started,1210.4673653742063,426,Ambulance -1 0
+Production complete,1236.6511779034552,426,Ambulance -1 0
+Creation,1197.0,427,Source A1
+Production started,1220.4717762808925,427,Ambulance -1 0
+Production complete,1239.4367367817576,427,Ambulance -1 0
+Creation,1195.0,428,Source A1
+Production started,1219.6542100074662,428,Ambulance -1 0
+Production complete,1243.5939508959802,428,Ambulance -1 0
+Creation,1198.0,429,Source A1
+Production started,1229.386240859958,429,Ambulance -1 0
+Production complete,1247.3269178473117,429,Ambulance -1 0
+Creation,1230.0,430,Source A1
+Production started,1247.3269178473117,430,Ambulance -1 0
+Production complete,1249.9508207572487,430,Ambulance -1 0
+Creation,1216.0,431,Source A1
+Production started,1236.6511779034552,431,Ambulance -1 0
+Production complete,1251.8913517245685,431,Ambulance -1 0
+Creation,1238.0,432,Source A1
+Production started,1249.9508207572487,432,Ambulance -1 0
+Production complete,1257.2030277197641,432,Ambulance -1 0
+Creation,1201.0,433,Source A1
+Production started,1229.4869759687142,433,Ambulance -1 0
+Production complete,1258.4380758863244,433,Ambulance -1 0
+Creation,1219.0,434,Source A1
+Production started,1239.4367367817576,434,Ambulance -1 0
+Production complete,1259.0208173326619,434,Ambulance -1 0
+Creation,1211.0,435,Source A1
+Production started,1236.1251608152597,435,Ambulance -1 0
+Production complete,1259.7314063161998,435,Ambulance -1 0
+Creation,229.0,436,Source A2
+Production started,1259.0208173326619,436,Ambulance -1 0
+Production complete,1261.594628237878,436,Ambulance -1 0
+Creation,1207.0,437,Source A1
+Production started,1230.6680052299682,437,Ambulance -1 0
+Production complete,1262.3572461927229,437,Ambulance -1 0
+Creation,1226.0,438,Source A1
+Production started,1243.5939508959802,438,Ambulance -1 0
+Production complete,1264.4672752869803,438,Ambulance -1 0
+Creation,244.0,439,Source A2
+Production started,1261.594628237878,439,Ambulance -1 0
+Production complete,1268.453451640137,439,Ambulance -1 0
+Creation,1245.0,440,Source A1
+Production started,1251.8913517245685,440,Ambulance -1 0
+Production complete,1271.8891655333525,440,Ambulance -1 0
+Creation,1252.0,441,Source A1
+Production started,1257.2030277197641,441,Ambulance -1 0
+Production complete,1277.2707265794782,441,Ambulance -1 0
+Creation,1257.0,442,Source A1
+Production started,1258.4380758863244,442,Ambulance -1 0
+Production complete,1282.6029462783883,442,Ambulance -1 0
+Creation,241.0,443,Source A2
+Production started,1259.7314063161998,443,Ambulance -1 0
+Production complete,1283.5220838965115,443,Ambulance -1 0
+Creation,249.0,444,Source A2
+Production started,1262.3572461927229,444,Ambulance -1 0
+Production complete,1286.2206465754332,444,Ambulance -1 0
+Creation,1270.0,445,Source A1
+Production started,1271.8891655333525,445,Ambulance -1 0
+Production complete,1290.4309097423265,445,Ambulance -1 0
+Creation,1263.0,446,Source A1
+Production started,1264.4672752869803,446,Ambulance -1 0
+Production complete,1293.5038569348344,446,Ambulance -1 0
+Creation,1267.0,447,Source A1
+Production started,1268.453451640137,447,Ambulance -1 0
+Production complete,1295.4281869967135,447,Ambulance -1 0
+Creation,1272.0,448,Source A1
+Production started,1277.2707265794782,448,Ambulance -1 0
+Production complete,1299.526120258013,448,Ambulance -1 0
+Creation,1277.0,449,Source A1
+Production started,1283.5220838965115,449,Ambulance -1 0
+Production complete,1305.884883207756,449,Ambulance -1 0
 Creation,1276.0,450,Source A1
-Ambulance accepts patient,1287.1200972224087,450,Ambulance 1 1
-Arrival at patient,1299.4726306573198,450,Ambulance 1 1
-Waiting time,23.47263065731977,450,Ambulance 1 1
-Production complete,1312.6251651781497,450,Ambulance 1 1
-Creation,1286.0,451,Source A1
-Ambulance accepts patient,1287.7380786061995,451,Ambulance 7 1
-Arrival at patient,1300.374689221463,451,Ambulance 7 1
-Waiting time,14.374689221463086,451,Ambulance 7 1
-Production complete,1313.779960050613,451,Ambulance 7 1
-Creation,1290.0,452,Source A1
-Ambulance accepts patient,1295.1316655268697,452,Ambulance 6 1
-Arrival at patient,1304.623405175636,452,Ambulance 6 1
-Waiting time,14.62340517563598,452,Ambulance 6 1
-Production complete,1315.3652385819867,452,Ambulance 6 1
-Creation,1294.0,453,Source A1
-Ambulance accepts patient,1304.2941515063444,453,Ambulance 3 1
-Arrival at patient,1314.9101668999717,453,Ambulance 3 1
-Waiting time,20.910166899971728,453,Ambulance 3 1
-Production complete,1325.8350111350405,453,Ambulance 3 1
-Creation,1298.0,454,Source A1
-Ambulance accepts patient,1304.432781769209,454,Ambulance 5 1
-Arrival at patient,1316.8198376209102,454,Ambulance 5 1
-Waiting time,18.81983762091022,454,Ambulance 5 1
-Production complete,1329.7798605863152,454,Ambulance 5 1
-Creation,1300.0,455,Source A1
-Ambulance accepts patient,1310.0834083877658,455,Ambulance 2 1
-Arrival at patient,1321.0146273064868,455,Ambulance 2 1
-Waiting time,21.014627306486773,455,Ambulance 2 1
-Production complete,1332.3049452781092,455,Ambulance 2 1
-Creation,1311.0,456,Source A1
-Ambulance accepts patient,1313.779960050613,456,Ambulance 7 1
-Arrival at patient,1324.5379442360825,456,Ambulance 7 1
-Waiting time,13.537944236082467,456,Ambulance 7 1
-Production complete,1336.4427796365396,456,Ambulance 7 1
-Creation,1306.0,457,Source A1
-Ambulance accepts patient,1312.6251651781497,457,Ambulance 1 1
-Arrival at patient,1324.425322762142,457,Ambulance 1 1
-Waiting time,18.42532276214206,457,Ambulance 1 1
-Production complete,1336.7412593698725,457,Ambulance 1 1
-Creation,1304.0,458,Source A1
-Ambulance accepts patient,1311.589334663011,458,Ambulance 4 1
-Arrival at patient,1325.831428987495,458,Ambulance 4 1
-Waiting time,21.831428987494974,458,Ambulance 4 1
-Production complete,1342.0766942548883,458,Ambulance 4 1
-Creation,1315.0,459,Source A1
-Ambulance accepts patient,1315.3652385819867,459,Ambulance 6 1
-Arrival at patient,1328.4631837343745,459,Ambulance 6 1
-Waiting time,13.463183734374525,459,Ambulance 6 1
-Production complete,1343.0126263559132,459,Ambulance 6 1
-Creation,1318.0,460,Source A1
-Ambulance accepts patient,1325.8350111350405,460,Ambulance 3 1
-Arrival at patient,1335.7512408487785,460,Ambulance 3 1
-Waiting time,17.75124084877848,460,Ambulance 3 1
-Production complete,1346.3078190249066,460,Ambulance 3 1
-Creation,1323.0,461,Source A1
-Ambulance accepts patient,1329.7798605863152,461,Ambulance 5 1
-Arrival at patient,1338.0698012441987,461,Ambulance 5 1
-Waiting time,15.069801244198743,461,Ambulance 5 1
-Production complete,1347.5943926850964,461,Ambulance 5 1
-Creation,264.0,462,Source A2
-Ambulance accepts patient,1346.3078190249066,462,Ambulance 3 1
-Arrival at patient,1349.5617633702802,462,Ambulance 3 1
-Waiting time,1085.5617633702802,462,Ambulance 3 1
-Production complete,1353.6197517059347,462,Ambulance 3 1
-Creation,1330.0,463,Source A1
-Ambulance accepts patient,1336.4427796365396,463,Ambulance 7 1
-Arrival at patient,1348.109603081943,463,Ambulance 7 1
-Waiting time,18.109603081943078,463,Ambulance 7 1
-Production complete,1360.1889694465033,463,Ambulance 7 1
+Production started,1282.6029462783883,450,Ambulance -1 0
+Production complete,1312.754055101486,450,Ambulance -1 0
+Creation,1289.0,451,Source A1
+Production started,1295.4281869967135,451,Ambulance -1 0
+Production complete,1313.58933905918,451,Ambulance -1 0
+Creation,1279.0,452,Source A1
+Production started,1286.2206465754332,452,Ambulance -1 0
+Production complete,1315.8833922101182,452,Ambulance -1 0
+Creation,1283.0,453,Source A1
+Production started,1290.4309097423265,453,Ambulance -1 0
+Production complete,1318.0839230855213,453,Ambulance -1 0
+Creation,1293.0,454,Source A1
+Production started,1299.526120258013,454,Ambulance -1 0
+Production complete,1321.4737660974433,454,Ambulance -1 0
+Creation,1286.0,455,Source A1
+Production started,1293.5038569348344,455,Ambulance -1 0
+Production complete,1321.4826272887872,455,Ambulance -1 0
+Creation,1315.0,456,Source A1
+Production started,1321.4737660974433,456,Ambulance -1 0
+Production complete,1324.0481940547731,456,Ambulance -1 0
+Creation,1296.0,457,Source A1
+Production started,1305.884883207756,457,Ambulance -1 0
+Production complete,1327.7514825553478,457,Ambulance -1 0
+Creation,1305.0,458,Source A1
+Production started,1313.58933905918,458,Ambulance -1 0
+Production complete,1332.1123240570157,458,Ambulance -1 0
+Creation,1310.0,459,Source A1
+Production started,1318.0839230855213,459,Ambulance -1 0
+Production complete,1338.4783966725622,459,Ambulance -1 0
+Creation,1301.0,460,Source A1
+Production started,1312.754055101486,460,Ambulance -1 0
+Production complete,1344.2332077217152,460,Ambulance -1 0
+Creation,1309.0,461,Source A1
+Production started,1315.8833922101182,461,Ambulance -1 0
+Production complete,1344.485258218642,461,Ambulance -1 0
+Creation,1317.0,462,Source A1
+Production started,1321.4826272887872,462,Ambulance -1 0
+Production complete,1346.3551059494928,462,Ambulance -1 0
+Creation,1319.0,463,Source A1
+Production started,1324.0481940547731,463,Ambulance -1 0
+Production complete,1347.3621257132052,463,Ambulance -1 0
 Creation,1327.0,464,Source A1
-Ambulance accepts patient,1332.3049452781092,464,Ambulance 2 1
-Arrival at patient,1347.248254265045,464,Ambulance 2 1
-Waiting time,20.248254265045034,464,Ambulance 2 1
-Production complete,1362.4684839094382,464,Ambulance 2 1
-Creation,1339.0,465,Source A1
-Ambulance accepts patient,1342.0766942548883,465,Ambulance 4 1
-Arrival at patient,1351.9693951831314,465,Ambulance 4 1
-Waiting time,12.969395183131383,465,Ambulance 4 1
-Production complete,1363.0955360104426,465,Ambulance 4 1
-Creation,261.0,466,Source A2
-Ambulance accepts patient,1343.0126263559132,466,Ambulance 6 1
-Arrival at patient,1353.0823073969248,466,Ambulance 6 1
-Waiting time,1092.0823073969248,466,Ambulance 6 1
-Production complete,1363.8617620185064,466,Ambulance 6 1
-Creation,1335.0,467,Source A1
-Ambulance accepts patient,1336.7412593698725,467,Ambulance 1 1
-Arrival at patient,1349.578567934437,467,Ambulance 1 1
-Waiting time,14.578567934436933,467,Ambulance 1 1
-Production complete,1364.0932680366861,467,Ambulance 1 1
-Creation,1354.0,468,Source A1
-Ambulance accepts patient,1360.1889694465033,468,Ambulance 7 1
-Arrival at patient,1362.2105655232654,468,Ambulance 7 1
-Waiting time,8.210565523265359,468,Ambulance 7 1
-Production complete,1364.5167685146296,468,Ambulance 7 1
-Creation,270.0,469,Source A2
-Ambulance accepts patient,1347.5943926850964,469,Ambulance 5 1
-Arrival at patient,1357.8875597357007,469,Ambulance 5 1
-Waiting time,1087.8875597357007,469,Ambulance 5 1
-Production complete,1368.6234837173265,469,Ambulance 5 1
+Production started,1332.1123240570157,464,Ambulance -1 0
+Production complete,1347.9423305471373,464,Ambulance -1 0
+Creation,1321.0,465,Source A1
+Production started,1327.7514825553478,465,Ambulance -1 0
+Production complete,1350.0986810974828,465,Ambulance -1 0
+Creation,1338.0,466,Source A1
+Production started,1344.485258218642,466,Ambulance -1 0
+Production complete,1362.2756550605568,466,Ambulance -1 0
+Creation,254.0,467,Source A2
+Production started,1347.9423305471373,467,Ambulance -1 0
+Production complete,1365.5761603321948,467,Ambulance -1 0
+Creation,1344.0,468,Source A1
+Production started,1347.3621257132052,468,Ambulance -1 0
+Production complete,1365.9389856356056,468,Ambulance -1 0
+Creation,1330.0,469,Source A1
+Production started,1338.4783966725622,469,Ambulance -1 0
+Production complete,1367.8003835409233,469,Ambulance -1 0
 Creation,1348.0,470,Source A1
-Ambulance accepts patient,1353.6197517059347,470,Ambulance 3 1
-Arrival at patient,1365.0856163444066,470,Ambulance 3 1
-Waiting time,17.085616344406617,470,Ambulance 3 1
-Production complete,1377.8075128500766,470,Ambulance 3 1
-Creation,277.0,471,Source A2
-Ambulance accepts patient,1364.0932680366861,471,Ambulance 1 1
-Arrival at patient,1372.8733793659676,471,Ambulance 1 1
-Waiting time,1095.8733793659676,471,Ambulance 1 1
-Production complete,1382.3943842066647,471,Ambulance 1 1
-Creation,281.0,472,Source A2
-Ambulance accepts patient,1364.5167685146296,472,Ambulance 7 1
-Arrival at patient,1374.4274899467343,472,Ambulance 7 1
-Waiting time,1093.4274899467343,472,Ambulance 7 1
-Production complete,1385.221685964584,472,Ambulance 7 1
-Creation,1358.0,473,Source A1
-Ambulance accepts patient,1363.0955360104426,473,Ambulance 4 1
-Arrival at patient,1373.3746771209214,473,Ambulance 4 1
-Waiting time,15.374677120921433,473,Ambulance 4 1
-Production complete,1385.2820168153,473,Ambulance 4 1
-Creation,1363.0,474,Source A1
-Ambulance accepts patient,1363.8617620185064,474,Ambulance 6 1
-Arrival at patient,1374.7878715320373,474,Ambulance 6 1
-Waiting time,11.787871532037343,474,Ambulance 6 1
-Production complete,1385.8960519534494,474,Ambulance 6 1
-Creation,1356.0,475,Source A1
-Ambulance accepts patient,1362.4684839094382,475,Ambulance 2 1
-Arrival at patient,1374.2039536760674,475,Ambulance 2 1
-Waiting time,18.203953676067385,475,Ambulance 2 1
-Production complete,1386.6382266460087,475,Ambulance 2 1
-Creation,282.0,476,Source A2
-Ambulance accepts patient,1368.6234837173265,476,Ambulance 5 1
-Arrival at patient,1379.237392898801,476,Ambulance 5 1
-Waiting time,1097.237392898801,476,Ambulance 5 1
-Production complete,1391.1463642381136,476,Ambulance 5 1
-Creation,1383.0,477,Source A1
-Ambulance accepts patient,1385.8960519534494,477,Ambulance 6 1
-Arrival at patient,1388.5623228525426,477,Ambulance 6 1
-Waiting time,5.562322852542593,477,Ambulance 6 1
-Production complete,1392.9896082049977,477,Ambulance 6 1
+Production started,1350.0986810974828,470,Ambulance -1 0
+Production complete,1368.6232132707978,470,Ambulance -1 0
+Creation,1333.0,471,Source A1
+Production started,1344.2332077217152,471,Ambulance -1 0
+Production complete,1370.4295857382756,471,Ambulance -1 0
+Creation,1340.0,472,Source A1
+Production started,1346.3551059494928,472,Ambulance -1 0
+Production complete,1370.4855926522414,472,Ambulance -1 0
+Creation,1353.0,473,Source A1
+Production started,1365.9389856356056,473,Ambulance -1 0
+Production complete,1388.0977333813744,473,Ambulance -1 0
+Creation,1364.0,474,Source A1
+Production started,1368.6232132707978,474,Ambulance -1 0
+Production complete,1390.2075276331373,474,Ambulance -1 0
+Creation,1357.0,475,Source A1
+Production started,1367.8003835409233,475,Ambulance -1 0
+Production complete,1391.6219749171012,475,Ambulance -1 0
+Creation,1351.0,476,Source A1
+Production started,1365.5761603321948,476,Ambulance -1 0
+Production complete,1392.504392894683,476,Ambulance -1 0
+Creation,1349.0,477,Source A1
+Production started,1362.2756550605568,477,Ambulance -1 0
+Production complete,1393.5039386008305,477,Ambulance -1 0
 Creation,1369.0,478,Source A1
-Ambulance accepts patient,1377.8075128500766,478,Ambulance 3 1
-Arrival at patient,1387.2681825460593,478,Ambulance 3 1
-Waiting time,18.26818254605928,478,Ambulance 3 1
-Production complete,1397.6528960924165,478,Ambulance 3 1
-Creation,1372.0,479,Source A1
-Ambulance accepts patient,1382.3943842066647,479,Ambulance 1 1
-Arrival at patient,1393.305777366624,479,Ambulance 1 1
-Waiting time,21.305777366623943,479,Ambulance 1 1
-Production complete,1406.7111025402205,479,Ambulance 1 1
-Creation,295.0,480,Source A2
-Ambulance accepts patient,1392.9896082049977,480,Ambulance 6 1
-Arrival at patient,1399.3591165606617,480,Ambulance 6 1
-Waiting time,1104.3591165606617,480,Ambulance 6 1
-Production complete,1406.9408498510813,480,Ambulance 6 1
-Creation,1379.0,481,Source A1
-Ambulance accepts patient,1385.2820168153,481,Ambulance 4 1
-Arrival at patient,1396.7739953603732,481,Ambulance 4 1
-Waiting time,17.773995360373192,481,Ambulance 4 1
-Production complete,1408.6691414305344,481,Ambulance 4 1
-Creation,1377.0,482,Source A1
-Ambulance accepts patient,1385.221685964584,482,Ambulance 7 1
-Arrival at patient,1396.6424713112867,482,Ambulance 7 1
-Waiting time,19.642471311286727,482,Ambulance 7 1
-Production complete,1409.1950305360106,482,Ambulance 7 1
-Creation,289.0,483,Source A2
-Ambulance accepts patient,1386.6382266460087,483,Ambulance 2 1
-Arrival at patient,1397.8127105093115,483,Ambulance 2 1
-Waiting time,1108.8127105093115,483,Ambulance 2 1
-Production complete,1409.7883086058612,483,Ambulance 2 1
-Creation,1389.0,484,Source A1
-Ambulance accepts patient,1391.1463642381136,484,Ambulance 5 1
-Arrival at patient,1400.1827709123413,484,Ambulance 5 1
-Waiting time,11.182770912341311,484,Ambulance 5 1
-Production complete,1410.3985046797325,484,Ambulance 5 1
-Creation,1395.0,485,Source A1
-Ambulance accepts patient,1397.6528960924165,485,Ambulance 3 1
-Arrival at patient,1408.9528242928354,485,Ambulance 3 1
-Waiting time,13.95282429283543,485,Ambulance 3 1
-Production complete,1420.852792521085,485,Ambulance 3 1
-Creation,302.0,486,Source A2
-Ambulance accepts patient,1409.1950305360106,486,Ambulance 7 1
-Arrival at patient,1415.4501201888982,486,Ambulance 7 1
-Waiting time,1113.4501201888982,486,Ambulance 7 1
-Production complete,1422.6635288532166,486,Ambulance 7 1
-Creation,1399.0,487,Source A1
-Ambulance accepts patient,1406.7111025402205,487,Ambulance 1 1
-Arrival at patient,1414.9396804483479,487,Ambulance 1 1
-Waiting time,15.939680448347872,487,Ambulance 1 1
-Production complete,1423.6522766831447,487,Ambulance 1 1
-Creation,1405.0,488,Source A1
-Ambulance accepts patient,1406.9408498510813,488,Ambulance 6 1
-Arrival at patient,1418.4425503472198,488,Ambulance 6 1
-Waiting time,13.442550347219822,488,Ambulance 6 1
-Production complete,1430.6253172940378,488,Ambulance 6 1
-Creation,305.0,489,Source A2
-Ambulance accepts patient,1409.7883086058612,489,Ambulance 2 1
-Arrival at patient,1420.2604842532598,489,Ambulance 2 1
-Waiting time,1115.2604842532598,489,Ambulance 2 1
-Production complete,1431.0207487735388,489,Ambulance 2 1
-Creation,299.0,490,Source A2
-Ambulance accepts patient,1408.6691414305344,490,Ambulance 4 1
-Arrival at patient,1419.885267466895,490,Ambulance 4 1
-Waiting time,1120.885267466895,490,Ambulance 4 1
-Production complete,1431.7489560659146,490,Ambulance 4 1
-Creation,307.0,491,Source A2
-Ambulance accepts patient,1410.3985046797325,491,Ambulance 5 1
-Arrival at patient,1421.5107460184697,491,Ambulance 5 1
-Waiting time,1114.5107460184697,491,Ambulance 5 1
-Production complete,1434.2700551666956,491,Ambulance 5 1
+Production started,1370.4295857382756,478,Ambulance -1 0
+Production complete,1393.5600002361539,478,Ambulance -1 0
+Creation,259.0,479,Source A2
+Production started,1370.4855926522414,479,Ambulance -1 0
+Production complete,1394.2724033461143,479,Ambulance -1 0
+Creation,1387.0,480,Source A1
+Production started,1393.5039386008305,480,Ambulance -1 0
+Production complete,1411.1737887605802,480,Ambulance -1 0
+Creation,1385.0,481,Source A1
+Production started,1392.504392894683,481,Ambulance -1 0
+Production complete,1416.220443478094,481,Ambulance -1 0
+Creation,1374.0,482,Source A1
+Production started,1388.0977333813744,482,Ambulance -1 0
+Production complete,1418.263676759463,482,Ambulance -1 0
+Creation,1380.0,483,Source A1
+Production started,1391.6219749171012,483,Ambulance -1 0
+Production complete,1420.7542073330349,483,Ambulance -1 0
+Creation,1377.0,484,Source A1
+Production started,1390.2075276331373,484,Ambulance -1 0
+Production complete,1420.9165361492996,484,Ambulance -1 0
+Creation,1391.0,485,Source A1
+Production started,1393.5600002361539,485,Ambulance -1 0
+Production complete,1421.2695593554254,485,Ambulance -1 0
+Creation,261.0,486,Source A2
+Production started,1394.2724033461143,486,Ambulance -1 0
+Production complete,1421.391573285156,486,Ambulance -1 0
+Creation,1395.0,487,Source A1
+Production started,1411.1737887605802,487,Ambulance -1 0
+Production complete,1434.1646130003683,487,Ambulance -1 0
+Creation,1398.0,488,Source A1
+Production started,1416.220443478094,488,Ambulance -1 0
+Production complete,1438.2050796599262,488,Ambulance -1 0
+Creation,1411.0,489,Source A1
+Production started,1420.9165361492996,489,Ambulance -1 0
+Production complete,1438.5293580988841,489,Ambulance -1 0
