@@ -8,29 +8,35 @@ package Simulation;
 
 public class Simulation {
 
-    public CEventList list;
-    public Queue queue;
-    public Source source;
-    public Sink sink;
-    public Machine mach;
-	
+    public static final double MAX_SIM_TIME = 24*60; // 24h
 
-        /**
+    /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    	// Create an eventlist
-	CEventList l = new CEventList();
-	// A queue for the machine
-	Queue q = new Queue();
-	// A source
-	Source s = new Source(q,l,"Source 1");
-	// A sink
-	Sink si = new Sink("Sink 1");
-	// A machine
-	Machine m = new Machine(q,si,l,"Machine 1");
-	// start the eventlist
-	l.start(2000); // 2000 is maximum time
+        // An eventlist
+        CEventList eventList = new CEventList();
+
+        // A queue for the machine
+        Queue queue = new Queue();
+
+        // A source for each priority level
+        /** Priority level bytes:
+         * A1 = 1,
+         * A2 = 2,
+         * B = 3
+         */
+        Source a1 = new Source(queue, eventList,"Source A1", (byte) 1);
+        Source a2 = new Source(queue, eventList,"Source A2", (byte) 2);
+        Source b = new Source(queue, eventList,"Source B", (byte) 3);
+
+        // A sink
+        Sink sink = new Sink("Sink 1");
+
+        // The machines aka the ambulances
+        City city = new City(queue, sink, eventList);
+
+        // start the eventlist
+        eventList.start(MAX_SIM_TIME); // 2000 is maximum time
     }
-    
 }

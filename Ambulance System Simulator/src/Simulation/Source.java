@@ -21,6 +21,8 @@ public class Source implements CProcess
 	private double[] interarrivalTimes;
 	/** Interarrival time iterator */
 	private int interArrCnt;
+	/** Patient priority the source creates */
+	private byte priorityLevel;
 
 	/**
 	*	Constructor, creates objects
@@ -29,13 +31,13 @@ public class Source implements CProcess
 	*	@param l	The eventlist that is requested to construct events
 	*	@param n	Name of object
 	*/
-	public Source(ProductAcceptor q,CEventList l,String n)
+	public Source(ProductAcceptor q,CEventList l,String n, byte pl)
 	{
 		list = l;
 		queue = q;
 		name = n;
 		meanArrTime=33;
-		// put first event in list for initialization
+		priorityLevel = pl;
 		list.add(this,0,drawRandomExponential(meanArrTime)); //target,type,time
 	}
 
@@ -81,12 +83,12 @@ public class Source implements CProcess
 	public void execute(int type, double tme)
 	{
 		// show arrival
-		System.out.println("Arrival at time = " + tme);
+		System.out.println("Patient "+ priorityLevel +" at time = " + tme);
 		// give arrived product to queue
-		Product p = new Product();
+		Patient p = new Patient(randomPosition(), priorityLevel);
 		p.stamp(tme,"Creation",name);
 		queue.giveProduct(p);
-		// generate duration
+		// generate duration until next arrival
 		if(meanArrTime>0)
 		{
 			double duration = drawRandomExponential(meanArrTime);
@@ -111,8 +113,12 @@ public class Source implements CProcess
 	{
 		// draw a [0,1] uniform distributed number
 		double u = Math.random();
-		// Convert it into a exponentially distributed random variate with mean 33
+		// Convert it into an exponentially distributed random variate with mean 33
 		double res = -mean*Math.log(u);
 		return res;
+	}
+
+	public static double[] randomPosition(){
+		return new double[] {1.,2};
 	}
 }
