@@ -9,14 +9,29 @@ package Simulation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import java.util.ArrayList;
+
 public class Simulation {
 
     public static final double MAX_SIM_TIME = 24 * 60; // 24h
+    public static ArrayList<String> prints = new ArrayList<>();
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
+        for (int numOfAmbulances = 1; numOfAmbulances < 6; numOfAmbulances++) {
+            String csvName = "data"+ numOfAmbulances;
+            Region.numAmbulances = numOfAmbulances;
+            runSimulation(csvName);
+        }
+
+        for(String s : prints)
+            System.out.println(s);
+    }
+
+    public static void runSimulation(String csvName){
         // An eventlist
         CEventList eventList = new CEventList();
 
@@ -49,7 +64,9 @@ public class Simulation {
                 sink.getTimes(),
                 sink.getNumbers(),
                 sink.getStations(),
-                "exportedData.csv");
+                csvName+".csv");
+
+        exportToCSV.getWaitingTimes(sink);
 
         AmbulanceScheduler.scheduleAmbulances(7);
     }
