@@ -96,7 +96,7 @@ public class Source implements CProcess
 		// generate duration until next arrival
 		if(meanArrTime>0)
 		{
-			double duration = drawRandomExponential(meanArrTime);
+			double duration = RandomNumberGenerator.randomPoisson(tme);
 			// Create a new event in the eventlist
 			list.add(this,0,tme+duration); //target,type,time
 		}

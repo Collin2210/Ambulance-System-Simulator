@@ -1,10 +1,7 @@
 package Simulation;
 
-import java.util.Random;
-
 public class RandomNumberGenerator {
 
-    /** Use the inverse transform method to generate random variates following Poisson distribution */
     public static double randomPoisson(double time){
         double lambda = getArrivalRate(time);
 
@@ -19,6 +16,18 @@ public class RandomNumberGenerator {
         return i;
     }
 
+    public static double randomErlang(){
+
+        double
+                product = 1,
+                lambda = 1,
+                m = 3;
+
+        for (int i = 0; i < m; m++)
+            product = product * Math.random();
+
+        return (-lambda/m) * Math.log(product);
+    }
 
 
     public static double drawRandomExponential(double mean)
@@ -31,6 +40,9 @@ public class RandomNumberGenerator {
 
 
     private static double getArrivalRate(double currentTime){
-        return 3 - 2 * Math.sin( 5 * (Math.PI + (int) currentTime) / 6 * Math.PI);
+
+        int time = (int) currentTime/60;
+
+        return 3 - 2 * Math.sin( 5 * (Math.PI + time) / 6 * Math.PI);
     }
 }
