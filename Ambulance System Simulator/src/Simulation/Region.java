@@ -8,9 +8,9 @@ public class Region{
     ArrayList<Ambulance> ambulances;
     Point dockPosition;
 
-    public Region(double[] dockPosition, City city) {
+    public Region(Point dockPosition, City city) {
         ambulances = new ArrayList<>();
-        this.dockPosition = new Point(dockPosition[0], dockPosition[1]);
+        this.dockPosition = new Point(dockPosition.getX(), dockPosition.getY());
 
         // create ambulances
         for (int i = 0; i < numAmbulances; i++) {
