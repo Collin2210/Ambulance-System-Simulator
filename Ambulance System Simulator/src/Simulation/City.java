@@ -25,7 +25,7 @@ public class City {
 
         // create regions
         for(double[] dock : getDockPositions())
-            regions.add(new Region(dock));
+            regions.add(new Region(dock, this));
     }
 
     private double[][] getDockPositions(){
@@ -42,30 +42,5 @@ public class City {
                 {oX - (radius + side /2), oY + height},
                 {oX + 0, oY + 2 * height}
         };
-    }
-
-    class Region{
-
-        static final int numAmbulances = 5;
-        ArrayList<Ambulance> ambulances;
-        double[] dockPosition;
-
-        public Region(double[] dockPosition) {
-            ambulances = new ArrayList<>();
-            this.dockPosition = dockPosition;
-
-            // create ambulances
-            for (int i = 0; i < numAmbulances; i++) {
-                String name = "Ambulance " + regions.indexOf(this) + " " + i;
-                ambulances.add(new Ambulance(queue, sink, eventList, name));
-            }
-
-        }
-
-        /** Renders regions in the region unusable in case of no shifts for example */
-        void turnOff(){
-            for(Ambulance a: ambulances)
-                a.setStatus('b');
-        }
     }
 }

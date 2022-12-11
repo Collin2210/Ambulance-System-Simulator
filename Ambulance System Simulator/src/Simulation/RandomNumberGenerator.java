@@ -30,9 +30,6 @@ public class RandomNumberGenerator {
     }
 
 
-
-
-    // TODO: 12/11/2022 implement random poisson
     private static double getArrivalRate(double currentTime){
         return 3 - 2 * Math.sin( 5 * (Math.PI + (int) currentTime) / 6 * Math.PI);
     }
