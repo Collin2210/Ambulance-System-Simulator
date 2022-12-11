@@ -23,8 +23,11 @@ public class City {
         this.eventList = eventList;
 
         // create regions
-        for (Point dock : getDockPositions())
-            regions.add(new Region(dock, this));
+        int regionNumber = 1; // we keep count of the region we create
+        for (Point dock : getDockPositions()) {
+            regions.add(new Region(dock, this, regionNumber));
+            regionNumber++;
+        }
     }
 
     public static Point[] getDockPositions() {
