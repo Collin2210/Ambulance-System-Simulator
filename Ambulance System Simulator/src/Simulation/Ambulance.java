@@ -177,11 +177,12 @@ public class Ambulance implements CProcess,ProductAcceptor
 
 	// TODO: 12/11/2022 implement current position correctly such that we can calculate exactly processing time
 	public double processingTime(){
-		double toPatient = manhattanDistance(patient.getPickupLocation(), currentPosition);
+
+		double toPatient = (new Point(patient.getPickupLocation())).manhattanDistance(new Point(currentPosition));
 		double timeAtScene = m_erlang();
 
 		double[] hospitalPos = new double[] {0, 0};
-		double toHospital = manhattanDistance(patient.getPickupLocation(), hospitalPos);
+		double toHospital = (new Point(patient.getPickupLocation())).manhattanDistance(new Point(hospitalPos));
 
 		return toPatient + timeAtScene + toHospital;
 	}

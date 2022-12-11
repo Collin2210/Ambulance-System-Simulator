@@ -44,6 +44,13 @@ public class Point {
         this.y = r.getY();
     }
 
+    // Constructor to initialize the x and y coordinates of a random point in a
+    // region
+    public Point(double [] position) {
+        this.x = position[0];
+        this.y = position[1];
+    }
+
     // Method to calculate the Manhattan distance between this point and another
     // point
     public double manhattanDistance(Point other) {
