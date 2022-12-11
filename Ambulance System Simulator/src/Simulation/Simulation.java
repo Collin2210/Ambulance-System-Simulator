@@ -27,9 +27,9 @@ public class Simulation {
          * B = 3
          */
 
-        Source a1 = new Source(queue, eventList,"Source A1", (byte) 1);
-        Source a2 = new Source(queue, eventList,"Source A2", (byte) 2);
-        Source b = new Source(queue, eventList,"Source B", (byte) 3);
+        new Source(queue, eventList,"Source A1", (byte) 1);
+        new Source(queue, eventList,"Source A2", (byte) 2);
+        new Source(queue, eventList,"Source B", (byte) 3);
 
         // A sink
         Sink sink = new Sink("Sink 1");
@@ -39,5 +39,6 @@ public class Simulation {
 
         // start the eventlist
         eventList.start(MAX_SIM_TIME); // 2000 is maximum time
+        exportToCSV.exportArraysToCSV(sink.getEvents(), sink.getTimes(), sink.getNumbers(), sink.getStations(),"exportedData.csv");
     }
 }
