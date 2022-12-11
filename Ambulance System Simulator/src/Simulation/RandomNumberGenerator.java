@@ -23,7 +23,7 @@ public class RandomNumberGenerator {
                 lambda = 1,
                 m = 3;
 
-        for (int i = 0; i < m; m++)
+        for (int i = 0; i < m; i++)
             product = product * Math.random();
 
         return (-lambda / m) * Math.log(product);

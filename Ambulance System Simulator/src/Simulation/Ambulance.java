@@ -50,6 +50,7 @@ public class Ambulance implements CProcess, ProductAcceptor {
 		name = n;
 		meanProcTime = 30;
 		this.waitingDockPosition = dockPosition;
+		currentPosition = dockPosition;
 		queue.askProduct(this);
 	}
 
@@ -176,9 +177,12 @@ public class Ambulance implements CProcess, ProductAcceptor {
 	}
 
 	public double processingTime() {
-
 		double toPatient = currentPosition.manhattanDistance(patient.getPickupLocation());
+
 		double timeAtScene = randomErlang();
+
+		City.hospitalPosition.getCoordsPrinted();
+
 		double toHospital = patient.getPickupLocation().manhattanDistance(City.hospitalPosition);
 
 		return toPatient + timeAtScene + toHospital;
