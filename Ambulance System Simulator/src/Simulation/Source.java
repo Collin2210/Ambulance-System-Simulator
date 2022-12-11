@@ -40,7 +40,7 @@ public class Source implements CProcess
 		name = n;
 		meanArrTime=33;
 		priorityLevel = pl;
-		list.add(this,0,drawRandomExponential(meanArrTime)); //target,type,time
+		list.add(this,0,RandomNumberGenerator.randomPoisson(0)); //target,type,time
 	}
 
 	/**

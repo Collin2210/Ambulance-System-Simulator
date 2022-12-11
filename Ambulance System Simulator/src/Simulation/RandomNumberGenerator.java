@@ -10,8 +10,10 @@ public class RandomNumberGenerator {
                 b = 1,
                 i = 0;
 
-        while(b >= a)
+        while(b >= a) {
             b = b * Math.random();
+            i++;
+        }
 
         return i;
     }

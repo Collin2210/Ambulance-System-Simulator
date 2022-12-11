@@ -10,7 +10,6 @@ public class City {
     ProductAcceptor sink;
     CEventList eventList;
 
-
     static final Point hospitalPosition = new Point(0,0);
 
     static final double radius = 5;
@@ -33,22 +32,14 @@ public class City {
                 oX = hospitalPosition.getX(),
                 oY = hospitalPosition.getY();
 
-        double[][] coords = new double[][]{
-                {oX, oY},
-                {oX + radius + side / 2, oY + height},
-                {oX + radius + side / 2, oY - height},
-                {oX + 0, oY - 2 * height},
-                {oX - (radius + side / 2), oY - height},
-                {oX - (radius + side /2), oY + height},
-                {oX + 0, oY + 2 * height}
+        return new Point[]{
+                new Point(oX, oY),
+                new Point(oX + radius + side / 2, oY + height),
+                new Point(oX + radius + side / 2, oY - height),
+                new Point(oX + 0, oY - 2 * height),
+                new Point(oX - (radius + side / 2), oY - height),
+                new Point(oX - (radius + side /2), oY + height),
+                new Point(oX + 0, oY + 2 * height)
         };
-
-        Point[] points = new Point[7];
-
-        for (int i = 0; i < 7; i++) {
-            points[i] = new Point(coords[i][0], coords[i][1]);
-        }
-
-        return points;
     }
 }
