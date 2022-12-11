@@ -1,6 +1,6 @@
 package Simulation;
 
-
+import static Simulation.RandomNumberGenerator.drawRandomExponential;
 
 /**
  *	Ambulance in a factory
@@ -102,6 +102,7 @@ public class Ambulance implements CProcess,ProductAcceptor
 	{
 		// show arrival
 		System.out.println("Patient " + patient.getPriorityLevel() + " finished at time = " + tme);
+
 		// Remove patient from system
 		patient.stamp(tme,"Production complete",name);
 		sink.giveProduct(patient);
@@ -169,24 +170,6 @@ public class Ambulance implements CProcess,ProductAcceptor
 		}
 	}
 
-	public static double drawRandomExponential(double mean)
-	{
-		// draw a [0,1] uniform distributed number
-		double u = Math.random();
-		// Convert it into an exponentially distributed random variate with mean 33
-		double res = -mean*Math.log(u);
-		return res;
-	}
-
-	// TODO: 12/11/2022 implement random poisson
-	public static double drawRandomPoisson(double currentTime){
-		double lambda = getArrivalRate(currentTime);
-		return 1;
-	}
-
-	public static double getArrivalRate(double currentTime){
-		return 3 - 2 * Math.sin( 5 * (Math.PI + (int) currentTime) / 6 * Math.PI);
-	}
 
 	public void setStatus(char status) {
 		this.status = status;

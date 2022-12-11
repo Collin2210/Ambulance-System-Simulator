@@ -1,5 +1,7 @@
 package Simulation;
 
+import static Simulation.RandomNumberGenerator.*;
+
 /**
  *	A source of products
  *	This class implements CProcess so that it can execute events.
@@ -84,10 +86,13 @@ public class Source implements CProcess
 	{
 		// show arrival
 		System.out.println("Patient "+ priorityLevel +" at time = " + tme);
+
 		// give arrived product to queue
 		Patient p = new Patient(randomPosition(), priorityLevel);
 		p.stamp(tme,"Creation",name);
+
 		queue.giveProduct(p);
+
 		// generate duration until next arrival
 		if(meanArrTime>0)
 		{
@@ -107,15 +112,6 @@ public class Source implements CProcess
 				list.stop();
 			}
 		}
-	}
-	
-	public static double drawRandomExponential(double mean)
-	{
-		// draw a [0,1] uniform distributed number
-		double u = Math.random();
-		// Convert it into an exponentially distributed random variate with mean 33
-		double res = -mean*Math.log(u);
-		return res;
 	}
 
 	public static double[] randomPosition(){
