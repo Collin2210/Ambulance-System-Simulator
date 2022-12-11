@@ -30,7 +30,6 @@ public class City {
     public static Point[] getDockPositions() {
         double oX = hospitalPosition.getX(),
                 oY = hospitalPosition.getY();
-
         return new Point[] {
                 new Point(oX, oY),
                 new Point(oX + radius + side / 2, oY + height),
