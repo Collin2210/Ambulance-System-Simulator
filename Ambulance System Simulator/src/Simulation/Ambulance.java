@@ -136,7 +136,13 @@ public class Ambulance implements CProcess, ProductAcceptor {
 			// accept the patient
 			patient = p;
 			// mark starting time
-			patient.stamp(eventlist.getTime(), "Production started", name);
+			patient.stamp(eventlist.getTime(), "Ambulance accepts patient", name);
+			// mark ambulance arrival at patient position time
+			double timeToPatient = currentPosition.manhattanDistance(p.getPickupLocation());
+			patient.stamp(eventlist.getTime() + timeToPatient, "Arrival at patient", name);
+			// mark waiting time
+			double waitingTime = (eventlist.getTime() + timeToPatient) - p.getTimes().get(0);
+			patient.stamp(waitingTime, "Waiting time", name);
 			// start production
 			startProduction();
 			// Flag that the patient has arrived
