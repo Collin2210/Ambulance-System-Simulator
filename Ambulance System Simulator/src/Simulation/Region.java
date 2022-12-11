@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Region{
 
-    static final int numAmbulances = 5;
+    static final int numAmbulances = 1;
     ArrayList<Ambulance> ambulances;
     Point dockPosition;
 
@@ -17,7 +17,6 @@ public class Region{
             String name = "Ambulance " + city.regions.indexOf(this) + " " + i;
             ambulances.add(new Ambulance(city.queue, city.sink, city.eventList, name, dockPosition));
         }
-
     }
 
     /** Renders regions in the region unusable in case of no shifts for example */

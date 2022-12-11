@@ -1,5 +1,7 @@
 package Simulation;
 
+import java.util.Comparator;
+
 import static Simulation.RandomNumberGenerator.drawRandomExponential;
 import static Simulation.RandomNumberGenerator.randomErlang;
 
@@ -148,7 +150,6 @@ public class Ambulance implements CProcess, ProductAcceptor {
 	/**
 	 * Starting routine for the production
 	 * Start the handling of the current patient with an exponentionally distributed
-	 * processingtime with average 30
 	 * This time is placed in the eventlist
 	 */
 	private void startProduction() {
@@ -177,6 +178,7 @@ public class Ambulance implements CProcess, ProductAcceptor {
 	}
 
 	public double processingTime() {
+
 		double toPatient = currentPosition.manhattanDistance(patient.getPickupLocation());
 
 		double timeAtScene = randomErlang();
@@ -184,5 +186,10 @@ public class Ambulance implements CProcess, ProductAcceptor {
 		double toHospital = patient.getPickupLocation().manhattanDistance(City.hospitalPosition);
 
 		return toPatient + timeAtScene + toHospital;
+
+	}
+
+	public Point getCurrentPosition() {
+		return currentPosition;
 	}
 }

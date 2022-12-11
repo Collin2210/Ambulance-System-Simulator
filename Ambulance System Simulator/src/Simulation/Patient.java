@@ -15,7 +15,6 @@ public class Patient
 	 */
 	private final byte priorityLevel;
 
-
 	private double[] pickupLocation;
 
 	/** Stamps for the products */

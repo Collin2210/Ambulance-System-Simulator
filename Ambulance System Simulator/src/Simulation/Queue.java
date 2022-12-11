@@ -1,6 +1,7 @@
 package Simulation;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 /**
  *	Queue that stores products until they can be handled on a machine
@@ -64,10 +65,13 @@ public class Queue implements ProductAcceptor
 		else
 		{
 			boolean delivered = false;
+
+			// sort ambulances in machine based on distance to patient
+			requests.sort(new ambulanceSorter(p.getPickupLocation()));
+
 			// look for a machine in request list that is idle and to whom we can give the product
 			while(!delivered & (requests.size()>0))
 			{
-
 				delivered=requests.get(0).giveProduct(p);
 				// remove the request regardless of whether the product has been accepted
 				requests.remove(0);
