@@ -6,6 +6,9 @@
 
 package Simulation;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Simulation {
 
     public static final double MAX_SIM_TIME = 24 * 60; // 24h
@@ -40,11 +43,14 @@ public class Simulation {
 
         // start the eventlist
         eventList.start(MAX_SIM_TIME); // 2000 is maximum time
+
         exportToCSV.exportArraysToCSV(
                 sink.getEvents(),
                 sink.getTimes(),
                 sink.getNumbers(),
                 sink.getStations(),
                 "exportedData.csv");
+
+        AmbulanceScheduler.scheduleAmbulances(7);
     }
 }

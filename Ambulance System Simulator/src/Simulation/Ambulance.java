@@ -1,8 +1,5 @@
 package Simulation;
 
-import java.util.Comparator;
-
-import static Simulation.RandomNumberGenerator.drawRandomExponential;
 import static Simulation.RandomNumberGenerator.randomErlang;
 
 /**

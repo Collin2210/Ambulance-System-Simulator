@@ -12,14 +12,12 @@ class Hexagon {
         int result = r.nextInt(high);
         Point dockResultRegion = docksRegions[result];
 
-        // generate a point in the center region and add it to the middle coords of the
-        // dock of the picked region
-        Random random = new Random();
+        // generate a random point within the hexagonal region
         double a = 2.5;
         double b = 2.5;
         while (true) {
-            double x = random.nextDouble() * 2 * a - a;
-            double y = random.nextDouble() * 2 * b - b;
+            double x = r.nextDouble() * 2 * a - a;
+            double y = r.nextDouble() * 2 * b - b;
             if (x * x / (a * a) + y * y / (b * b) <= 1) {
                 Point k = new Point(x + dockResultRegion.getX(), y + dockResultRegion.getY());
                 return k;

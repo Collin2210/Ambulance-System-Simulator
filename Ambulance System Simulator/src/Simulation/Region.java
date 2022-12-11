@@ -2,9 +2,9 @@ package Simulation;
 
 import java.util.ArrayList;
 
-public class Region{
+public class Region {
 
-    static final int numAmbulances = 1;
+    static final int numAmbulances = 5;
     ArrayList<Ambulance> ambulances;
     Point dockPosition;
     int regionNumber;
@@ -16,14 +16,14 @@ public class Region{
 
         // create ambulances
         for (int i = 0; i < numAmbulances; i++) {
-            String name = "Ambulance " + regionNumber + " " + (i+1);
+            String name = "Ambulance " + regionNumber + " " + (i + 1);
             ambulances.add(new Ambulance(city.queue, city.sink, city.eventList, name, dockPosition));
         }
     }
 
     /** Renders regions in the region unusable in case of no shifts for example */
-    void turnOff(){
-        for(Ambulance a: ambulances)
+    void turnOff() {
+        for (Ambulance a : ambulances)
             a.setStatus('b');
     }
 }
