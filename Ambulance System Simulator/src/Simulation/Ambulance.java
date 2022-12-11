@@ -181,8 +181,6 @@ public class Ambulance implements CProcess, ProductAcceptor {
 
 		double timeAtScene = randomErlang();
 
-		City.hospitalPosition.getCoordsPrinted();
-
 		double toHospital = patient.getPickupLocation().manhattanDistance(City.hospitalPosition);
 
 		return toPatient + timeAtScene + toHospital;
