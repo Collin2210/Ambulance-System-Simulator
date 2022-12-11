@@ -15,7 +15,7 @@ public class Region{
         // create ambulances
         for (int i = 0; i < numAmbulances; i++) {
             String name = "Ambulance " + city.regions.indexOf(this) + " " + i;
-            ambulances.add(new Ambulance(city.queue, city.sink, city.eventList, name));
+            ambulances.add(new Ambulance(city.queue, city.sink, city.eventList, name, dockPosition));
         }
 
     }

@@ -84,8 +84,8 @@ public class Patient
 		return tmp;
 	}
 
-	public double[] getPickupLocation() {
-		return pickupLocation;
+	public Point getPickupLocation() {
+		return new Point(pickupLocation[0], pickupLocation[1]);
 	}
 
 	public byte getPriorityLevel() {

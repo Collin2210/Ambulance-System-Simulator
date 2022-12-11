@@ -1,6 +1,7 @@
 package Simulation;
 
 import static Simulation.RandomNumberGenerator.drawRandomExponential;
+import static Simulation.RandomNumberGenerator.randomErlang;
 
 /**
  *	Ambulance in a factory
@@ -28,9 +29,9 @@ public class Ambulance implements CProcess,ProductAcceptor
 	/** Processing time iterator */
 	private int procCnt;
 	/** Position of waiting dock */
-	private double[] waitingDockPosition;
+	private Point waitingDockPosition;
 	/** Ambulance current position */
-	private double[] currentPosition;
+	private Point currentPosition;
 
 	/**
 	*	Constructor
@@ -40,7 +41,7 @@ public class Ambulance implements CProcess,ProductAcceptor
 	*	@param e	Eventlist that will manage events
 	*	@param n	The name of the machine
 	*/
-	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n)
+	public Ambulance(Queue q, ProductAcceptor s, CEventList e, String n, Point dockPosition)
 	{
 		status='i';
 		queue=q;
@@ -48,6 +49,7 @@ public class Ambulance implements CProcess,ProductAcceptor
 		eventlist=e;
 		name=n;
 		meanProcTime=30;
+		this.waitingDockPosition = dockPosition;
 		queue.askProduct(this);
 	}
 
@@ -103,6 +105,9 @@ public class Ambulance implements CProcess,ProductAcceptor
 		// show arrival
 		System.out.println("Patient " + patient.getPriorityLevel() + " finished at time = " + tme);
 
+		// set position
+		currentPosition = City.hospitalPosition;
+
 		// Remove patient from system
 		patient.stamp(tme,"Production complete",name);
 		sink.giveProduct(patient);
@@ -110,7 +115,9 @@ public class Ambulance implements CProcess,ProductAcceptor
 		// set machine status to idle
 		status='i';
 		// Ask the queue for products
-		queue.askProduct(this);
+		// if there are no patients to help rn, go back to waiting dock
+		if(!queue.askProduct(this))
+			currentPosition = waitingDockPosition;
 	}
 	
 	/**
@@ -147,7 +154,7 @@ public class Ambulance implements CProcess,ProductAcceptor
 		// generate duration
 		if(meanProcTime>0)
 		{
-			double duration = drawRandomExponential(meanProcTime);
+			double duration = processingTime();
 			// Create a new event in the eventlist
 			double tme = eventlist.getTime();
 			eventlist.add(this,0,tme+duration); //target,type,time
@@ -178,21 +185,10 @@ public class Ambulance implements CProcess,ProductAcceptor
 	// TODO: 12/11/2022 implement current position correctly such that we can calculate exactly processing time
 	public double processingTime(){
 
-		double toPatient = (new Point(patient.getPickupLocation())).manhattanDistance(new Point(currentPosition));
-		double timeAtScene = m_erlang();
-
-		double[] hospitalPos = new double[] {0, 0};
-		double toHospital = (new Point(patient.getPickupLocation())).manhattanDistance(new Point(hospitalPos));
+		double toPatient = currentPosition.manhattanDistance(patient.getPickupLocation());
+		double timeAtScene = randomErlang();
+		double toHospital = patient.getPickupLocation().manhattanDistance(City.hospitalPosition);
 
 		return toPatient + timeAtScene + toHospital;
-	}
-
-	public static double manhattanDistance(double[] posA, double[] posB){
-		return Math.abs(posA[0] - posB[0]) + Math.abs(posA[1] - posB[1]);
-	}
-
-	// TODO: 12/11/2022 implement m-erlang
-	public static double m_erlang(){
-		return 1.0;
 	}
 }
