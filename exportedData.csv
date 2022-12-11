@@ -1,1468 +1,1480 @@
 Event,Time,Number,Station
-Creation,1.0,1,Source A1
-Production started,1.0,1,Ambulance -1 0
-Production complete,13.658919978709022,1,Ambulance -1 0
-Creation,4.0,2,Source B
-Production started,4.0,2,Ambulance -1 0
-Production complete,16.25439170323913,2,Ambulance -1 0
-Creation,2.0,3,Source A2
-Production started,2.0,3,Ambulance -1 0
-Production complete,16.46130951253584,3,Ambulance -1 0
-Creation,1.0,4,Source A2
-Production started,1.0,4,Ambulance -1 0
-Production complete,16.627958442429254,4,Ambulance -1 0
-Creation,4.0,5,Source A1
-Production started,4.0,5,Ambulance -1 0
-Production complete,17.22170351372651,5,Ambulance -1 0
-Creation,6.0,6,Source B
-Production started,6.0,6,Ambulance -1 0
-Production complete,23.036798470740273,6,Ambulance -1 0
-Creation,3.0,7,Source A1
-Production started,3.0,7,Ambulance -1 0
-Production complete,25.88782961122324,7,Ambulance -1 0
-Creation,7.0,8,Source A1
-Production started,13.658919978709022,8,Ambulance -1 0
-Production complete,34.519758316783246,8,Ambulance -1 0
-Creation,16.0,9,Source A1
-Production started,17.22170351372651,9,Ambulance -1 0
-Production complete,36.821510152840375,9,Ambulance -1 0
-Creation,10.0,10,Source A1
-Production started,16.46130951253584,10,Ambulance -1 0
-Production complete,39.13415970916685,10,Ambulance -1 0
-Creation,9.0,11,Source A1
-Production started,16.25439170323913,11,Ambulance -1 0
-Production complete,40.533243557144864,11,Ambulance -1 0
-Creation,18.0,12,Source A1
-Production started,23.036798470740273,12,Ambulance -1 0
-Production complete,45.52051553946889,12,Ambulance -1 0
-Creation,14.0,13,Source A1
-Production started,16.627958442429254,13,Ambulance -1 0
-Production complete,48.00249682692339,13,Ambulance -1 0
-Creation,21.0,14,Source A1
-Production started,25.88782961122324,14,Ambulance -1 0
-Production complete,53.96536868074184,14,Ambulance -1 0
-Creation,28.0,15,Source A1
-Production started,40.533243557144864,15,Ambulance -1 0
-Production complete,59.94201790307676,15,Ambulance -1 0
-Creation,26.0,16,Source A1
-Production started,39.13415970916685,16,Ambulance -1 0
-Production complete,61.46493961678591,16,Ambulance -1 0
-Creation,24.0,17,Source A1
-Production started,36.821510152840375,17,Ambulance -1 0
-Production complete,61.674559358797204,17,Ambulance -1 0
-Creation,22.0,18,Source A1
-Production started,34.519758316783246,18,Ambulance -1 0
-Production complete,63.0357973304876,18,Ambulance -1 0
-Creation,31.0,19,Source A1
-Production started,48.00249682692339,19,Ambulance -1 0
-Production complete,66.19129950696286,19,Ambulance -1 0
-Creation,29.0,20,Source A1
-Production started,45.52051553946889,20,Ambulance -1 0
-Production complete,67.00325374446676,20,Ambulance -1 0
-Creation,34.0,21,Source A1
-Production started,53.96536868074184,21,Ambulance -1 0
-Production complete,81.44778629693852,21,Ambulance -1 0
-Creation,40.0,22,Source A1
-Production started,61.46493961678591,22,Ambulance -1 0
-Production complete,82.10197756208214,22,Ambulance -1 0
+Creation,2.0,1,Source B
+Production started,2.0,1,Ambulance 4 1
+Production complete,11.745962238311813,1,Ambulance 4 1
+Creation,5.0,2,Source A2
+Production started,5.0,2,Ambulance 7 1
+Production complete,16.430160050499993,2,Ambulance 7 1
+Creation,4.0,3,Source B
+Production started,4.0,3,Ambulance 2 1
+Production complete,16.46600254165473,3,Ambulance 2 1
+Creation,3.0,4,Source A1
+Production started,3.0,4,Ambulance 5 1
+Production complete,16.950504263160298,4,Ambulance 5 1
+Creation,5.0,5,Source A1
+Production started,5.0,5,Ambulance 3 1
+Production complete,17.716605681667467,5,Ambulance 3 1
+Creation,4.0,6,Source A1
+Production started,4.0,6,Ambulance 6 1
+Production complete,24.599300065285785,6,Ambulance 6 1
+Creation,6.0,7,Source A2
+Production started,17.716605681667467,7,Ambulance 3 1
+Production complete,24.72692253460254,7,Ambulance 3 1
+Creation,18.0,8,Source A1
+Production started,24.599300065285785,8,Ambulance 6 1
+Production complete,26.26436461350757,8,Ambulance 6 1
+Creation,5.0,9,Source B
+Production started,5.0,9,Ambulance 1 1
+Production complete,33.70632717730971,9,Ambulance 1 1
+Creation,15.0,10,Source A1
+Production started,16.950504263160298,10,Ambulance 5 1
+Production complete,37.525495833193034,10,Ambulance 5 1
+Creation,7.0,11,Source A1
+Production started,11.745962238311813,11,Ambulance 4 1
+Production complete,40.51981235247959,11,Ambulance 4 1
+Creation,22.0,12,Source A1
+Production started,24.72692253460254,12,Ambulance 3 1
+Production complete,42.203400812349884,12,Ambulance 3 1
+Creation,13.0,13,Source A1
+Production started,16.46600254165473,13,Ambulance 2 1
+Production complete,46.98220039357865,13,Ambulance 2 1
+Creation,10.0,14,Source A1
+Production started,16.430160050499993,14,Ambulance 7 1
+Production complete,47.034592833659005,14,Ambulance 7 1
+Creation,34.0,15,Source A1
+Production started,47.034592833659005,15,Ambulance 7 1
+Production complete,50.31377160889227,15,Ambulance 7 1
+Creation,33.0,16,Source A1
+Production started,46.98220039357865,16,Ambulance 2 1
+Production complete,52.366871321707954,16,Ambulance 2 1
+Creation,23.0,17,Source A1
+Production started,26.26436461350757,17,Ambulance 6 1
+Production complete,53.77261784869644,17,Ambulance 6 1
+Creation,37.0,18,Source A1
+Production started,52.366871321707954,18,Ambulance 2 1
+Production complete,57.02709712225345,18,Ambulance 2 1
+Creation,28.0,19,Source A1
+Production started,37.525495833193034,19,Ambulance 5 1
+Production complete,59.5540409664102,19,Ambulance 5 1
+Creation,25.0,20,Source A1
+Production started,33.70632717730971,20,Ambulance 1 1
+Production complete,60.835214058177165,20,Ambulance 1 1
+Creation,29.0,21,Source A1
+Production started,40.51981235247959,21,Ambulance 4 1
+Production complete,61.29968067186946,21,Ambulance 4 1
+Creation,47.0,22,Source A1
+Production started,61.29968067186946,22,Ambulance 4 1
+Production complete,64.79543133069203,22,Ambulance 4 1
 Creation,36.0,23,Source A1
-Production started,59.94201790307676,23,Ambulance -1 0
-Production complete,82.73560818012588,23,Ambulance -1 0
-Creation,43.0,24,Source A1
-Production started,61.674559358797204,24,Ambulance -1 0
-Production complete,85.11893647169192,24,Ambulance -1 0
-Creation,45.0,25,Source A1
-Production started,63.0357973304876,25,Ambulance -1 0
-Production complete,85.32110503688544,25,Ambulance -1 0
-Creation,48.0,26,Source A1
-Production started,66.19129950696286,26,Ambulance -1 0
-Production complete,88.82235438116203,26,Ambulance -1 0
-Creation,57.0,27,Source A1
-Production started,85.11893647169192,27,Ambulance -1 0
-Production complete,90.7514334006172,27,Ambulance -1 0
-Creation,49.0,28,Source A1
-Production started,67.00325374446676,28,Ambulance -1 0
-Production complete,95.86968770159517,28,Ambulance -1 0
-Creation,53.0,29,Source A1
-Production started,81.44778629693852,29,Ambulance -1 0
-Production complete,97.61528345732876,29,Ambulance -1 0
-Creation,55.0,30,Source A1
-Production started,82.73560818012588,30,Ambulance -1 0
-Production complete,102.01432410500875,30,Ambulance -1 0
-Creation,54.0,31,Source A1
-Production started,82.10197756208214,31,Ambulance -1 0
-Production complete,103.16490922449414,31,Ambulance -1 0
-Creation,58.0,32,Source A1
-Production started,85.32110503688544,32,Ambulance -1 0
-Production complete,104.36630678973242,32,Ambulance -1 0
-Creation,78.0,33,Source A1
-Production started,95.86968770159517,33,Ambulance -1 0
-Production complete,110.4379496339034,33,Ambulance -1 0
-Creation,60.0,34,Source A1
-Production started,88.82235438116203,34,Ambulance -1 0
-Production complete,111.995780411206,34,Ambulance -1 0
-Creation,66.0,35,Source A1
-Production started,90.7514334006172,35,Ambulance -1 0
-Production complete,114.46630999440605,35,Ambulance -1 0
-Creation,95.0,36,Source A1
-Production started,103.16490922449414,36,Ambulance -1 0
-Production complete,119.92805106341288,36,Ambulance -1 0
-Creation,83.0,37,Source A1
-Production started,97.61528345732876,37,Ambulance -1 0
-Production complete,126.34055451526683,37,Ambulance -1 0
-Creation,99.0,38,Source A1
-Production started,104.36630678973242,38,Ambulance -1 0
-Production complete,127.76185634764992,38,Ambulance -1 0
-Creation,89.0,39,Source A1
-Production started,102.01432410500875,39,Ambulance -1 0
-Production complete,127.80579256337874,39,Ambulance -1 0
-Creation,105.0,40,Source A1
-Production started,110.4379496339034,40,Ambulance -1 0
-Production complete,130.1020077032064,40,Ambulance -1 0
-Creation,11.0,41,Source A2
-Production started,127.80579256337874,41,Ambulance -1 0
-Production complete,133.53225840157396,41,Ambulance -1 0
-Creation,10.0,42,Source A2
-Production started,127.76185634764992,42,Ambulance -1 0
-Production complete,134.19123861453633,42,Ambulance -1 0
+Production started,50.31377160889227,23,Ambulance 7 1
+Production complete,69.37069982759441,23,Ambulance 7 1
+Creation,32.0,24,Source A1
+Production started,42.203400812349884,24,Ambulance 3 1
+Production complete,72.72533171537938,24,Ambulance 3 1
+Creation,41.0,25,Source A1
+Production started,53.77261784869644,25,Ambulance 6 1
+Production complete,77.5563336391213,25,Ambulance 6 1
+Creation,46.0,26,Source A1
+Production started,60.835214058177165,26,Ambulance 1 1
+Production complete,79.55550400211246,26,Ambulance 1 1
+Creation,52.0,27,Source A1
+Production started,77.5563336391213,27,Ambulance 6 1
+Production complete,80.63544373184365,27,Ambulance 6 1
+Creation,42.0,28,Source A1
+Production started,57.02709712225345,28,Ambulance 2 1
+Production complete,81.60038791980514,28,Ambulance 2 1
+Creation,45.0,29,Source A1
+Production started,59.5540409664102,29,Ambulance 5 1
+Production complete,82.25274237969667,29,Ambulance 5 1
+Creation,57.0,30,Source A1
+Production started,80.63544373184365,30,Ambulance 6 1
+Production complete,87.05910635914154,30,Ambulance 6 1
+Creation,50.0,31,Source A1
+Production started,69.37069982759441,31,Ambulance 7 1
+Production complete,87.72667281433839,31,Ambulance 7 1
+Creation,51.0,32,Source A1
+Production started,72.72533171537938,32,Ambulance 3 1
+Production complete,89.04460008821252,32,Ambulance 3 1
+Creation,48.0,33,Source A1
+Production started,64.79543133069203,33,Ambulance 4 1
+Production complete,92.86127818446873,33,Ambulance 4 1
+Creation,55.0,34,Source A1
+Production started,79.55550400211246,34,Ambulance 1 1
+Production complete,103.68250758637305,34,Ambulance 1 1
+Creation,64.0,35,Source A1
+Production started,82.25274237969667,35,Ambulance 5 1
+Production complete,103.77869454460219,35,Ambulance 5 1
+Creation,69.0,36,Source A1
+Production started,87.05910635914154,36,Ambulance 6 1
+Production complete,104.45587688204526,36,Ambulance 6 1
+Creation,59.0,37,Source A1
+Production started,81.60038791980514,37,Ambulance 2 1
+Production complete,106.08294613603762,37,Ambulance 2 1
+Creation,100.0,38,Source A1
+Production started,104.45587688204526,38,Ambulance 6 1
+Production complete,111.60694238640089,38,Ambulance 6 1
+Creation,82.0,39,Source A1
+Production started,89.04460008821252,39,Ambulance 3 1
+Production complete,112.2926306943201,39,Ambulance 3 1
+Creation,76.0,40,Source A1
+Production started,87.72667281433839,40,Ambulance 7 1
+Production complete,112.36486093157606,40,Ambulance 7 1
+Creation,85.0,41,Source A1
+Production started,92.86127818446873,41,Ambulance 4 1
+Production complete,115.58320243458789,41,Ambulance 4 1
+Creation,106.0,42,Source A1
+Production started,106.08294613603762,42,Ambulance 2 1
+Production complete,126.11003129256162,42,Ambulance 2 1
 Creation,8.0,43,Source A2
-Production started,114.46630999440605,43,Ambulance -1 0
-Production complete,144.07531096599467,43,Ambulance -1 0
-Creation,119.0,44,Source A1
-Production started,119.92805106341288,44,Ambulance -1 0
-Production complete,144.22556105826195,44,Ambulance -1 0
-Creation,110.0,45,Source A1
-Production started,111.995780411206,45,Ambulance -1 0
-Production complete,144.87719646521555,45,Ambulance -1 0
+Production started,111.60694238640089,43,Ambulance 6 1
+Production complete,129.83711199557195,43,Ambulance 6 1
+Creation,89.0,44,Source A1
+Production started,103.68250758637305,44,Ambulance 1 1
+Production complete,131.206730316909,44,Ambulance 1 1
+Creation,93.0,45,Source A1
+Production started,103.77869454460219,45,Ambulance 5 1
+Production complete,133.47696103754146,45,Ambulance 5 1
 Creation,9.0,46,Source A2
-Production started,126.34055451526683,46,Ambulance -1 0
-Production complete,151.56400941811705,46,Ambulance -1 0
-Creation,129.0,47,Source A1
-Production started,130.1020077032064,47,Ambulance -1 0
-Production complete,152.7678518695132,47,Ambulance -1 0
-Creation,133.0,48,Source A1
-Production started,134.19123861453633,48,Ambulance -1 0
-Production complete,154.1973497744505,48,Ambulance -1 0
-Creation,131.0,49,Source A1
-Production started,133.53225840157396,49,Ambulance -1 0
-Production complete,155.64471206379588,49,Ambulance -1 0
-Creation,134.0,50,Source A1
-Production started,144.07531096599467,50,Ambulance -1 0
-Production complete,165.58653346855485,50,Ambulance -1 0
-Creation,135.0,51,Source A1
-Production started,144.22556105826195,51,Ambulance -1 0
-Production complete,167.57035858237185,51,Ambulance -1 0
-Creation,136.0,52,Source A1
-Production started,144.87719646521555,52,Ambulance -1 0
-Production complete,172.0715356288947,52,Ambulance -1 0
-Creation,148.0,53,Source A1
-Production started,155.64471206379588,53,Ambulance -1 0
-Production complete,173.97828936029,53,Ambulance -1 0
-Creation,144.0,54,Source A1
-Production started,152.7678518695132,54,Ambulance -1 0
-Production complete,175.7219695885674,54,Ambulance -1 0
-Creation,147.0,55,Source A1
-Production started,154.1973497744505,55,Ambulance -1 0
-Production complete,176.8910207869037,55,Ambulance -1 0
-Creation,139.0,56,Source A1
-Production started,151.56400941811705,56,Ambulance -1 0
-Production complete,178.19715309677935,56,Ambulance -1 0
-Creation,150.0,57,Source A1
-Production started,167.57035858237185,57,Ambulance -1 0
-Production complete,188.2827619790158,57,Ambulance -1 0
-Creation,149.0,58,Source A1
-Production started,165.58653346855485,58,Ambulance -1 0
-Production complete,195.29035482124405,58,Ambulance -1 0
-Creation,162.0,59,Source A1
-Production started,188.2827619790158,59,Ambulance -1 0
-Production complete,196.06884419936387,59,Ambulance -1 0
-Creation,152.0,60,Source A1
-Production started,172.0715356288947,60,Ambulance -1 0
-Production complete,196.99613906198522,60,Ambulance -1 0
-Creation,159.0,61,Source A1
-Production started,176.8910207869037,61,Ambulance -1 0
-Production complete,197.46735663650426,61,Ambulance -1 0
-Creation,157.0,62,Source A1
-Production started,175.7219695885674,62,Ambulance -1 0
-Production complete,199.4581721915306,62,Ambulance -1 0
-Creation,166.0,63,Source A1
-Production started,196.06884419936387,63,Ambulance -1 0
-Production complete,203.4725378720667,63,Ambulance -1 0
-Creation,153.0,64,Source A1
-Production started,173.97828936029,64,Ambulance -1 0
-Production complete,203.7008096918628,64,Ambulance -1 0
-Creation,160.0,65,Source A1
-Production started,178.19715309677935,65,Ambulance -1 0
-Production complete,209.65936503307117,65,Ambulance -1 0
-Creation,174.0,66,Source A1
-Production started,199.4581721915306,66,Ambulance -1 0
-Production complete,218.51220864792202,66,Ambulance -1 0
-Creation,170.0,67,Source A1
-Production started,196.99613906198522,67,Ambulance -1 0
-Production complete,218.82848666090553,67,Ambulance -1 0
-Creation,172.0,68,Source A1
-Production started,197.46735663650426,68,Ambulance -1 0
-Production complete,220.80242872419097,68,Ambulance -1 0
-Creation,191.0,69,Source A1
-Production started,218.82848666090553,69,Ambulance -1 0
-Production complete,223.14623561612515,69,Ambulance -1 0
-Creation,187.0,70,Source A1
-Production started,218.51220864792202,70,Ambulance -1 0
-Production complete,224.29739909952343,70,Ambulance -1 0
-Creation,181.0,71,Source A1
-Production started,203.7008096918628,71,Ambulance -1 0
-Production complete,225.53070206912696,71,Ambulance -1 0
-Creation,165.0,72,Source A1
-Production started,195.29035482124405,72,Ambulance -1 0
-Production complete,226.93967068853027,72,Ambulance -1 0
-Creation,178.0,73,Source A1
-Production started,203.4725378720667,73,Ambulance -1 0
-Production complete,233.00506514389187,73,Ambulance -1 0
-Creation,213.0,74,Source A1
-Production started,226.93967068853027,74,Ambulance -1 0
-Production complete,233.20175026234418,74,Ambulance -1 0
-Creation,183.0,75,Source A1
-Production started,209.65936503307117,75,Ambulance -1 0
-Production complete,238.96755873131,75,Ambulance -1 0
-Creation,199.0,76,Source A1
-Production started,223.14623561612515,76,Ambulance -1 0
-Production complete,240.69140164388008,76,Ambulance -1 0
-Creation,197.0,77,Source A1
-Production started,220.80242872419097,77,Ambulance -1 0
-Production complete,245.04732917752884,77,Ambulance -1 0
-Creation,203.0,78,Source A1
-Production started,224.29739909952343,78,Ambulance -1 0
-Production complete,245.75848119470103,78,Ambulance -1 0
-Creation,215.0,79,Source A1
-Production started,233.00506514389187,79,Ambulance -1 0
-Production complete,253.68834483425692,79,Ambulance -1 0
-Creation,208.0,80,Source A1
-Production started,225.53070206912696,80,Ambulance -1 0
-Production complete,254.85834308383005,80,Ambulance -1 0
-Creation,224.0,81,Source A1
-Production started,238.96755873131,81,Ambulance -1 0
-Production complete,259.8173047739442,81,Ambulance -1 0
-Creation,230.0,82,Source A1
-Production started,245.04732917752884,82,Ambulance -1 0
-Production complete,260.7146756062523,82,Ambulance -1 0
-Creation,220.0,83,Source A1
-Production started,233.20175026234418,83,Ambulance -1 0
-Production complete,261.5840527423488,83,Ambulance -1 0
-Creation,236.0,84,Source A1
-Production started,245.75848119470103,84,Ambulance -1 0
-Production complete,272.119809005116,84,Ambulance -1 0
-Creation,228.0,85,Source A1
-Production started,240.69140164388008,85,Ambulance -1 0
-Production complete,272.5979483636883,85,Ambulance -1 0
-Creation,248.0,86,Source A1
-Production started,254.85834308383005,86,Ambulance -1 0
-Production complete,274.15079564054605,86,Ambulance -1 0
-Creation,242.0,87,Source A1
-Production started,253.68834483425692,87,Ambulance -1 0
-Production complete,275.4450668494574,87,Ambulance -1 0
-Creation,252.0,88,Source A1
-Production started,259.8173047739442,88,Ambulance -1 0
-Production complete,275.5810830989435,88,Ambulance -1 0
-Creation,18.0,89,Source A2
-Production started,275.5810830989435,89,Ambulance -1 0
-Production complete,280.14714392658755,89,Ambulance -1 0
-Creation,15.0,90,Source A2
-Production started,261.5840527423488,90,Ambulance -1 0
-Production complete,280.9524508673626,90,Ambulance -1 0
-Creation,21.0,91,Source A2
-Production started,280.9524508673626,91,Ambulance -1 0
-Production complete,283.82573417794794,91,Ambulance -1 0
-Creation,13.0,92,Source A2
-Production started,260.7146756062523,92,Ambulance -1 0
-Production complete,287.2590334960584,92,Ambulance -1 0
-Creation,275.0,93,Source A1
-Production started,275.4450668494574,93,Ambulance -1 0
-Production complete,288.62563205329457,93,Ambulance -1 0
-Creation,271.0,94,Source A1
-Production started,274.15079564054605,94,Ambulance -1 0
-Production complete,296.0433050211562,94,Ambulance -1 0
-Creation,264.0,95,Source A1
-Production started,272.5979483636883,95,Ambulance -1 0
-Production complete,301.3031598805876,95,Ambulance -1 0
-Creation,262.0,96,Source A1
-Production started,272.119809005116,96,Ambulance -1 0
-Production complete,301.57576612172835,96,Ambulance -1 0
-Creation,279.0,97,Source A1
-Production started,280.14714392658755,97,Ambulance -1 0
-Production complete,301.97725985921176,97,Ambulance -1 0
-Creation,296.0,98,Source A1
-Production started,301.3031598805876,98,Ambulance -1 0
-Production complete,304.88442602606534,98,Ambulance -1 0
-Creation,22.0,99,Source A2
-Production started,283.82573417794794,99,Ambulance -1 0
-Production complete,307.38882382752763,99,Ambulance -1 0
-Creation,23.0,100,Source A2
-Production started,287.2590334960584,100,Ambulance -1 0
-Production complete,309.45134751157576,100,Ambulance -1 0
-Creation,24.0,101,Source A2
-Production started,288.62563205329457,101,Ambulance -1 0
-Production complete,311.7902591883399,101,Ambulance -1 0
-Creation,289.0,102,Source A1
-Production started,296.0433050211562,102,Ambulance -1 0
-Production complete,313.7315222483915,102,Ambulance -1 0
-Creation,25.0,103,Source A2
-Production started,301.97725985921176,103,Ambulance -1 0
-Production complete,327.4592889407894,103,Ambulance -1 0
-Creation,309.0,104,Source A1
-Production started,309.45134751157576,104,Ambulance -1 0
-Production complete,329.59191214566073,104,Ambulance -1 0
-Creation,302.0,105,Source A1
-Production started,304.88442602606534,105,Ambulance -1 0
-Production complete,330.3706919541237,105,Ambulance -1 0
-Creation,306.0,106,Source A1
-Production started,307.38882382752763,106,Ambulance -1 0
-Production complete,332.0415994295591,106,Ambulance -1 0
-Creation,300.0,107,Source A1
-Production started,301.57576612172835,107,Ambulance -1 0
-Production complete,332.55069609474344,107,Ambulance -1 0
-Creation,311.0,108,Source A1
-Production started,311.7902591883399,108,Ambulance -1 0
-Production complete,332.632782423098,108,Ambulance -1 0
-Creation,313.0,109,Source A1
-Production started,313.7315222483915,109,Ambulance -1 0
-Production complete,332.80346455861263,109,Ambulance -1 0
-Creation,325.0,110,Source A1
-Production started,332.632782423098,110,Ambulance -1 0
-Production complete,339.4320669023331,110,Ambulance -1 0
-Creation,317.0,111,Source A1
-Production started,329.59191214566073,111,Ambulance -1 0
-Production complete,347.8478050435859,111,Ambulance -1 0
-Creation,315.0,112,Source A1
-Production started,327.4592889407894,112,Ambulance -1 0
-Production complete,352.85256680250285,112,Ambulance -1 0
-Creation,318.0,113,Source A1
-Production started,330.3706919541237,113,Ambulance -1 0
-Production complete,353.3913602638165,113,Ambulance -1 0
-Creation,327.0,114,Source A1
-Production started,332.80346455861263,114,Ambulance -1 0
-Production complete,354.09070580709204,114,Ambulance -1 0
-Creation,336.0,115,Source A1
-Production started,353.3913602638165,115,Ambulance -1 0
-Production complete,355.8482776091191,115,Ambulance -1 0
-Creation,321.0,116,Source A1
-Production started,332.0415994295591,116,Ambulance -1 0
-Production complete,357.6655245965276,116,Ambulance -1 0
-Creation,332.0,117,Source A1
-Production started,339.4320669023331,117,Ambulance -1 0
-Production complete,357.7900521895664,117,Ambulance -1 0
-Creation,340.0,118,Source A1
-Production started,354.09070580709204,118,Ambulance -1 0
-Production complete,360.4322819795105,118,Ambulance -1 0
-Creation,323.0,119,Source A1
-Production started,332.55069609474344,119,Ambulance -1 0
-Production complete,362.8111334813086,119,Ambulance -1 0
-Creation,343.0,120,Source A1
-Production started,357.6655245965276,120,Ambulance -1 0
-Production complete,363.1949472835849,120,Ambulance -1 0
-Creation,356.0,121,Source A1
-Production started,363.1949472835849,121,Ambulance -1 0
-Production complete,367.24775003220543,121,Ambulance -1 0
-Creation,334.0,122,Source A1
-Production started,347.8478050435859,122,Ambulance -1 0
-Production complete,369.93915557612195,122,Ambulance -1 0
-Creation,341.0,123,Source A1
-Production started,355.8482776091191,123,Ambulance -1 0
-Production complete,375.11479532389075,123,Ambulance -1 0
-Creation,335.0,124,Source A1
-Production started,352.85256680250285,124,Ambulance -1 0
-Production complete,378.6411094248713,124,Ambulance -1 0
-Creation,349.0,125,Source A1
-Production started,360.4322819795105,125,Ambulance -1 0
-Production complete,379.75295515143875,125,Ambulance -1 0
-Creation,376.0,126,Source A1
-Production started,379.75295515143875,126,Ambulance -1 0
-Production complete,386.2632349112817,126,Ambulance -1 0
-Creation,345.0,127,Source A1
-Production started,357.7900521895664,127,Ambulance -1 0
-Production complete,387.58944945480226,127,Ambulance -1 0
-Creation,353.0,128,Source A1
-Production started,362.8111334813086,128,Ambulance -1 0
-Production complete,387.8944487774169,128,Ambulance -1 0
-Creation,384.0,129,Source A1
-Production started,386.2632349112817,129,Ambulance -1 0
-Production complete,392.56106211475867,129,Ambulance -1 0
-Creation,363.0,130,Source A1
-Production started,375.11479532389075,130,Ambulance -1 0
-Production complete,395.9214738870626,130,Ambulance -1 0
-Creation,358.0,131,Source A1
-Production started,367.24775003220543,131,Ambulance -1 0
-Production complete,395.9917658411534,131,Ambulance -1 0
-Creation,360.0,132,Source A1
-Production started,369.93915557612195,132,Ambulance -1 0
-Production complete,398.04434907045663,132,Ambulance -1 0
-Creation,393.0,133,Source A1
-Production started,395.9214738870626,133,Ambulance -1 0
-Production complete,401.96040790942106,133,Ambulance -1 0
-Creation,32.0,134,Source A2
-Production started,398.04434907045663,134,Ambulance -1 0
-Production complete,403.92275386635777,134,Ambulance -1 0
-Creation,367.0,135,Source A1
-Production started,378.6411094248713,135,Ambulance -1 0
-Production complete,405.06094947561803,135,Ambulance -1 0
-Creation,27.0,136,Source A2
-Production started,387.58944945480226,136,Ambulance -1 0
-Production complete,411.2507704223163,136,Ambulance -1 0
-Creation,28.0,137,Source A2
-Production started,387.8944487774169,137,Ambulance -1 0
-Production complete,412.7597168537466,137,Ambulance -1 0
-Creation,30.0,138,Source A2
-Production started,392.56106211475867,138,Ambulance -1 0
-Production complete,418.42419570306436,138,Ambulance -1 0
-Creation,39.0,139,Source A2
-Production started,403.92275386635777,139,Ambulance -1 0
-Production complete,425.75523447114335,139,Ambulance -1 0
-Creation,35.0,140,Source A2
-Production started,401.96040790942106,140,Ambulance -1 0
-Production complete,428.56420848444645,140,Ambulance -1 0
-Creation,395.0,141,Source A1
-Production started,395.9917658411534,141,Ambulance -1 0
-Production complete,428.8690558040897,141,Ambulance -1 0
-Creation,405.0,142,Source A1
-Production started,405.06094947561803,142,Ambulance -1 0
-Production complete,434.08179523135175,142,Ambulance -1 0
-Creation,41.0,143,Source A2
-Production started,411.2507704223163,143,Ambulance -1 0
-Production complete,434.9355700422722,143,Ambulance -1 0
-Creation,414.0,144,Source A1
-Production started,418.42419570306436,144,Ambulance -1 0
-Production complete,436.8299869925341,144,Ambulance -1 0
-Creation,43.0,145,Source A2
-Production started,412.7597168537466,145,Ambulance -1 0
-Production complete,437.3378234817428,145,Ambulance -1 0
-Creation,428.0,146,Source A1
-Production started,434.08179523135175,146,Ambulance -1 0
-Production complete,437.9054758516326,146,Ambulance -1 0
-Creation,431.0,147,Source A1
-Production started,437.3378234817428,147,Ambulance -1 0
-Production complete,445.163616969155,147,Ambulance -1 0
-Creation,420.0,148,Source A1
-Production started,425.75523447114335,148,Ambulance -1 0
-Production complete,449.2974216094185,148,Ambulance -1 0
-Creation,424.0,149,Source A1
-Production started,428.56420848444645,149,Ambulance -1 0
-Production complete,449.65954101152374,149,Ambulance -1 0
-Creation,432.0,150,Source A1
-Production started,437.9054758516326,150,Ambulance -1 0
-Production complete,452.7105243983366,150,Ambulance -1 0
-Creation,425.0,151,Source A1
-Production started,428.8690558040897,151,Ambulance -1 0
-Production complete,453.1049549215694,151,Ambulance -1 0
-Creation,429.0,152,Source A1
-Production started,434.9355700422722,152,Ambulance -1 0
-Production complete,454.81529841511025,152,Ambulance -1 0
-Creation,430.0,153,Source A1
-Production started,436.8299869925341,153,Ambulance -1 0
-Production complete,455.65774177306287,153,Ambulance -1 0
-Creation,440.0,154,Source A1
-Production started,452.7105243983366,154,Ambulance -1 0
-Production complete,456.00323832495343,154,Ambulance -1 0
-Creation,434.0,155,Source A1
-Production started,449.2974216094185,155,Ambulance -1 0
-Production complete,470.01422764718546,155,Ambulance -1 0
-Creation,433.0,156,Source A1
-Production started,445.163616969155,156,Ambulance -1 0
-Production complete,471.7687351714442,156,Ambulance -1 0
-Creation,438.0,157,Source A1
-Production started,449.65954101152374,157,Ambulance -1 0
-Production complete,474.83712037891894,157,Ambulance -1 0
-Creation,445.0,158,Source A1
-Production started,455.65774177306287,158,Ambulance -1 0
-Production complete,474.9348297323877,158,Ambulance -1 0
-Creation,441.0,159,Source A1
-Production started,453.1049549215694,159,Ambulance -1 0
-Production complete,475.89441639296166,159,Ambulance -1 0
-Creation,444.0,160,Source A1
-Production started,454.81529841511025,160,Ambulance -1 0
-Production complete,480.26844727293025,160,Ambulance -1 0
-Creation,452.0,161,Source A1
-Production started,456.00323832495343,161,Ambulance -1 0
-Production complete,483.24567247455866,161,Ambulance -1 0
-Creation,464.0,162,Source A1
-Production started,480.26844727293025,162,Ambulance -1 0
-Production complete,485.86067238688236,162,Ambulance -1 0
-Creation,453.0,163,Source A1
-Production started,470.01422764718546,163,Ambulance -1 0
-Production complete,487.4808840851197,163,Ambulance -1 0
-Creation,458.0,164,Source A1
-Production started,471.7687351714442,164,Ambulance -1 0
-Production complete,489.0380081468337,164,Ambulance -1 0
-Creation,463.0,165,Source A1
-Production started,475.89441639296166,165,Ambulance -1 0
-Production complete,502.92061400560203,165,Ambulance -1 0
-Creation,459.0,166,Source A1
-Production started,474.83712037891894,166,Ambulance -1 0
-Production complete,503.78326528327193,166,Ambulance -1 0
-Creation,460.0,167,Source A1
-Production started,474.9348297323877,167,Ambulance -1 0
-Production complete,505.47781951625643,167,Ambulance -1 0
-Creation,469.0,168,Source A1
-Production started,485.86067238688236,168,Ambulance -1 0
-Production complete,507.86300839415804,168,Ambulance -1 0
-Creation,467.0,169,Source A1
-Production started,483.24567247455866,169,Ambulance -1 0
-Production complete,507.8945929032102,169,Ambulance -1 0
-Creation,471.0,170,Source A1
-Production started,487.4808840851197,170,Ambulance -1 0
-Production complete,510.78278797873213,170,Ambulance -1 0
-Creation,473.0,171,Source A1
-Production started,489.0380081468337,171,Ambulance -1 0
-Production complete,512.4281204597373,171,Ambulance -1 0
-Creation,476.0,172,Source A1
-Production started,503.78326528327193,172,Ambulance -1 0
-Production complete,520.4844060820532,172,Ambulance -1 0
-Creation,478.0,173,Source A1
-Production started,507.86300839415804,173,Ambulance -1 0
-Production complete,522.527893887943,173,Ambulance -1 0
-Creation,474.0,174,Source A1
-Production started,502.92061400560203,174,Ambulance -1 0
-Production complete,522.9520080806122,174,Ambulance -1 0
-Creation,479.0,175,Source A1
-Production started,507.8945929032102,175,Ambulance -1 0
-Production complete,528.6507806973182,175,Ambulance -1 0
-Creation,487.0,176,Source A1
-Production started,512.4281204597373,176,Ambulance -1 0
-Production complete,531.1696922757236,176,Ambulance -1 0
-Creation,481.0,177,Source A1
-Production started,510.78278797873213,177,Ambulance -1 0
-Production complete,533.8804092911381,177,Ambulance -1 0
-Creation,477.0,178,Source A1
-Production started,505.47781951625643,178,Ambulance -1 0
-Production complete,535.8232919613101,178,Ambulance -1 0
-Creation,513.0,179,Source A1
-Production started,531.1696922757236,179,Ambulance -1 0
-Production complete,537.417661990016,179,Ambulance -1 0
-Creation,496.0,180,Source A1
-Production started,522.527893887943,180,Ambulance -1 0
-Production complete,542.3433037231997,180,Ambulance -1 0
-Creation,523.0,181,Source A1
-Production started,535.8232919613101,181,Ambulance -1 0
-Production complete,543.1786257011804,181,Ambulance -1 0
-Creation,488.0,182,Source A1
-Production started,520.4844060820532,182,Ambulance -1 0
-Production complete,546.0929663773578,182,Ambulance -1 0
-Creation,502.0,183,Source A1
-Production started,522.9520080806122,183,Ambulance -1 0
-Production complete,548.1250900206397,183,Ambulance -1 0
-Creation,516.0,184,Source A1
-Production started,533.8804092911381,184,Ambulance -1 0
-Production complete,555.5466016456846,184,Ambulance -1 0
-Creation,509.0,185,Source A1
-Production started,528.6507806973182,185,Ambulance -1 0
-Production complete,556.3004001632877,185,Ambulance -1 0
-Creation,526.0,186,Source A1
-Production started,537.417661990016,186,Ambulance -1 0
-Production complete,558.832768570655,186,Ambulance -1 0
-Creation,542.0,187,Source A1
-Production started,548.1250900206397,187,Ambulance -1 0
-Production complete,565.4691500687148,187,Ambulance -1 0
-Creation,533.0,188,Source A1
-Production started,543.1786257011804,188,Ambulance -1 0
-Production complete,567.5944946084936,188,Ambulance -1 0
-Creation,529.0,189,Source A1
-Production started,542.3433037231997,189,Ambulance -1 0
-Production complete,568.2456083685973,189,Ambulance -1 0
-Creation,538.0,190,Source A1
-Production started,546.0929663773578,190,Ambulance -1 0
-Production complete,568.8611530597921,190,Ambulance -1 0
-Creation,548.0,191,Source A1
-Production started,556.3004001632877,191,Ambulance -1 0
-Production complete,577.2025697304108,191,Ambulance -1 0
-Creation,544.0,192,Source A1
-Production started,555.5466016456846,192,Ambulance -1 0
-Production complete,577.9660613300313,192,Ambulance -1 0
-Creation,560.0,193,Source A1
-Production started,568.2456083685973,193,Ambulance -1 0
-Production complete,584.4334745049656,193,Ambulance -1 0
-Creation,550.0,194,Source A1
-Production started,558.832768570655,194,Ambulance -1 0
-Production complete,587.3552363092737,194,Ambulance -1 0
-Creation,551.0,195,Source A1
-Production started,565.4691500687148,195,Ambulance -1 0
-Production complete,590.2533600473514,195,Ambulance -1 0
-Creation,556.0,196,Source A1
-Production started,567.5944946084936,196,Ambulance -1 0
-Production complete,592.9681011072754,196,Ambulance -1 0
-Creation,591.0,197,Source A1
-Production started,592.9681011072754,197,Ambulance -1 0
-Production complete,596.7534931383598,197,Ambulance -1 0
-Creation,563.0,198,Source A1
-Production started,568.8611530597921,198,Ambulance -1 0
-Production complete,599.3725661963468,198,Ambulance -1 0
-Creation,567.0,199,Source A1
-Production started,577.2025697304108,199,Ambulance -1 0
-Production complete,600.5708998963726,199,Ambulance -1 0
-Creation,571.0,200,Source A1
-Production started,577.9660613300313,200,Ambulance -1 0
-Production complete,601.5773674495557,200,Ambulance -1 0
-Creation,46.0,201,Source A2
-Production started,600.5708998963726,201,Ambulance -1 0
-Production complete,604.9767658727457,201,Ambulance -1 0
-Creation,577.0,202,Source A1
-Production started,584.4334745049656,202,Ambulance -1 0
-Production complete,607.1008251635834,202,Ambulance -1 0
-Creation,595.0,203,Source A1
-Production started,596.7534931383598,203,Ambulance -1 0
-Production complete,610.7786526182786,203,Ambulance -1 0
-Creation,584.0,204,Source A1
-Production started,587.3552363092737,204,Ambulance -1 0
-Production complete,612.2471009730277,204,Ambulance -1 0
-Creation,588.0,205,Source A1
-Production started,590.2533600473514,205,Ambulance -1 0
-Production complete,615.4245617370501,205,Ambulance -1 0
-Creation,597.0,206,Source A1
-Production started,599.3725661963468,206,Ambulance -1 0
-Production complete,617.4438132991207,206,Ambulance -1 0
-Creation,48.0,207,Source A2
-Production started,601.5773674495557,207,Ambulance -1 0
-Production complete,622.1317341378834,207,Ambulance -1 0
-Creation,603.0,208,Source A1
-Production started,604.9767658727457,208,Ambulance -1 0
-Production complete,627.6509670378014,208,Ambulance -1 0
-Creation,49.0,209,Source A2
-Production started,607.1008251635834,209,Ambulance -1 0
-Production complete,629.0671318445416,209,Ambulance -1 0
-Creation,609.0,210,Source A1
-Production started,610.7786526182786,210,Ambulance -1 0
-Production complete,634.7283603330122,210,Ambulance -1 0
-Creation,54.0,211,Source A2
-Production started,612.2471009730277,211,Ambulance -1 0
-Production complete,635.3824617300079,211,Ambulance -1 0
-Creation,57.0,212,Source A2
-Production started,615.4245617370501,212,Ambulance -1 0
-Production complete,636.3242866836516,212,Ambulance -1 0
-Creation,616.0,213,Source A1
-Production started,617.4438132991207,213,Ambulance -1 0
-Production complete,637.368908428539,213,Ambulance -1 0
-Creation,620.0,214,Source A1
-Production started,622.1317341378834,214,Ambulance -1 0
-Production complete,646.5912286860478,214,Ambulance -1 0
-Creation,632.0,215,Source A1
-Production started,634.7283603330122,215,Ambulance -1 0
-Production complete,649.5064766909576,215,Ambulance -1 0
-Creation,624.0,216,Source A1
-Production started,627.6509670378014,216,Ambulance -1 0
-Production complete,652.5679457232387,216,Ambulance -1 0
-Creation,634.0,217,Source A1
-Production started,635.3824617300079,217,Ambulance -1 0
-Production complete,653.3601267514493,217,Ambulance -1 0
-Creation,627.0,218,Source A1
-Production started,629.0671318445416,218,Ambulance -1 0
-Production complete,653.5406505794516,218,Ambulance -1 0
-Creation,59.0,219,Source A2
-Production started,637.368908428539,219,Ambulance -1 0
-Production complete,658.2323981609849,219,Ambulance -1 0
-Creation,651.0,220,Source A1
-Production started,653.3601267514493,220,Ambulance -1 0
-Production complete,659.1728627155945,220,Ambulance -1 0
-Creation,640.0,221,Source A1
-Production started,646.5912286860478,221,Ambulance -1 0
-Production complete,662.2973640697473,221,Ambulance -1 0
-Creation,58.0,222,Source A2
-Production started,636.3242866836516,222,Ambulance -1 0
-Production complete,662.5248783090631,222,Ambulance -1 0
-Creation,62.0,223,Source A2
-Production started,653.5406505794516,223,Ambulance -1 0
-Production complete,673.5129863600142,223,Ambulance -1 0
-Creation,648.0,224,Source A1
-Production started,652.5679457232387,224,Ambulance -1 0
-Production complete,677.5842784731594,224,Ambulance -1 0
-Creation,644.0,225,Source A1
-Production started,649.5064766909576,225,Ambulance -1 0
-Production complete,678.4019940237608,225,Ambulance -1 0
-Creation,654.0,226,Source A1
-Production started,658.2323981609849,226,Ambulance -1 0
-Production complete,682.5603845191198,226,Ambulance -1 0
-Creation,657.0,227,Source A1
-Production started,659.1728627155945,227,Ambulance -1 0
-Production complete,682.9645055541818,227,Ambulance -1 0
-Creation,660.0,228,Source A1
-Production started,662.5248783090631,228,Ambulance -1 0
-Production complete,684.8062545209275,228,Ambulance -1 0
-Creation,659.0,229,Source A1
-Production started,662.2973640697473,229,Ambulance -1 0
-Production complete,687.8435907442463,229,Ambulance -1 0
-Creation,686.0,230,Source A1
-Production started,687.8435907442463,230,Ambulance -1 0
-Production complete,692.6652998507229,230,Ambulance -1 0
-Creation,663.0,231,Source A1
-Production started,673.5129863600142,231,Ambulance -1 0
-Production complete,696.4102106946987,231,Ambulance -1 0
-Creation,678.0,232,Source A1
-Production started,682.5603845191198,232,Ambulance -1 0
-Production complete,698.2596226170181,232,Ambulance -1 0
-Creation,668.0,233,Source A1
-Production started,677.5842784731594,233,Ambulance -1 0
-Production complete,699.9308532320985,233,Ambulance -1 0
-Creation,693.0,234,Source A1
-Production started,696.4102106946987,234,Ambulance -1 0
-Production complete,700.3890491368362,234,Ambulance -1 0
-Creation,671.0,235,Source A1
-Production started,678.4019940237608,235,Ambulance -1 0
-Production complete,704.8911950668197,235,Ambulance -1 0
-Creation,682.0,236,Source A1
-Production started,682.9645055541818,236,Ambulance -1 0
-Production complete,706.6008984517715,236,Ambulance -1 0
-Creation,67.0,237,Source A2
-Production started,684.8062545209275,237,Ambulance -1 0
-Production complete,712.6830151263104,237,Ambulance -1 0
-Creation,78.0,238,Source A2
-Production started,699.9308532320985,238,Ambulance -1 0
-Production complete,718.5105853671902,238,Ambulance -1 0
-Creation,72.0,239,Source A2
-Production started,698.2596226170181,239,Ambulance -1 0
-Production complete,720.6614017918122,239,Ambulance -1 0
-Creation,690.0,240,Source A1
-Production started,692.6652998507229,240,Ambulance -1 0
-Production complete,721.5412936542244,240,Ambulance -1 0
-Creation,700.0,241,Source A1
-Production started,700.3890491368362,241,Ambulance -1 0
-Production complete,723.6236382225983,241,Ambulance -1 0
-Creation,721.0,242,Source A1
-Production started,721.5412936542244,242,Ambulance -1 0
-Production complete,727.5815858058702,242,Ambulance -1 0
-Creation,89.0,243,Source A2
-Production started,706.6008984517715,243,Ambulance -1 0
-Production complete,728.2589439622662,243,Ambulance -1 0
-Creation,708.0,244,Source A1
-Production started,712.6830151263104,244,Ambulance -1 0
-Production complete,728.6886303994116,244,Ambulance -1 0
-Creation,84.0,245,Source A2
-Production started,704.8911950668197,245,Ambulance -1 0
-Production complete,732.5432591457178,245,Ambulance -1 0
-Creation,727.0,246,Source A1
-Production started,728.2589439622662,246,Ambulance -1 0
-Production complete,733.8600829852071,246,Ambulance -1 0
-Creation,113.0,247,Source A2
-Production started,728.6886303994116,247,Ambulance -1 0
-Production complete,734.3032418587667,247,Ambulance -1 0
-Creation,106.0,248,Source A2
-Production started,723.6236382225983,248,Ambulance -1 0
-Production complete,740.7370095872196,248,Ambulance -1 0
-Creation,715.0,249,Source A1
-Production started,718.5105853671902,249,Ambulance -1 0
-Production complete,741.7814935849422,249,Ambulance -1 0
-Creation,99.0,250,Source A2
-Production started,720.6614017918122,250,Ambulance -1 0
-Production complete,747.1194552592781,250,Ambulance -1 0
-Creation,734.0,251,Source A1
-Production started,734.3032418587667,251,Ambulance -1 0
-Production complete,756.359782113895,251,Ambulance -1 0
-Creation,729.0,252,Source A1
-Production started,732.5432591457178,252,Ambulance -1 0
-Production complete,758.0751179618981,252,Ambulance -1 0
-Creation,732.0,253,Source A1
-Production started,733.8600829852071,253,Ambulance -1 0
-Production complete,758.8080448280243,253,Ambulance -1 0
-Creation,725.0,254,Source A1
-Production started,727.5815858058702,254,Ambulance -1 0
-Production complete,759.1715531898137,254,Ambulance -1 0
-Creation,737.0,255,Source A1
-Production started,741.7814935849422,255,Ambulance -1 0
-Production complete,759.5528027535364,255,Ambulance -1 0
-Creation,735.0,256,Source A1
-Production started,740.7370095872196,256,Ambulance -1 0
-Production complete,762.2905703192471,256,Ambulance -1 0
-Creation,742.0,257,Source A1
-Production started,747.1194552592781,257,Ambulance -1 0
-Production complete,768.6354650600589,257,Ambulance -1 0
-Creation,763.0,258,Source A1
-Production started,768.6354650600589,258,Ambulance -1 0
-Production complete,772.1658316705493,258,Ambulance -1 0
-Creation,757.0,259,Source A1
-Production started,759.5528027535364,259,Ambulance -1 0
-Production complete,775.7689434710843,259,Ambulance -1 0
-Creation,746.0,260,Source A1
-Production started,756.359782113895,260,Ambulance -1 0
-Production complete,780.3727536811449,260,Ambulance -1 0
-Creation,766.0,261,Source A1
-Production started,775.7689434710843,261,Ambulance -1 0
-Production complete,782.206397043417,261,Ambulance -1 0
-Creation,759.0,262,Source A1
-Production started,762.2905703192471,262,Ambulance -1 0
-Production complete,782.3183564620838,262,Ambulance -1 0
-Creation,754.0,263,Source A1
-Production started,759.1715531898137,263,Ambulance -1 0
-Production complete,782.5333614117552,263,Ambulance -1 0
-Creation,753.0,264,Source A1
-Production started,758.8080448280243,264,Ambulance -1 0
-Production complete,786.4280537838608,264,Ambulance -1 0
-Creation,772.0,265,Source A1
-Production started,782.3183564620838,265,Ambulance -1 0
-Production complete,787.263451709524,265,Ambulance -1 0
-Creation,747.0,266,Source A1
-Production started,758.0751179618981,266,Ambulance -1 0
-Production complete,788.3749413160684,266,Ambulance -1 0
-Creation,765.0,267,Source A1
-Production started,772.1658316705493,267,Ambulance -1 0
-Production complete,797.9734637223941,267,Ambulance -1 0
-Creation,771.0,268,Source A1
-Production started,782.206397043417,268,Ambulance -1 0
-Production complete,801.1580910266686,268,Ambulance -1 0
-Creation,792.0,269,Source A1
-Production started,797.9734637223941,269,Ambulance -1 0
-Production complete,801.8747379611139,269,Ambulance -1 0
-Creation,773.0,270,Source A1
-Production started,782.5333614117552,270,Ambulance -1 0
-Production complete,803.4232977150868,270,Ambulance -1 0
-Creation,769.0,271,Source A1
-Production started,780.3727536811449,271,Ambulance -1 0
-Production complete,804.3629199328299,271,Ambulance -1 0
-Creation,780.0,272,Source A1
-Production started,787.263451709524,272,Ambulance -1 0
-Production complete,807.5746591013074,272,Ambulance -1 0
-Creation,778.0,273,Source A1
-Production started,786.4280537838608,273,Ambulance -1 0
-Production complete,811.2694461973591,273,Ambulance -1 0
-Creation,787.0,274,Source A1
-Production started,788.3749413160684,274,Ambulance -1 0
-Production complete,814.1879517159748,274,Ambulance -1 0
-Creation,802.0,275,Source A1
-Production started,803.4232977150868,275,Ambulance -1 0
-Production complete,822.3884783394711,275,Ambulance -1 0
-Creation,125.0,276,Source A2
-Production started,801.8747379611139,276,Ambulance -1 0
-Production complete,823.6636643696846,276,Ambulance -1 0
-Creation,118.0,277,Source A2
-Production started,801.1580910266686,277,Ambulance -1 0
-Production complete,824.7892214472706,277,Ambulance -1 0
-Creation,815.0,278,Source A1
-Production started,822.3884783394711,278,Ambulance -1 0
-Production complete,826.3193510861327,278,Ambulance -1 0
-Creation,127.0,279,Source A2
-Production started,804.3629199328299,279,Ambulance -1 0
-Production complete,830.938852447595,279,Ambulance -1 0
-Creation,129.0,280,Source A2
-Production started,807.5746591013074,280,Ambulance -1 0
-Production complete,832.9852807863015,280,Ambulance -1 0
-Creation,808.0,281,Source A1
-Production started,811.2694461973591,281,Ambulance -1 0
-Production complete,838.1451131734409,281,Ambulance -1 0
-Creation,131.0,282,Source A2
-Production started,814.1879517159748,282,Ambulance -1 0
-Production complete,842.38553995967,282,Ambulance -1 0
-Creation,820.0,283,Source A1
-Production started,823.6636643696846,283,Ambulance -1 0
-Production complete,842.5233618456615,283,Ambulance -1 0
-Creation,824.0,284,Source A1
-Production started,824.7892214472706,284,Ambulance -1 0
-Production complete,843.846594119043,284,Ambulance -1 0
-Creation,132.0,285,Source A2
-Production started,826.3193510861327,285,Ambulance -1 0
-Production complete,844.2163610604556,285,Ambulance -1 0
-Creation,135.0,286,Source A2
-Production started,830.938852447595,286,Ambulance -1 0
-Production complete,845.984710079778,286,Ambulance -1 0
-Creation,143.0,287,Source A2
-Production started,842.5233618456615,287,Ambulance -1 0
-Production complete,848.4823209892647,287,Ambulance -1 0
-Creation,831.0,288,Source A1
-Production started,832.9852807863015,288,Ambulance -1 0
-Production complete,849.7444247059769,288,Ambulance -1 0
-Creation,147.0,289,Source A2
-Production started,845.984710079778,289,Ambulance -1 0
-Production complete,851.9613612138388,289,Ambulance -1 0
-Creation,138.0,290,Source A2
-Production started,838.1451131734409,290,Ambulance -1 0
-Production complete,862.5727441750497,290,Ambulance -1 0
-Creation,841.0,291,Source A1
-Production started,842.38553995967,291,Ambulance -1 0
-Production complete,862.695010892259,291,Ambulance -1 0
-Creation,145.0,292,Source A2
-Production started,844.2163610604556,292,Ambulance -1 0
-Production complete,866.4994420737919,292,Ambulance -1 0
-Creation,149.0,293,Source A2
-Production started,849.7444247059769,293,Ambulance -1 0
-Production complete,868.1131757095753,293,Ambulance -1 0
-Creation,853.0,294,Source A1
-Production started,862.5727441750497,294,Ambulance -1 0
-Production complete,869.9552632899257,294,Ambulance -1 0
-Creation,850.0,295,Source A1
-Production started,851.9613612138388,295,Ambulance -1 0
-Production complete,870.6086133277216,295,Ambulance -1 0
-Creation,843.0,296,Source A1
-Production started,843.846594119043,296,Ambulance -1 0
-Production complete,873.270669971808,296,Ambulance -1 0
-Creation,847.0,297,Source A1
-Production started,848.4823209892647,297,Ambulance -1 0
-Production complete,873.8066040730316,297,Ambulance -1 0
-Creation,858.0,298,Source A1
-Production started,866.4994420737919,298,Ambulance -1 0
-Production complete,881.837950540657,298,Ambulance -1 0
-Creation,856.0,299,Source A1
-Production started,862.695010892259,299,Ambulance -1 0
-Production complete,889.177702006088,299,Ambulance -1 0
-Creation,866.0,300,Source A1
-Production started,870.6086133277216,300,Ambulance -1 0
-Production complete,894.170234552992,300,Ambulance -1 0
-Creation,863.0,301,Source A1
-Production started,869.9552632899257,301,Ambulance -1 0
-Production complete,895.4795049808894,301,Ambulance -1 0
-Creation,860.0,302,Source A1
-Production started,868.1131757095753,302,Ambulance -1 0
-Production complete,895.7371123188367,302,Ambulance -1 0
-Creation,869.0,303,Source A1
-Production started,873.8066040730316,303,Ambulance -1 0
-Production complete,898.6013498365122,303,Ambulance -1 0
-Creation,868.0,304,Source A1
-Production started,873.270669971808,304,Ambulance -1 0
-Production complete,902.1052028591525,304,Ambulance -1 0
-Creation,872.0,305,Source A1
-Production started,881.837950540657,305,Ambulance -1 0
-Production complete,903.6611248718067,305,Ambulance -1 0
+Production started,112.2926306943201,46,Ambulance 3 1
+Production complete,134.07145643739722,46,Ambulance 3 1
+Creation,12.0,47,Source A2
+Production started,112.36486093157606,47,Ambulance 7 1
+Production complete,140.00539039605297,47,Ambulance 7 1
+Creation,115.0,48,Source A1
+Production started,115.58320243458789,48,Ambulance 4 1
+Production complete,141.15279032778957,48,Ambulance 4 1
+Creation,119.0,49,Source A1
+Production started,126.11003129256162,49,Ambulance 2 1
+Production complete,143.0958849470431,49,Ambulance 2 1
+Creation,133.0,50,Source A1
+Production started,140.00539039605297,50,Ambulance 7 1
+Production complete,144.41112791533135,50,Ambulance 7 1
+Creation,125.0,51,Source A1
+Production started,129.83711199557195,51,Ambulance 6 1
+Production complete,148.57896068808503,51,Ambulance 6 1
+Creation,129.0,52,Source A1
+Production started,133.47696103754146,52,Ambulance 5 1
+Production complete,156.20853950795845,52,Ambulance 5 1
+Creation,126.0,53,Source A1
+Production started,131.206730316909,53,Ambulance 1 1
+Production complete,159.53440498346282,53,Ambulance 1 1
+Creation,142.0,54,Source A1
+Production started,144.41112791533135,54,Ambulance 7 1
+Production complete,160.22538902098805,54,Ambulance 7 1
+Creation,136.0,55,Source A1
+Production started,141.15279032778957,55,Ambulance 4 1
+Production complete,160.6483544502801,55,Ambulance 4 1
+Creation,130.0,56,Source A1
+Production started,134.07145643739722,56,Ambulance 3 1
+Production complete,162.60811413793735,56,Ambulance 3 1
+Creation,147.0,57,Source A1
+Production started,148.57896068808503,57,Ambulance 6 1
+Production complete,168.82966302935728,57,Ambulance 6 1
+Creation,138.0,58,Source A1
+Production started,143.0958849470431,58,Ambulance 2 1
+Production complete,171.50352773214777,58,Ambulance 2 1
+Creation,154.0,59,Source A1
+Production started,160.22538902098805,59,Ambulance 7 1
+Production complete,181.89677070372144,59,Ambulance 7 1
+Creation,150.0,60,Source A1
+Production started,156.20853950795845,60,Ambulance 5 1
+Production complete,183.20924085770005,60,Ambulance 5 1
+Creation,156.0,61,Source A1
+Production started,160.6483544502801,61,Ambulance 4 1
+Production complete,187.50134752354342,61,Ambulance 4 1
+Creation,152.0,62,Source A1
+Production started,159.53440498346282,62,Ambulance 1 1
+Production complete,188.07752294111137,62,Ambulance 1 1
+Creation,167.0,63,Source A1
+Production started,183.20924085770005,63,Ambulance 5 1
+Production complete,190.07904361267063,63,Ambulance 5 1
+Creation,160.0,64,Source A1
+Production started,168.82966302935728,64,Ambulance 6 1
+Production complete,191.1674002614288,64,Ambulance 6 1
+Creation,169.0,65,Source A1
+Production started,187.50134752354342,65,Ambulance 4 1
+Production complete,192.08502476003613,65,Ambulance 4 1
+Creation,158.0,66,Source A1
+Production started,162.60811413793735,66,Ambulance 3 1
+Production complete,192.41081391947915,66,Ambulance 3 1
+Creation,163.0,67,Source A1
+Production started,171.50352773214777,67,Ambulance 2 1
+Production complete,194.96825507549678,67,Ambulance 2 1
+Creation,193.0,68,Source A1
+Production started,194.96825507549678,68,Ambulance 2 1
+Production complete,199.40262635476347,68,Ambulance 2 1
+Creation,165.0,69,Source A1
+Production started,181.89677070372144,69,Ambulance 7 1
+Production complete,199.79455971398968,69,Ambulance 7 1
+Creation,199.0,70,Source A1
+Production started,199.40262635476347,70,Ambulance 2 1
+Production complete,206.67889479059406,70,Ambulance 2 1
+Creation,175.0,71,Source A1
+Production started,190.07904361267063,71,Ambulance 5 1
+Production complete,209.3794270144194,71,Ambulance 5 1
+Creation,173.0,72,Source A1
+Production started,188.07752294111137,72,Ambulance 1 1
+Production complete,213.13735639953035,72,Ambulance 1 1
+Creation,205.0,73,Source A1
+Production started,206.67889479059406,73,Ambulance 2 1
+Production complete,213.77417535429447,73,Ambulance 2 1
+Creation,180.0,74,Source A1
+Production started,191.1674002614288,74,Ambulance 6 1
+Production complete,214.500120012374,74,Ambulance 6 1
+Creation,14.0,75,Source A2
+Production started,209.3794270144194,75,Ambulance 5 1
+Production complete,215.1514173361853,75,Ambulance 5 1
+Creation,182.0,76,Source A1
+Production started,192.08502476003613,76,Ambulance 4 1
+Production complete,217.0608173104972,76,Ambulance 4 1
+Creation,187.0,77,Source A1
+Production started,192.41081391947915,77,Ambulance 3 1
+Production complete,218.95667928294566,77,Ambulance 3 1
+Creation,210.0,78,Source A1
+Production started,213.13735639953035,78,Ambulance 1 1
+Production complete,219.4299360556251,78,Ambulance 1 1
+Creation,13.0,79,Source A2
+Production started,199.79455971398968,79,Ambulance 7 1
+Production complete,220.2504691298122,79,Ambulance 7 1
+Creation,19.0,80,Source A2
+Production started,215.1514173361853,80,Ambulance 5 1
+Production complete,221.4486694308663,80,Ambulance 5 1
+Creation,16.0,81,Source A2
+Production started,213.77417535429447,81,Ambulance 2 1
+Production complete,235.99919123459182,81,Ambulance 2 1
+Creation,26.0,82,Source A2
+Production started,220.2504691298122,82,Ambulance 7 1
+Production complete,238.10860515423636,82,Ambulance 7 1
+Creation,21.0,83,Source A2
+Production started,218.95667928294566,83,Ambulance 3 1
+Production complete,238.2132739903382,83,Ambulance 3 1
+Creation,18.0,84,Source A2
+Production started,214.500120012374,84,Ambulance 6 1
+Production complete,239.5241799645813,84,Ambulance 6 1
+Creation,216.0,85,Source A1
+Production started,217.0608173104972,85,Ambulance 4 1
+Production complete,240.97837666475715,85,Ambulance 4 1
+Creation,229.0,86,Source A1
+Production started,238.10860515423636,86,Ambulance 7 1
+Production complete,243.97651774199792,86,Ambulance 7 1
+Creation,24.0,87,Source A2
+Production started,219.4299360556251,87,Ambulance 1 1
+Production complete,244.3719461678458,87,Ambulance 1 1
+Creation,29.0,88,Source A2
+Production started,221.4486694308663,88,Ambulance 5 1
+Production complete,252.07853908299018,88,Ambulance 5 1
+Creation,233.0,89,Source A1
+Production started,238.2132739903382,89,Ambulance 3 1
+Production complete,253.21683871759856,89,Ambulance 3 1
+Creation,222.0,90,Source A1
+Production started,235.99919123459182,90,Ambulance 2 1
+Production complete,260.133733630253,90,Ambulance 2 1
+Creation,239.0,91,Source A1
+Production started,239.5241799645813,91,Ambulance 6 1
+Production complete,261.8360789656,91,Ambulance 6 1
+Creation,33.0,92,Source A2
+Production started,244.3719461678458,92,Ambulance 1 1
+Production complete,264.99009553230974,92,Ambulance 1 1
+Creation,243.0,93,Source A1
+Production started,243.97651774199792,93,Ambulance 7 1
+Production complete,265.75574564947664,93,Ambulance 7 1
+Creation,261.0,94,Source A1
+Production started,261.8360789656,94,Ambulance 6 1
+Production complete,268.00729804967494,94,Ambulance 6 1
+Creation,31.0,95,Source A2
+Production started,240.97837666475715,95,Ambulance 4 1
+Production complete,269.80930358850463,95,Ambulance 4 1
+Creation,34.0,96,Source A2
+Production started,253.21683871759856,96,Ambulance 3 1
+Production complete,270.5451344184811,96,Ambulance 3 1
+Creation,40.0,97,Source A2
+Production started,270.5451344184811,97,Ambulance 3 1
+Production complete,275.62313477566835,97,Ambulance 3 1
+Creation,250.0,98,Source A1
+Production started,252.07853908299018,98,Ambulance 5 1
+Production complete,278.217291874046,98,Ambulance 5 1
+Creation,257.0,99,Source A1
+Production started,260.133733630253,99,Ambulance 2 1
+Production complete,279.503820325681,99,Ambulance 2 1
+Creation,36.0,100,Source A2
+Production started,264.99009553230974,100,Ambulance 1 1
+Production complete,281.54785590125607,100,Ambulance 1 1
+Creation,37.0,101,Source A2
+Production started,265.75574564947664,101,Ambulance 7 1
+Production complete,287.30734812048615,101,Ambulance 7 1
+Creation,39.0,102,Source A2
+Production started,269.80930358850463,102,Ambulance 4 1
+Production complete,290.0378905017782,102,Ambulance 4 1
+Creation,271.0,103,Source A1
+Production started,275.62313477566835,103,Ambulance 3 1
+Production complete,292.19998778052656,103,Ambulance 3 1
+Creation,266.0,104,Source A1
+Production started,268.00729804967494,104,Ambulance 6 1
+Production complete,292.3547399619801,104,Ambulance 6 1
+Creation,283.0,105,Source A1
+Production started,290.0378905017782,105,Ambulance 4 1
+Production complete,297.07863757859093,105,Ambulance 4 1
+Creation,277.0,106,Source A1
+Production started,279.503820325681,106,Ambulance 2 1
+Production complete,300.1830977654361,106,Ambulance 2 1
+Creation,42.0,107,Source A2
+Production started,281.54785590125607,107,Ambulance 1 1
+Production complete,306.0556097952027,107,Ambulance 1 1
+Creation,273.0,108,Source A1
+Production started,278.217291874046,108,Ambulance 5 1
+Production complete,309.0071551543274,108,Ambulance 5 1
+Creation,282.0,109,Source A1
+Production started,287.30734812048615,109,Ambulance 7 1
+Production complete,309.21331171712575,109,Ambulance 7 1
+Creation,285.0,110,Source A1
+Production started,292.19998778052656,110,Ambulance 3 1
+Production complete,313.8563797335879,110,Ambulance 3 1
+Creation,44.0,111,Source A2
+Production started,292.3547399619801,111,Ambulance 6 1
+Production complete,314.2797223884131,111,Ambulance 6 1
+Creation,293.0,112,Source A1
+Production started,297.07863757859093,112,Ambulance 4 1
+Production complete,320.29674877750017,112,Ambulance 4 1
+Creation,297.0,113,Source A1
+Production started,300.1830977654361,113,Ambulance 2 1
+Production complete,320.5121678515431,113,Ambulance 2 1
+Creation,311.0,114,Source A1
+Production started,313.8563797335879,114,Ambulance 3 1
+Production complete,320.7101088309801,114,Ambulance 3 1
+Creation,301.0,115,Source A1
+Production started,306.0556097952027,115,Ambulance 1 1
+Production complete,330.45605567377356,115,Ambulance 1 1
+Creation,308.0,116,Source A1
+Production started,309.21331171712575,116,Ambulance 7 1
+Production complete,331.2805701231139,116,Ambulance 7 1
+Creation,304.0,117,Source A1
+Production started,309.0071551543274,117,Ambulance 5 1
+Production complete,334.54095992317247,117,Ambulance 5 1
+Creation,318.0,118,Source A1
+Production started,320.5121678515431,118,Ambulance 2 1
+Production complete,341.18978660204107,118,Ambulance 2 1
+Creation,46.0,119,Source A2
+Production started,314.2797223884131,119,Ambulance 6 1
+Production complete,343.8942134009731,119,Ambulance 6 1
+Creation,316.0,120,Source A1
+Production started,320.29674877750017,120,Ambulance 4 1
+Production complete,345.5956920406136,120,Ambulance 4 1
+Creation,320.0,121,Source A1
+Production started,320.7101088309801,121,Ambulance 3 1
+Production complete,348.84949757567574,121,Ambulance 3 1
+Creation,324.0,122,Source A1
+Production started,331.2805701231139,122,Ambulance 7 1
+Production complete,353.4579291023833,122,Ambulance 7 1
+Creation,322.0,123,Source A1
+Production started,330.45605567377356,123,Ambulance 1 1
+Production complete,355.7886733154757,123,Ambulance 1 1
+Creation,329.0,124,Source A1
+Production started,334.54095992317247,124,Ambulance 5 1
+Production complete,357.9843432109118,124,Ambulance 5 1
+Creation,335.0,125,Source A1
+Production started,343.8942134009731,125,Ambulance 6 1
+Production complete,365.7112951395447,125,Ambulance 6 1
+Creation,337.0,126,Source A1
+Production started,345.5956920406136,126,Ambulance 4 1
+Production complete,366.51468415063596,126,Ambulance 4 1
+Creation,341.0,127,Source A1
+Production started,348.84949757567574,127,Ambulance 3 1
+Production complete,366.9994940488073,127,Ambulance 3 1
+Creation,332.0,128,Source A1
+Production started,341.18978660204107,128,Ambulance 2 1
+Production complete,367.81380665536113,128,Ambulance 2 1
+Creation,351.0,129,Source A1
+Production started,355.7886733154757,129,Ambulance 1 1
+Production complete,377.3313063537631,129,Ambulance 1 1
+Creation,353.0,130,Source A1
+Production started,357.9843432109118,130,Ambulance 5 1
+Production complete,384.23137034011353,130,Ambulance 5 1
+Creation,346.0,131,Source A1
+Production started,353.4579291023833,131,Ambulance 7 1
+Production complete,384.3146016273109,131,Ambulance 7 1
+Creation,355.0,132,Source A1
+Production started,365.7112951395447,132,Ambulance 6 1
+Production complete,387.92321130908635,132,Ambulance 6 1
+Creation,360.0,133,Source A1
+Production started,366.51468415063596,133,Ambulance 4 1
+Production complete,389.72882889939376,133,Ambulance 4 1
+Creation,49.0,134,Source A2
+Production started,367.81380665536113,134,Ambulance 2 1
+Production complete,390.73866950914,134,Ambulance 2 1
+Creation,374.0,135,Source A1
+Production started,377.3313063537631,135,Ambulance 1 1
+Production complete,392.06616927581433,135,Ambulance 1 1
+Creation,51.0,136,Source A2
+Production started,387.92321130908635,136,Ambulance 6 1
+Production complete,393.72695449865665,136,Ambulance 6 1
+Creation,389.0,137,Source A1
+Production started,389.72882889939376,137,Ambulance 4 1
+Production complete,395.8461854679774,137,Ambulance 4 1
+Creation,364.0,138,Source A1
+Production started,366.9994940488073,138,Ambulance 3 1
+Production complete,396.01171786614356,138,Ambulance 3 1
+Creation,393.0,139,Source A1
+Production started,393.72695449865665,139,Ambulance 6 1
+Production complete,397.93933651204196,139,Ambulance 6 1
+Creation,380.0,140,Source A1
+Production started,384.23137034011353,140,Ambulance 5 1
+Production complete,410.1945906526199,140,Ambulance 5 1
+Creation,54.0,141,Source A2
+Production started,390.73866950914,141,Ambulance 2 1
+Production complete,410.6086094140083,141,Ambulance 2 1
+Creation,383.0,142,Source A1
+Production started,384.3146016273109,142,Ambulance 7 1
+Production complete,412.5500400762411,142,Ambulance 7 1
+Creation,57.0,143,Source A2
+Production started,392.06616927581433,143,Ambulance 1 1
+Production complete,413.70753146443485,143,Ambulance 1 1
+Creation,406.0,144,Source A1
+Production started,410.6086094140083,144,Ambulance 2 1
+Production complete,414.1842420953375,144,Ambulance 2 1
+Creation,64.0,145,Source A2
+Production started,396.01171786614356,145,Ambulance 3 1
+Production complete,414.999898075719,145,Ambulance 3 1
+Creation,60.0,146,Source A2
+Production started,395.8461854679774,146,Ambulance 4 1
+Production complete,418.7488929700448,146,Ambulance 4 1
+Creation,67.0,147,Source A2
+Production started,397.93933651204196,147,Ambulance 6 1
+Production complete,423.8609414875004,147,Ambulance 6 1
+Creation,83.0,148,Source A2
+Production started,414.1842420953375,148,Ambulance 2 1
+Production complete,434.3747768344205,148,Ambulance 2 1
+Creation,413.0,149,Source A1
+Production started,413.70753146443485,149,Ambulance 1 1
+Production complete,435.651725847077,149,Ambulance 1 1
+Creation,75.0,150,Source A2
+Production started,412.5500400762411,150,Ambulance 7 1
+Production complete,435.88118025566627,150,Ambulance 7 1
+Creation,402.0,151,Source A1
+Production started,410.1945906526199,151,Ambulance 5 1
+Production complete,436.08181379617645,151,Ambulance 5 1
+Creation,85.0,152,Source A2
+Production started,414.999898075719,152,Ambulance 3 1
+Production complete,438.21418363707846,152,Ambulance 3 1
+Creation,416.0,153,Source A1
+Production started,418.7488929700448,153,Ambulance 4 1
+Production complete,440.2240031562931,153,Ambulance 4 1
+Creation,428.0,154,Source A1
+Production started,435.88118025566627,154,Ambulance 7 1
+Production complete,442.1638640675079,154,Ambulance 7 1
+Creation,420.0,155,Source A1
+Production started,423.8609414875004,155,Ambulance 6 1
+Production complete,448.79504484381334,155,Ambulance 6 1
+Creation,422.0,156,Source A1
+Production started,434.3747768344205,156,Ambulance 2 1
+Production complete,450.977164196091,156,Ambulance 2 1
+Creation,424.0,157,Source A1
+Production started,435.651725847077,157,Ambulance 1 1
+Production complete,455.3718729060811,157,Ambulance 1 1
+Creation,432.0,158,Source A1
+Production started,436.08181379617645,158,Ambulance 5 1
+Production complete,455.57917660641175,158,Ambulance 5 1
+Creation,433.0,159,Source A1
+Production started,438.21418363707846,159,Ambulance 3 1
+Production complete,457.8044861819465,159,Ambulance 3 1
+Creation,437.0,160,Source A1
+Production started,440.2240031562931,160,Ambulance 4 1
+Production complete,458.9999504909892,160,Ambulance 4 1
+Creation,445.0,161,Source A1
+Production started,455.3718729060811,161,Ambulance 1 1
+Production complete,461.02054180291253,161,Ambulance 1 1
+Creation,446.0,162,Source A1
+Production started,455.57917660641175,162,Ambulance 5 1
+Production complete,463.33244584627676,162,Ambulance 5 1
+Creation,438.0,163,Source A1
+Production started,442.1638640675079,163,Ambulance 7 1
+Production complete,463.7168480922861,163,Ambulance 7 1
+Creation,440.0,164,Source A1
+Production started,448.79504484381334,164,Ambulance 6 1
+Production complete,471.8079033647788,164,Ambulance 6 1
+Creation,455.0,165,Source A1
+Production started,463.7168480922861,165,Ambulance 7 1
+Production complete,480.29817147271734,165,Ambulance 7 1
+Creation,443.0,166,Source A1
+Production started,450.977164196091,166,Ambulance 2 1
+Production complete,480.5447045260678,166,Ambulance 2 1
+Creation,449.0,167,Source A1
+Production started,458.9999504909892,167,Ambulance 4 1
+Production complete,481.111267940404,167,Ambulance 4 1
+Creation,448.0,168,Source A1
+Production started,457.8044861819465,168,Ambulance 3 1
+Production complete,481.11429980215314,168,Ambulance 3 1
+Creation,453.0,169,Source A1
+Production started,461.02054180291253,169,Ambulance 1 1
+Production complete,481.46967641315314,169,Ambulance 1 1
+Creation,454.0,170,Source A1
+Production started,463.33244584627676,170,Ambulance 5 1
+Production complete,492.25684517165837,170,Ambulance 5 1
+Creation,457.0,171,Source A1
+Production started,471.8079033647788,171,Ambulance 6 1
+Production complete,493.98523474403953,171,Ambulance 6 1
+Creation,460.0,172,Source A1
+Production started,480.29817147271734,172,Ambulance 7 1
+Production complete,499.15239671674175,172,Ambulance 7 1
+Creation,466.0,173,Source A1
+Production started,481.11429980215314,173,Ambulance 3 1
+Production complete,499.47250999373364,173,Ambulance 3 1
+Creation,467.0,174,Source A1
+Production started,481.46967641315314,174,Ambulance 1 1
+Production complete,501.1315577128355,174,Ambulance 1 1
+Creation,462.0,175,Source A1
+Production started,480.5447045260678,175,Ambulance 2 1
+Production complete,506.02527981461606,175,Ambulance 2 1
+Creation,464.0,176,Source A1
+Production started,481.111267940404,176,Ambulance 4 1
+Production complete,506.3092158937298,176,Ambulance 4 1
+Creation,469.0,177,Source A1
+Production started,493.98523474403953,177,Ambulance 6 1
+Production complete,515.617544691334,177,Ambulance 6 1
+Creation,468.0,178,Source A1
+Production started,492.25684517165837,178,Ambulance 5 1
+Production complete,515.9321164198573,178,Ambulance 5 1
+Creation,475.0,179,Source A1
+Production started,499.47250999373364,179,Ambulance 3 1
+Production complete,519.8920192865778,179,Ambulance 3 1
+Creation,476.0,180,Source A1
+Production started,501.1315577128355,180,Ambulance 1 1
+Production complete,523.7040365516093,180,Ambulance 1 1
+Creation,471.0,181,Source A1
+Production started,499.15239671674175,181,Ambulance 7 1
+Production complete,527.1381006935985,181,Ambulance 7 1
+Creation,481.0,182,Source A1
+Production started,506.3092158937298,182,Ambulance 4 1
+Production complete,529.6357832556768,182,Ambulance 4 1
+Creation,505.0,183,Source A1
+Production started,529.6357832556768,183,Ambulance 4 1
+Production complete,533.7010145818771,183,Ambulance 4 1
+Creation,490.0,184,Source A1
+Production started,519.8920192865778,184,Ambulance 3 1
+Production complete,534.8798543229959,184,Ambulance 3 1
+Creation,479.0,185,Source A1
+Production started,506.02527981461606,185,Ambulance 2 1
+Production complete,536.5420482882445,185,Ambulance 2 1
+Creation,484.0,186,Source A1
+Production started,515.617544691334,186,Ambulance 6 1
+Production complete,542.4475396162763,186,Ambulance 6 1
+Creation,526.0,187,Source A1
+Production started,536.5420482882445,187,Ambulance 2 1
+Production complete,542.8713479692912,187,Ambulance 2 1
+Creation,488.0,188,Source A1
+Production started,515.9321164198573,188,Ambulance 5 1
+Production complete,544.3570608533786,188,Ambulance 5 1
+Creation,495.0,189,Source A1
+Production started,523.7040365516093,189,Ambulance 1 1
+Production complete,550.520911187264,189,Ambulance 1 1
+Creation,501.0,190,Source A1
+Production started,527.1381006935985,190,Ambulance 7 1
+Production complete,553.9355478321856,190,Ambulance 7 1
+Creation,520.0,191,Source A1
+Production started,534.8798543229959,191,Ambulance 3 1
+Production complete,557.9166240207792,191,Ambulance 3 1
+Creation,534.0,192,Source A1
+Production started,542.8713479692912,192,Ambulance 2 1
+Production complete,562.8395109982254,192,Ambulance 2 1
+Creation,530.0,193,Source A1
+Production started,542.4475396162763,193,Ambulance 6 1
+Production complete,563.6654146694475,193,Ambulance 6 1
+Creation,511.0,194,Source A1
+Production started,533.7010145818771,194,Ambulance 4 1
+Production complete,563.926597252827,194,Ambulance 4 1
+Creation,555.0,195,Source A1
+Production started,557.9166240207792,195,Ambulance 3 1
+Production complete,565.5548615180863,195,Ambulance 3 1
+Creation,543.0,196,Source A1
+Production started,544.3570608533786,196,Ambulance 5 1
+Production complete,569.8819307886787,196,Ambulance 5 1
+Creation,546.0,197,Source A1
+Production started,550.520911187264,197,Ambulance 1 1
+Production complete,577.6745075906117,197,Ambulance 1 1
+Creation,91.0,198,Source A2
+Production started,563.6654146694475,198,Ambulance 6 1
+Production complete,580.5428395235542,198,Ambulance 6 1
+Creation,550.0,199,Source A1
+Production started,553.9355478321856,199,Ambulance 7 1
+Production complete,585.6190652540139,199,Ambulance 7 1
+Creation,102.0,200,Source A2
+Production started,563.926597252827,200,Ambulance 4 1
+Production complete,586.8865201548083,200,Ambulance 4 1
+Creation,560.0,201,Source A1
+Production started,562.8395109982254,201,Ambulance 2 1
+Production complete,587.4895634361491,201,Ambulance 2 1
+Creation,574.0,202,Source A1
+Production started,585.6190652540139,202,Ambulance 7 1
+Production complete,591.222438064285,202,Ambulance 7 1
+Creation,566.0,203,Source A1
+Production started,569.8819307886787,203,Ambulance 5 1
+Production complete,592.9547876784035,203,Ambulance 5 1
+Creation,564.0,204,Source A1
+Production started,565.5548615180863,204,Ambulance 3 1
+Production complete,593.7919231262232,204,Ambulance 3 1
+Creation,571.0,205,Source A1
+Production started,580.5428395235542,205,Ambulance 6 1
+Production complete,593.911666917839,205,Ambulance 6 1
+Creation,587.0,206,Source A1
+Production started,592.9547876784035,206,Ambulance 5 1
+Production complete,598.6942362195377,206,Ambulance 5 1
+Creation,567.0,207,Source A1
+Production started,577.6745075906117,207,Ambulance 1 1
+Production complete,601.815172040659,207,Ambulance 1 1
+Creation,580.0,208,Source A1
+Production started,587.4895634361491,208,Ambulance 2 1
+Production complete,611.2612870054038,208,Ambulance 2 1
+Creation,577.0,209,Source A1
+Production started,586.8865201548083,209,Ambulance 4 1
+Production complete,612.9187220367343,209,Ambulance 4 1
+Creation,593.0,210,Source A1
+Production started,593.911666917839,210,Ambulance 6 1
+Production complete,613.6084781417773,210,Ambulance 6 1
+Creation,596.0,211,Source A1
+Production started,598.6942362195377,211,Ambulance 5 1
+Production complete,616.2769405249068,211,Ambulance 5 1
+Creation,601.0,212,Source A1
+Production started,611.2612870054038,212,Ambulance 2 1
+Production complete,618.2832488597548,212,Ambulance 2 1
+Creation,590.0,213,Source A1
+Production started,593.7919231262232,213,Ambulance 3 1
+Production complete,618.8218343617216,213,Ambulance 3 1
+Creation,585.0,214,Source A1
+Production started,591.222438064285,214,Ambulance 7 1
+Production complete,621.5326479474437,214,Ambulance 7 1
+Creation,597.0,215,Source A1
+Production started,601.815172040659,215,Ambulance 1 1
+Production complete,624.3398350881528,215,Ambulance 1 1
+Creation,607.0,216,Source A1
+Production started,613.6084781417773,216,Ambulance 6 1
+Production complete,630.5694340446483,216,Ambulance 6 1
+Creation,603.0,217,Source A1
+Production started,612.9187220367343,217,Ambulance 4 1
+Production complete,634.4275650305217,217,Ambulance 4 1
+Creation,614.0,218,Source A1
+Production started,618.2832488597548,218,Ambulance 2 1
+Production complete,636.995678064602,218,Ambulance 2 1
+Creation,610.0,219,Source A1
+Production started,616.2769405249068,219,Ambulance 5 1
+Production complete,640.4523862122945,219,Ambulance 5 1
+Creation,110.0,220,Source A2
+Production started,621.5326479474437,220,Ambulance 7 1
+Production complete,643.5262104709007,220,Ambulance 7 1
+Creation,622.0,221,Source A1
+Production started,624.3398350881528,221,Ambulance 1 1
+Production complete,645.573875652699,221,Ambulance 1 1
+Creation,618.0,222,Source A1
+Production started,618.8218343617216,222,Ambulance 3 1
+Production complete,649.1098584247798,222,Ambulance 3 1
+Creation,625.0,223,Source A1
+Production started,630.5694340446483,223,Ambulance 6 1
+Production complete,656.4857268563666,223,Ambulance 6 1
+Creation,634.0,224,Source A1
+Production started,640.4523862122945,224,Ambulance 5 1
+Production complete,657.1073137952966,224,Ambulance 5 1
+Creation,632.0,225,Source A1
+Production started,636.995678064602,225,Ambulance 2 1
+Production complete,659.5795029711111,225,Ambulance 2 1
+Creation,628.0,226,Source A1
+Production started,634.4275650305217,226,Ambulance 4 1
+Production complete,660.2703970271859,226,Ambulance 4 1
+Creation,640.0,227,Source A1
+Production started,643.5262104709007,227,Ambulance 7 1
+Production complete,663.3559494512576,227,Ambulance 7 1
+Creation,656.0,228,Source A1
+Production started,657.1073137952966,228,Ambulance 5 1
+Production complete,663.6254389920955,228,Ambulance 5 1
+Creation,660.0,229,Source A1
+Production started,660.2703970271859,229,Ambulance 4 1
+Production complete,665.6444345027697,229,Ambulance 4 1
+Creation,648.0,230,Source A1
+Production started,649.1098584247798,230,Ambulance 3 1
+Production complete,669.6088089094924,230,Ambulance 3 1
+Creation,665.0,231,Source A1
+Production started,665.6444345027697,231,Ambulance 4 1
+Production complete,670.089545290134,231,Ambulance 4 1
+Creation,645.0,232,Source A1
+Production started,645.573875652699,232,Ambulance 1 1
+Production complete,671.1656441775754,232,Ambulance 1 1
+Creation,129.0,233,Source A2
+Production started,670.089545290134,233,Ambulance 4 1
+Production complete,675.7110752752212,233,Ambulance 4 1
+Creation,653.0,234,Source A1
+Production started,656.4857268563666,234,Ambulance 6 1
+Production complete,680.5819139024737,234,Ambulance 6 1
+Creation,123.0,235,Source A2
+Production started,663.3559494512576,235,Ambulance 7 1
+Production complete,685.0913659791228,235,Ambulance 7 1
+Creation,677.0,236,Source A1
+Production started,680.5819139024737,236,Ambulance 6 1
+Production complete,687.35810329754,236,Ambulance 6 1
+Creation,117.0,237,Source A2
+Production started,659.5795029711111,237,Ambulance 2 1
+Production complete,687.7450612792769,237,Ambulance 2 1
+Creation,130.0,238,Source A2
+Production started,671.1656441775754,238,Ambulance 1 1
+Production complete,691.5210196396682,238,Ambulance 1 1
+Creation,669.0,239,Source A1
+Production started,669.6088089094924,239,Ambulance 3 1
+Production complete,693.2607746649019,239,Ambulance 3 1
+Creation,135.0,240,Source A2
+Production started,687.35810329754,240,Ambulance 6 1
+Production complete,693.7259629299696,240,Ambulance 6 1
+Creation,128.0,241,Source A2
+Production started,663.6254389920955,241,Ambulance 5 1
+Production complete,694.3231898550093,241,Ambulance 5 1
+Creation,133.0,242,Source A2
+Production started,675.7110752752212,242,Ambulance 4 1
+Production complete,697.5341743430072,242,Ambulance 4 1
+Creation,136.0,243,Source A2
+Production started,687.7450612792769,243,Ambulance 2 1
+Production complete,704.7197810082823,243,Ambulance 2 1
+Creation,684.0,244,Source A1
+Production started,685.0913659791228,244,Ambulance 7 1
+Production complete,709.7012539641521,244,Ambulance 7 1
+Creation,141.0,245,Source A2
+Production started,694.3231898550093,245,Ambulance 5 1
+Production complete,713.1782484247515,245,Ambulance 5 1
+Creation,140.0,246,Source A2
+Production started,693.7259629299696,246,Ambulance 6 1
+Production complete,713.210992373142,246,Ambulance 6 1
+Creation,691.0,247,Source A1
+Production started,691.5210196396682,247,Ambulance 1 1
+Production complete,714.5922695018813,247,Ambulance 1 1
+Creation,695.0,248,Source A1
+Production started,697.5341743430072,248,Ambulance 4 1
+Production complete,717.4213932079266,248,Ambulance 4 1
+Creation,709.0,249,Source A1
+Production started,713.1782484247515,249,Ambulance 5 1
+Production complete,720.4330251561836,249,Ambulance 5 1
+Creation,138.0,250,Source A2
+Production started,693.2607746649019,250,Ambulance 3 1
+Production complete,721.6087886392883,250,Ambulance 3 1
+Creation,147.0,251,Source A2
+Production started,721.6087886392883,251,Ambulance 3 1
+Production complete,725.389692843557,251,Ambulance 3 1
+Creation,700.0,252,Source A1
+Production started,704.7197810082823,252,Ambulance 2 1
+Production complete,727.527126535174,252,Ambulance 2 1
+Creation,706.0,253,Source A1
+Production started,709.7012539641521,253,Ambulance 7 1
+Production complete,732.425273708004,253,Ambulance 7 1
+Creation,714.0,254,Source A1
+Production started,714.5922695018813,254,Ambulance 1 1
+Production complete,734.7323400970073,254,Ambulance 1 1
+Creation,712.0,255,Source A1
+Production started,713.210992373142,255,Ambulance 6 1
+Production complete,735.2413393432829,255,Ambulance 6 1
+Creation,143.0,256,Source A2
+Production started,717.4213932079266,256,Ambulance 4 1
+Production complete,742.097166723202,256,Ambulance 4 1
+Creation,720.0,257,Source A1
+Production started,720.4330251561836,257,Ambulance 5 1
+Production complete,745.633416977837,257,Ambulance 5 1
+Creation,722.0,258,Source A1
+Production started,725.389692843557,258,Ambulance 3 1
+Production complete,746.7170754341732,258,Ambulance 3 1
+Creation,723.0,259,Source A1
+Production started,727.527126535174,259,Ambulance 2 1
+Production complete,749.6764685875182,259,Ambulance 2 1
+Creation,725.0,260,Source A1
+Production started,732.425273708004,260,Ambulance 7 1
+Production complete,752.4862372087688,260,Ambulance 7 1
+Creation,726.0,261,Source A1
+Production started,734.7323400970073,261,Ambulance 1 1
+Production complete,752.6042805236755,261,Ambulance 1 1
+Creation,728.0,262,Source A1
+Production started,735.2413393432829,262,Ambulance 6 1
+Production complete,763.1468042157784,262,Ambulance 6 1
+Creation,729.0,263,Source A1
+Production started,742.097166723202,263,Ambulance 4 1
+Production complete,763.167313788659,263,Ambulance 4 1
+Creation,736.0,264,Source A1
+Production started,749.6764685875182,264,Ambulance 2 1
+Production complete,770.2631021828297,264,Ambulance 2 1
+Creation,733.0,265,Source A1
+Production started,745.633416977837,265,Ambulance 5 1
+Production complete,771.1727953949602,265,Ambulance 5 1
+Creation,741.0,266,Source A1
+Production started,752.6042805236755,266,Ambulance 1 1
+Production complete,771.8238934394013,266,Ambulance 1 1
+Creation,735.0,267,Source A1
+Production started,746.7170754341732,267,Ambulance 3 1
+Production complete,774.0114862341442,267,Ambulance 3 1
+Creation,739.0,268,Source A1
+Production started,752.4862372087688,268,Ambulance 7 1
+Production complete,781.7134299526863,268,Ambulance 7 1
+Creation,743.0,269,Source A1
+Production started,763.1468042157784,269,Ambulance 6 1
+Production complete,784.1206126149914,269,Ambulance 6 1
+Creation,744.0,270,Source A1
+Production started,763.167313788659,270,Ambulance 4 1
+Production complete,785.693247413387,270,Ambulance 4 1
+Creation,747.0,271,Source A1
+Production started,770.2631021828297,271,Ambulance 2 1
+Production complete,793.2616631216981,271,Ambulance 2 1
+Creation,749.0,272,Source A1
+Production started,771.1727953949602,272,Ambulance 5 1
+Production complete,795.4583388322561,272,Ambulance 5 1
+Creation,753.0,273,Source A1
+Production started,774.0114862341442,273,Ambulance 3 1
+Production complete,798.3471774083146,273,Ambulance 3 1
+Creation,757.0,274,Source A1
+Production started,781.7134299526863,274,Ambulance 7 1
+Production complete,802.6458141541361,274,Ambulance 7 1
+Creation,751.0,275,Source A1
+Production started,771.8238934394013,275,Ambulance 1 1
+Production complete,803.2957616305428,275,Ambulance 1 1
+Creation,760.0,276,Source A1
+Production started,785.693247413387,276,Ambulance 4 1
+Production complete,803.9311800041318,276,Ambulance 4 1
+Creation,759.0,277,Source A1
+Production started,784.1206126149914,277,Ambulance 6 1
+Production complete,807.3001511440494,277,Ambulance 6 1
+Creation,764.0,278,Source A1
+Production started,795.4583388322561,278,Ambulance 5 1
+Production complete,815.2100092750968,278,Ambulance 5 1
+Creation,761.0,279,Source A1
+Production started,793.2616631216981,279,Ambulance 2 1
+Production complete,815.5691662299371,279,Ambulance 2 1
+Creation,778.0,280,Source A1
+Production started,815.2100092750968,280,Ambulance 5 1
+Production complete,817.1198249952301,280,Ambulance 5 1
+Creation,767.0,281,Source A1
+Production started,798.3471774083146,281,Ambulance 3 1
+Production complete,817.963255591698,281,Ambulance 3 1
+Creation,771.0,282,Source A1
+Production started,803.2957616305428,282,Ambulance 1 1
+Production complete,824.9525876264672,282,Ambulance 1 1
+Creation,774.0,283,Source A1
+Production started,803.9311800041318,283,Ambulance 4 1
+Production complete,827.5416212506964,283,Ambulance 4 1
+Creation,776.0,284,Source A1
+Production started,807.3001511440494,284,Ambulance 6 1
+Production complete,828.261650903901,284,Ambulance 6 1
+Creation,770.0,285,Source A1
+Production started,802.6458141541361,285,Ambulance 7 1
+Production complete,830.6966284514255,285,Ambulance 7 1
+Creation,795.0,286,Source A1
+Production started,824.9525876264672,286,Ambulance 1 1
+Production complete,830.7425864403172,286,Ambulance 1 1
+Creation,782.0,287,Source A1
+Production started,817.1198249952301,287,Ambulance 5 1
+Production complete,836.6784635307633,287,Ambulance 5 1
+Creation,779.0,288,Source A1
+Production started,815.5691662299371,288,Ambulance 2 1
+Production complete,840.2052215990975,288,Ambulance 2 1
+Creation,824.0,289,Source A1
+Production started,836.6784635307633,289,Ambulance 5 1
+Production complete,840.5189159096655,289,Ambulance 5 1
+Creation,790.0,290,Source A1
+Production started,817.963255591698,290,Ambulance 3 1
+Production complete,848.0057535759099,290,Ambulance 3 1
+Creation,807.0,291,Source A1
+Production started,828.261650903901,291,Ambulance 6 1
+Production complete,852.0389769435628,291,Ambulance 6 1
+Creation,813.0,292,Source A1
+Production started,830.6966284514255,292,Ambulance 7 1
+Production complete,852.0556426800578,292,Ambulance 7 1
+Creation,838.0,293,Source A1
+Production started,848.0057535759099,293,Ambulance 3 1
+Production complete,854.1056962366199,293,Ambulance 3 1
+Creation,820.0,294,Source A1
+Production started,830.7425864403172,294,Ambulance 1 1
+Production complete,855.366333133346,294,Ambulance 1 1
+Creation,801.0,295,Source A1
+Production started,827.5416212506964,295,Ambulance 4 1
+Production complete,856.4673514517979,295,Ambulance 4 1
+Creation,842.0,296,Source A1
+Production started,852.0389769435628,296,Ambulance 6 1
+Production complete,857.9209573745013,296,Ambulance 6 1
+Creation,829.0,297,Source A1
+Production started,840.2052215990975,297,Ambulance 2 1
+Production complete,858.9092403657563,297,Ambulance 2 1
+Creation,832.0,298,Source A1
+Production started,840.5189159096655,298,Ambulance 5 1
+Production complete,862.7042932103008,298,Ambulance 5 1
+Creation,849.0,299,Source A1
+Production started,856.4673514517979,299,Ambulance 4 1
+Production complete,871.5118777978316,299,Ambulance 4 1
+Creation,844.0,300,Source A1
+Production started,852.0556426800578,300,Ambulance 7 1
+Production complete,876.2189122398631,300,Ambulance 7 1
+Creation,854.0,301,Source A1
+Production started,857.9209573745013,301,Ambulance 6 1
+Production complete,877.6934990082231,301,Ambulance 6 1
+Creation,848.0,302,Source A1
+Production started,855.366333133346,302,Ambulance 1 1
+Production complete,879.6237933331518,302,Ambulance 1 1
+Creation,846.0,303,Source A1
+Production started,854.1056962366199,303,Ambulance 3 1
+Production complete,880.3451798614743,303,Ambulance 3 1
+Creation,856.0,304,Source A1
+Production started,858.9092403657563,304,Ambulance 2 1
+Production complete,887.0251253793479,304,Ambulance 2 1
+Creation,860.0,305,Source A1
+Production started,862.7042932103008,305,Ambulance 5 1
+Production complete,887.3671519568517,305,Ambulance 5 1
 Creation,874.0,306,Source A1
-Production started,889.177702006088,306,Ambulance -1 0
-Production complete,911.9208555027429,306,Ambulance -1 0
-Creation,884.0,307,Source A1
-Production started,898.6013498365122,307,Ambulance -1 0
-Production complete,917.3627310011774,307,Ambulance -1 0
-Creation,888.0,308,Source A1
-Production started,902.1052028591525,308,Ambulance -1 0
-Production complete,918.0732776266126,308,Ambulance -1 0
-Creation,890.0,309,Source A1
-Production started,911.9208555027429,309,Ambulance -1 0
-Production complete,919.2576588440533,309,Ambulance -1 0
-Creation,878.0,310,Source A1
-Production started,895.4795049808894,310,Ambulance -1 0
-Production complete,922.6820487188716,310,Ambulance -1 0
-Creation,875.0,311,Source A1
-Production started,894.170234552992,311,Ambulance -1 0
-Production complete,922.819535225043,311,Ambulance -1 0
-Creation,898.0,312,Source A1
-Production started,919.2576588440533,312,Ambulance -1 0
-Production complete,924.0406467126452,312,Ambulance -1 0
-Creation,881.0,313,Source A1
-Production started,895.7371123188367,313,Ambulance -1 0
-Production complete,924.4349605419998,313,Ambulance -1 0
-Creation,893.0,314,Source A1
-Production started,918.0732776266126,314,Ambulance -1 0
-Production complete,925.9934088392924,314,Ambulance -1 0
-Creation,889.0,315,Source A1
-Production started,903.6611248718067,315,Ambulance -1 0
-Production complete,926.7132739787838,315,Ambulance -1 0
-Creation,923.0,316,Source A1
-Production started,926.7132739787838,316,Ambulance -1 0
-Production complete,930.1512292875075,316,Ambulance -1 0
-Creation,891.0,317,Source A1
-Production started,917.3627310011774,317,Ambulance -1 0
-Production complete,942.1224536016002,317,Ambulance -1 0
-Creation,902.0,318,Source A1
-Production started,922.819535225043,318,Ambulance -1 0
-Production complete,943.4206737688155,318,Ambulance -1 0
-Creation,899.0,319,Source A1
-Production started,922.6820487188716,319,Ambulance -1 0
-Production complete,944.7220851827094,319,Ambulance -1 0
-Creation,907.0,320,Source A1
-Production started,924.0406467126452,320,Ambulance -1 0
-Production complete,945.7156717790415,320,Ambulance -1 0
-Creation,938.0,321,Source A1
-Production started,944.7220851827094,321,Ambulance -1 0
-Production complete,947.5083857151235,321,Ambulance -1 0
-Creation,914.0,322,Source A1
-Production started,924.4349605419998,322,Ambulance -1 0
-Production complete,948.2626935899251,322,Ambulance -1 0
-Creation,927.0,323,Source A1
-Production started,930.1512292875075,323,Ambulance -1 0
-Production complete,950.4910801945365,323,Ambulance -1 0
-Creation,917.0,324,Source A1
-Production started,925.9934088392924,324,Ambulance -1 0
-Production complete,954.2963416587289,324,Ambulance -1 0
-Creation,947.0,325,Source A1
-Production started,947.5083857151235,325,Ambulance -1 0
-Production complete,963.0521616320016,325,Ambulance -1 0
-Creation,153.0,326,Source A2
-Production started,950.4910801945365,326,Ambulance -1 0
-Production complete,969.9078871192844,326,Ambulance -1 0
-Creation,944.0,327,Source A1
-Production started,945.7156717790415,327,Ambulance -1 0
-Production complete,970.139832180512,327,Ambulance -1 0
-Creation,935.0,328,Source A1
-Production started,943.4206737688155,328,Ambulance -1 0
-Production complete,970.1727778439197,328,Ambulance -1 0
-Creation,931.0,329,Source A1
-Production started,942.1224536016002,329,Ambulance -1 0
-Production complete,971.0769064962868,329,Ambulance -1 0
-Creation,953.0,330,Source A1
-Production started,954.2963416587289,330,Ambulance -1 0
-Production complete,974.6855547491638,330,Ambulance -1 0
-Creation,151.0,331,Source A2
-Production started,948.2626935899251,331,Ambulance -1 0
-Production complete,974.9661656552463,331,Ambulance -1 0
-Creation,158.0,332,Source A2
-Production started,971.0769064962868,332,Ambulance -1 0
-Production complete,975.6782874916776,332,Ambulance -1 0
-Creation,960.0,333,Source A1
-Production started,963.0521616320016,333,Ambulance -1 0
-Production complete,977.8058856617672,333,Ambulance -1 0
-Creation,163.0,334,Source A2
-Production started,975.6782874916776,334,Ambulance -1 0
-Production complete,980.6794053664107,334,Ambulance -1 0
-Creation,165.0,335,Source A2
-Production started,977.8058856617672,335,Ambulance -1 0
-Production complete,983.887746571715,335,Ambulance -1 0
-Creation,972.0,336,Source A1
-Production started,974.6855547491638,336,Ambulance -1 0
-Production complete,997.0681336709791,336,Ambulance -1 0
-Creation,156.0,337,Source A2
-Production started,970.139832180512,337,Ambulance -1 0
-Production complete,997.6905573474744,337,Ambulance -1 0
-Creation,160.0,338,Source A2
-Production started,974.9661656552463,338,Ambulance -1 0
-Production complete,998.685922862115,338,Ambulance -1 0
-Creation,157.0,339,Source A2
-Production started,970.1727778439197,339,Ambulance -1 0
-Production complete,998.9448682904755,339,Ambulance -1 0
-Creation,966.0,340,Source A1
-Production started,969.9078871192844,340,Ambulance -1 0
-Production complete,999.6073367680673,340,Ambulance -1 0
-Creation,981.0,341,Source A1
-Production started,983.887746571715,341,Ambulance -1 0
-Production complete,1002.438365908951,341,Ambulance -1 0
-Creation,173.0,342,Source A2
-Production started,999.6073367680673,342,Ambulance -1 0
-Production complete,1005.1694688831952,342,Ambulance -1 0
-Creation,1001.0,343,Source A1
-Production started,1002.438365908951,343,Ambulance -1 0
-Production complete,1007.132399963382,343,Ambulance -1 0
-Creation,1005.0,344,Source A1
-Production started,1005.1694688831952,344,Ambulance -1 0
-Production complete,1008.5167133136981,344,Ambulance -1 0
-Creation,978.0,345,Source A1
-Production started,980.6794053664107,345,Ambulance -1 0
-Production complete,1009.8209192465548,345,Ambulance -1 0
-Creation,986.0,346,Source A1
-Production started,997.0681336709791,346,Ambulance -1 0
-Production complete,1014.3378008946287,346,Ambulance -1 0
-Creation,169.0,347,Source A2
-Production started,998.9448682904755,347,Ambulance -1 0
-Production complete,1018.9429048520681,347,Ambulance -1 0
-Creation,1007.0,348,Source A1
-Production started,1007.132399963382,348,Ambulance -1 0
-Production complete,1021.3684932595843,348,Ambulance -1 0
-Creation,179.0,349,Source A2
-Production started,1009.8209192465548,349,Ambulance -1 0
-Production complete,1026.7563356309024,349,Ambulance -1 0
-Creation,166.0,350,Source A2
-Production started,998.685922862115,350,Ambulance -1 0
-Production complete,1027.213613847427,350,Ambulance -1 0
-Creation,992.0,351,Source A1
-Production started,997.6905573474744,351,Ambulance -1 0
-Production complete,1027.2971209613713,351,Ambulance -1 0
-Creation,176.0,352,Source A2
-Production started,1008.5167133136981,352,Ambulance -1 0
-Production complete,1031.1758562728855,352,Ambulance -1 0
-Creation,1011.0,353,Source A1
-Production started,1014.3378008946287,353,Ambulance -1 0
-Production complete,1037.223713741483,353,Ambulance -1 0
-Creation,1014.0,354,Source A1
-Production started,1018.9429048520681,354,Ambulance -1 0
-Production complete,1039.7971452911454,354,Ambulance -1 0
-Creation,1029.0,355,Source A1
-Production started,1037.223713741483,355,Ambulance -1 0
-Production complete,1041.5446864550026,355,Ambulance -1 0
-Creation,1034.0,356,Source A1
-Production started,1039.7971452911454,356,Ambulance -1 0
-Production complete,1045.310348629879,356,Ambulance -1 0
-Creation,1024.0,357,Source A1
-Production started,1027.2971209613713,357,Ambulance -1 0
-Production complete,1048.4214937254403,357,Ambulance -1 0
-Creation,1016.0,358,Source A1
-Production started,1021.3684932595843,358,Ambulance -1 0
-Production complete,1050.2705247904055,358,Ambulance -1 0
-Creation,1040.0,359,Source A1
-Production started,1050.2705247904055,359,Ambulance -1 0
-Production complete,1051.7216337807397,359,Ambulance -1 0
-Creation,1020.0,360,Source A1
-Production started,1026.7563356309024,360,Ambulance -1 0
-Production complete,1052.5378626708325,360,Ambulance -1 0
-Creation,1028.0,361,Source A1
-Production started,1031.1758562728855,361,Ambulance -1 0
-Production complete,1054.5743789565254,361,Ambulance -1 0
-Creation,1042.0,362,Source A1
-Production started,1051.7216337807397,362,Ambulance -1 0
-Production complete,1055.3912819685127,362,Ambulance -1 0
-Creation,1022.0,363,Source A1
-Production started,1027.213613847427,363,Ambulance -1 0
-Production complete,1055.6977486549363,363,Ambulance -1 0
-Creation,1036.0,364,Source A1
-Production started,1041.5446864550026,364,Ambulance -1 0
-Production complete,1060.688607735047,364,Ambulance -1 0
-Creation,1039.0,365,Source A1
-Production started,1048.4214937254403,365,Ambulance -1 0
-Production complete,1065.6217215079023,365,Ambulance -1 0
-Creation,1055.0,366,Source A1
-Production started,1060.688607735047,366,Ambulance -1 0
-Production complete,1067.9121738636063,366,Ambulance -1 0
-Creation,1058.0,367,Source A1
-Production started,1065.6217215079023,367,Ambulance -1 0
-Production complete,1068.9902835795228,367,Ambulance -1 0
-Creation,1038.0,368,Source A1
-Production started,1045.310348629879,368,Ambulance -1 0
-Production complete,1070.9392088345132,368,Ambulance -1 0
-Creation,1047.0,369,Source A1
-Production started,1054.5743789565254,369,Ambulance -1 0
-Production complete,1075.1939238447949,369,Ambulance -1 0
-Creation,1050.0,370,Source A1
-Production started,1055.3912819685127,370,Ambulance -1 0
-Production complete,1075.2569260629061,370,Ambulance -1 0
-Creation,1052.0,371,Source A1
-Production started,1055.6977486549363,371,Ambulance -1 0
-Production complete,1077.8969653980284,371,Ambulance -1 0
-Creation,1072.0,372,Source A1
-Production started,1075.1939238447949,372,Ambulance -1 0
-Production complete,1080.6510454806316,372,Ambulance -1 0
-Creation,1044.0,373,Source A1
-Production started,1052.5378626708325,373,Ambulance -1 0
-Production complete,1081.3838452462453,373,Ambulance -1 0
-Creation,1078.0,374,Source A1
-Production started,1080.6510454806316,374,Ambulance -1 0
-Production complete,1086.017123080255,374,Ambulance -1 0
-Creation,1064.0,375,Source A1
-Production started,1068.9902835795228,375,Ambulance -1 0
-Production complete,1093.1076613407633,375,Ambulance -1 0
-Creation,1061.0,376,Source A1
-Production started,1067.9121738636063,376,Ambulance -1 0
-Production complete,1094.1008246683245,376,Ambulance -1 0
-Creation,1068.0,377,Source A1
-Production started,1070.9392088345132,377,Ambulance -1 0
-Production complete,1094.2492640984358,377,Ambulance -1 0
-Creation,183.0,378,Source A2
-Production started,1075.2569260629061,378,Ambulance -1 0
-Production complete,1096.6745755355334,378,Ambulance -1 0
-Creation,1088.0,379,Source A1
-Production started,1093.1076613407633,379,Ambulance -1 0
-Production complete,1097.9213269245965,379,Ambulance -1 0
-Creation,1094.0,380,Source A1
-Production started,1094.1008246683245,380,Ambulance -1 0
-Production complete,1100.8030217537764,380,Ambulance -1 0
-Creation,1076.0,381,Source A1
-Production started,1077.8969653980284,381,Ambulance -1 0
-Production complete,1104.928088584652,381,Ambulance -1 0
-Creation,190.0,382,Source A2
-Production started,1086.017123080255,382,Ambulance -1 0
-Production complete,1106.284710330561,382,Ambulance -1 0
-Creation,1080.0,383,Source A1
-Production started,1081.3838452462453,383,Ambulance -1 0
-Production complete,1110.986564939358,383,Ambulance -1 0
-Creation,200.0,384,Source A2
-Production started,1094.2492640984358,384,Ambulance -1 0
-Production complete,1117.827399756061,384,Ambulance -1 0
-Creation,204.0,385,Source A2
-Production started,1097.9213269245965,385,Ambulance -1 0
-Production complete,1121.841421374497,385,Ambulance -1 0
-Creation,1100.0,386,Source A1
-Production started,1100.8030217537764,386,Ambulance -1 0
-Production complete,1124.2570030467664,386,Ambulance -1 0
-Creation,1105.0,387,Source A1
-Production started,1106.284710330561,387,Ambulance -1 0
-Production complete,1124.7141689208124,387,Ambulance -1 0
-Creation,1103.0,388,Source A1
-Production started,1104.928088584652,388,Ambulance -1 0
-Production complete,1126.7792599856557,388,Ambulance -1 0
-Creation,1095.0,389,Source A1
-Production started,1096.6745755355334,389,Ambulance -1 0
-Production complete,1127.2362461491,389,Ambulance -1 0
-Creation,1109.0,390,Source A1
-Production started,1110.986564939358,390,Ambulance -1 0
-Production complete,1129.046638748083,390,Ambulance -1 0
-Creation,1124.0,391,Source A1
-Production started,1124.2570030467664,391,Ambulance -1 0
-Production complete,1140.3903409179086,391,Ambulance -1 0
-Creation,1118.0,392,Source A1
-Production started,1121.841421374497,392,Ambulance -1 0
-Production complete,1140.8933024819314,392,Ambulance -1 0
-Creation,1115.0,393,Source A1
-Production started,1117.827399756061,393,Ambulance -1 0
-Production complete,1145.2793762584508,393,Ambulance -1 0
-Creation,210.0,394,Source A2
-Production started,1124.7141689208124,394,Ambulance -1 0
-Production complete,1146.3113189235569,394,Ambulance -1 0
-Creation,223.0,395,Source A2
-Production started,1129.046638748083,395,Ambulance -1 0
-Production complete,1149.4716757387082,395,Ambulance -1 0
-Creation,214.0,396,Source A2
-Production started,1126.7792599856557,396,Ambulance -1 0
-Production complete,1149.8358417418272,396,Ambulance -1 0
-Creation,218.0,397,Source A2
-Production started,1127.2362461491,397,Ambulance -1 0
-Production complete,1152.9395630740464,397,Ambulance -1 0
-Creation,1146.0,398,Source A1
-Production started,1149.8358417418272,398,Ambulance -1 0
-Production complete,1153.4484184171502,398,Ambulance -1 0
-Creation,1140.0,399,Source A1
-Production started,1140.8933024819314,399,Ambulance -1 0
-Production complete,1160.2263653262082,399,Ambulance -1 0
-Creation,1142.0,400,Source A1
-Production started,1145.2793762584508,400,Ambulance -1 0
-Production complete,1163.3435840498116,400,Ambulance -1 0
-Creation,1132.0,401,Source A1
-Production started,1140.3903409179086,401,Ambulance -1 0
-Production complete,1164.665264925618,401,Ambulance -1 0
-Creation,1144.0,402,Source A1
-Production started,1149.4716757387082,402,Ambulance -1 0
-Production complete,1167.1831852568114,402,Ambulance -1 0
-Creation,1143.0,403,Source A1
-Production started,1146.3113189235569,403,Ambulance -1 0
-Production complete,1169.8228696509616,403,Ambulance -1 0
-Creation,1147.0,404,Source A1
-Production started,1152.9395630740464,404,Ambulance -1 0
-Production complete,1172.5887082683737,404,Ambulance -1 0
-Creation,1148.0,405,Source A1
-Production started,1153.4484184171502,405,Ambulance -1 0
-Production complete,1176.6025020830778,405,Ambulance -1 0
+Production started,887.3671519568517,306,Ambulance 5 1
+Production complete,893.2071060101257,306,Ambulance 5 1
+Creation,870.0,307,Source A1
+Production started,877.6934990082231,307,Ambulance 6 1
+Production complete,895.4843060956823,307,Ambulance 6 1
+Creation,872.0,308,Source A1
+Production started,880.3451798614743,308,Ambulance 3 1
+Production complete,898.0744865419309,308,Ambulance 3 1
+Creation,867.0,309,Source A1
+Production started,876.2189122398631,309,Ambulance 7 1
+Production complete,898.4133325632123,309,Ambulance 7 1
+Creation,862.0,310,Source A1
+Production started,871.5118777978316,310,Ambulance 4 1
+Production complete,898.4989768398257,310,Ambulance 4 1
+Creation,871.0,311,Source A1
+Production started,879.6237933331518,311,Ambulance 1 1
+Production complete,902.6807337909371,311,Ambulance 1 1
+Creation,893.0,312,Source A1
+Production started,902.6807337909371,312,Ambulance 1 1
+Production complete,906.4756506279956,312,Ambulance 1 1
+Creation,876.0,313,Source A1
+Production started,893.2071060101257,313,Ambulance 5 1
+Production complete,909.4999427025534,313,Ambulance 5 1
+Creation,873.0,314,Source A1
+Production started,887.0251253793479,314,Ambulance 2 1
+Production complete,913.7913685028636,314,Ambulance 2 1
+Creation,881.0,315,Source A1
+Production started,898.0744865419309,315,Ambulance 3 1
+Production complete,914.7305390100066,315,Ambulance 3 1
+Creation,900.0,316,Source A1
+Production started,913.7913685028636,316,Ambulance 2 1
+Production complete,915.5627542043136,316,Ambulance 2 1
+Creation,877.0,317,Source A1
+Production started,895.4843060956823,317,Ambulance 6 1
+Production complete,916.0423130436961,317,Ambulance 6 1
+Creation,890.0,318,Source A1
+Production started,898.4989768398257,318,Ambulance 4 1
+Production complete,916.9949848067333,318,Ambulance 4 1
+Creation,910.0,319,Source A1
+Production started,915.5627542043136,319,Ambulance 2 1
+Production complete,921.9446988804997,319,Ambulance 2 1
+Creation,885.0,320,Source A1
+Production started,898.4133325632123,320,Ambulance 7 1
+Production complete,925.6194502644429,320,Ambulance 7 1
+Creation,898.0,321,Source A1
+Production started,909.4999427025534,321,Ambulance 5 1
+Production complete,928.5708992570133,321,Ambulance 5 1
+Creation,895.0,322,Source A1
+Production started,906.4756506279956,322,Ambulance 1 1
+Production complete,930.0102001833013,322,Ambulance 1 1
+Creation,155.0,323,Source A2
+Production started,930.0102001833013,323,Ambulance 1 1
+Production complete,933.2881801748168,323,Ambulance 1 1
+Creation,913.0,324,Source A1
+Production started,916.0423130436961,324,Ambulance 6 1
+Production complete,936.0169328005659,324,Ambulance 6 1
+Creation,931.0,325,Source A1
+Production started,933.2881801748168,325,Ambulance 1 1
+Production complete,937.1730053706921,325,Ambulance 1 1
+Creation,904.0,326,Source A1
+Production started,914.7305390100066,326,Ambulance 3 1
+Production complete,938.1969934418721,326,Ambulance 3 1
+Creation,157.0,327,Source A2
+Production started,936.0169328005659,327,Ambulance 6 1
+Production complete,939.5956480079761,327,Ambulance 6 1
+Creation,918.0,328,Source A1
+Production started,921.9446988804997,328,Ambulance 2 1
+Production complete,941.3491444206873,328,Ambulance 2 1
+Creation,923.0,329,Source A1
+Production started,925.6194502644429,329,Ambulance 7 1
+Production complete,942.7168041046746,329,Ambulance 7 1
+Creation,161.0,330,Source A2
+Production started,937.1730053706921,330,Ambulance 1 1
+Production complete,942.7904725475433,330,Ambulance 1 1
+Creation,150.0,331,Source A2
+Production started,916.9949848067333,331,Ambulance 4 1
+Production complete,943.4959360371346,331,Ambulance 4 1
+Creation,925.0,332,Source A1
+Production started,928.5708992570133,332,Ambulance 5 1
+Production complete,949.4323163452435,332,Ambulance 5 1
+Creation,169.0,333,Source A2
+Production started,943.4959360371346,333,Ambulance 4 1
+Production complete,950.3495938131632,333,Ambulance 4 1
+Creation,941.0,334,Source A1
+Production started,941.3491444206873,334,Ambulance 2 1
+Production complete,964.0217466818382,334,Ambulance 2 1
+Creation,939.0,335,Source A1
+Production started,939.5956480079761,335,Ambulance 6 1
+Production complete,964.5092101015268,335,Ambulance 6 1
+Creation,165.0,336,Source A2
+Production started,942.7168041046746,336,Ambulance 7 1
+Production complete,964.5099593144937,336,Ambulance 7 1
+Creation,164.0,337,Source A2
+Production started,938.1969934418721,337,Ambulance 3 1
+Production complete,964.7416514531964,337,Ambulance 3 1
+Creation,167.0,338,Source A2
+Production started,942.7904725475433,338,Ambulance 1 1
+Production complete,967.0687904556374,338,Ambulance 1 1
+Creation,947.0,339,Source A1
+Production started,949.4323163452435,339,Ambulance 5 1
+Production complete,970.2034518330693,339,Ambulance 5 1
+Creation,172.0,340,Source A2
+Production started,950.3495938131632,340,Ambulance 4 1
+Production complete,977.3305217123716,340,Ambulance 4 1
+Creation,966.0,341,Source A1
+Production started,967.0687904556374,341,Ambulance 1 1
+Production complete,985.2039841222472,341,Ambulance 1 1
+Creation,952.0,342,Source A1
+Production started,964.0217466818382,342,Ambulance 2 1
+Production complete,986.4680396456154,342,Ambulance 2 1
+Creation,954.0,343,Source A1
+Production started,964.5092101015268,343,Ambulance 6 1
+Production complete,986.8995559917349,343,Ambulance 6 1
+Creation,984.0,344,Source A1
+Production started,986.8995559917349,344,Ambulance 6 1
+Production complete,993.8450585109448,344,Ambulance 6 1
+Creation,174.0,345,Source A2
+Production started,964.5099593144937,345,Ambulance 7 1
+Production complete,994.1201415951186,345,Ambulance 7 1
+Creation,176.0,346,Source A2
+Production started,964.7416514531964,346,Ambulance 3 1
+Production complete,994.3936679599905,346,Ambulance 3 1
+Creation,975.0,347,Source A1
+Production started,977.3305217123716,347,Ambulance 4 1
+Production complete,996.2348281540249,347,Ambulance 4 1
+Creation,990.0,348,Source A1
+Production started,993.8450585109448,348,Ambulance 6 1
+Production complete,999.1593412646208,348,Ambulance 6 1
+Creation,968.0,349,Source A1
+Production started,970.2034518330693,349,Ambulance 5 1
+Production complete,1001.4093040866139,349,Ambulance 5 1
+Creation,177.0,350,Source A2
+Production started,994.3936679599905,350,Ambulance 3 1
+Production complete,1001.4218513389224,350,Ambulance 3 1
+Creation,978.0,351,Source A1
+Production started,985.2039841222472,351,Ambulance 1 1
+Production complete,1006.3690410461293,351,Ambulance 1 1
+Creation,981.0,352,Source A1
+Production started,986.4680396456154,352,Ambulance 2 1
+Production complete,1013.9055653932973,352,Ambulance 2 1
+Creation,187.0,353,Source A2
+Production started,1001.4218513389224,353,Ambulance 3 1
+Production complete,1019.4147544289053,353,Ambulance 3 1
+Creation,181.0,354,Source A2
+Production started,1001.4093040866139,354,Ambulance 5 1
+Production complete,1020.1661807754114,354,Ambulance 5 1
+Creation,999.0,355,Source A1
+Production started,999.1593412646208,355,Ambulance 6 1
+Production complete,1020.7900631657712,355,Ambulance 6 1
+Creation,994.0,356,Source A1
+Production started,994.1201415951186,356,Ambulance 7 1
+Production complete,1022.3240082740601,356,Ambulance 7 1
+Creation,178.0,357,Source A2
+Production started,996.2348281540249,357,Ambulance 4 1
+Production complete,1024.4543660470504,357,Ambulance 4 1
+Creation,1004.0,358,Source A1
+Production started,1006.3690410461293,358,Ambulance 1 1
+Production complete,1026.9740664090382,358,Ambulance 1 1
+Creation,1026.0,359,Source A1
+Production started,1026.9740664090382,359,Ambulance 1 1
+Production complete,1031.727284348654,359,Ambulance 1 1
+Creation,1007.0,360,Source A1
+Production started,1013.9055653932973,360,Ambulance 2 1
+Production complete,1032.0493486937096,360,Ambulance 2 1
+Creation,1021.0,361,Source A1
+Production started,1022.3240082740601,361,Ambulance 7 1
+Production complete,1040.4333678507794,361,Ambulance 7 1
+Creation,1020.0,362,Source A1
+Production started,1020.1661807754114,362,Ambulance 5 1
+Production complete,1040.7994316124357,362,Ambulance 5 1
+Creation,192.0,363,Source A2
+Production started,1020.7900631657712,363,Ambulance 6 1
+Production complete,1043.2158268121539,363,Ambulance 6 1
+Creation,1014.0,364,Source A1
+Production started,1019.4147544289053,364,Ambulance 3 1
+Production complete,1048.5130516859062,364,Ambulance 3 1
+Creation,1032.0,365,Source A1
+Production started,1032.0493486937096,365,Ambulance 2 1
+Production complete,1050.3229271862408,365,Ambulance 2 1
+Creation,1023.0,366,Source A1
+Production started,1024.4543660470504,366,Ambulance 4 1
+Production complete,1050.621054604715,366,Ambulance 4 1
+Creation,1029.0,367,Source A1
+Production started,1031.727284348654,367,Ambulance 1 1
+Production complete,1054.8517525284292,367,Ambulance 1 1
+Creation,1037.0,368,Source A1
+Production started,1040.4333678507794,368,Ambulance 7 1
+Production complete,1064.100692738909,368,Ambulance 7 1
+Creation,1039.0,369,Source A1
+Production started,1043.2158268121539,369,Ambulance 6 1
+Production complete,1065.4840196086175,369,Ambulance 6 1
+Creation,1038.0,370,Source A1
+Production started,1040.7994316124357,370,Ambulance 5 1
+Production complete,1065.5508711548155,370,Ambulance 5 1
+Creation,1043.0,371,Source A1
+Production started,1048.5130516859062,371,Ambulance 3 1
+Production complete,1070.3498591444852,371,Ambulance 3 1
+Creation,1045.0,372,Source A1
+Production started,1050.3229271862408,372,Ambulance 2 1
+Production complete,1074.0751256879107,372,Ambulance 2 1
+Creation,1047.0,373,Source A1
+Production started,1050.621054604715,373,Ambulance 4 1
+Production complete,1076.7295623822993,373,Ambulance 4 1
+Creation,1049.0,374,Source A1
+Production started,1054.8517525284292,374,Ambulance 1 1
+Production complete,1080.1554501399014,374,Ambulance 1 1
+Creation,1062.0,375,Source A1
+Production started,1076.7295623822993,375,Ambulance 4 1
+Production complete,1083.808305220174,375,Ambulance 4 1
+Creation,1059.0,376,Source A1
+Production started,1065.5508711548155,376,Ambulance 5 1
+Production complete,1084.8538746931374,376,Ambulance 5 1
+Creation,1051.0,377,Source A1
+Production started,1064.100692738909,377,Ambulance 7 1
+Production complete,1088.9365057561752,377,Ambulance 7 1
+Creation,1055.0,378,Source A1
+Production started,1065.4840196086175,378,Ambulance 6 1
+Production complete,1093.2425167892081,378,Ambulance 6 1
+Creation,1060.0,379,Source A1
+Production started,1070.3498591444852,379,Ambulance 3 1
+Production complete,1097.1772606181773,379,Ambulance 3 1
+Creation,1061.0,380,Source A1
+Production started,1074.0751256879107,380,Ambulance 2 1
+Production complete,1097.444409617271,380,Ambulance 2 1
+Creation,1067.0,381,Source A1
+Production started,1080.1554501399014,381,Ambulance 1 1
+Production complete,1104.7496821441598,381,Ambulance 1 1
+Creation,1072.0,382,Source A1
+Production started,1084.8538746931374,382,Ambulance 5 1
+Production complete,1107.3022794506921,382,Ambulance 5 1
+Creation,1069.0,383,Source A1
+Production started,1083.808305220174,383,Ambulance 4 1
+Production complete,1111.1119280286057,383,Ambulance 4 1
+Creation,1078.0,384,Source A1
+Production started,1093.2425167892081,384,Ambulance 6 1
+Production complete,1111.4513623444568,384,Ambulance 6 1
+Creation,1085.0,385,Source A1
+Production started,1097.444409617271,385,Ambulance 2 1
+Production complete,1113.202497990857,385,Ambulance 2 1
+Creation,1075.0,386,Source A1
+Production started,1088.9365057561752,386,Ambulance 7 1
+Production complete,1114.1426754025142,386,Ambulance 7 1
+Creation,1080.0,387,Source A1
+Production started,1097.1772606181773,387,Ambulance 3 1
+Production complete,1116.9311664678003,387,Ambulance 3 1
+Creation,1089.0,388,Source A1
+Production started,1104.7496821441598,388,Ambulance 1 1
+Production complete,1125.240292051082,388,Ambulance 1 1
+Creation,1110.0,389,Source A1
+Production started,1113.202497990857,389,Ambulance 2 1
+Production complete,1127.8097417985143,389,Ambulance 2 1
+Creation,1090.0,390,Source A1
+Production started,1107.3022794506921,390,Ambulance 5 1
+Production complete,1129.2311386728059,390,Ambulance 5 1
+Creation,1097.0,391,Source A1
+Production started,1111.1119280286057,391,Ambulance 4 1
+Production complete,1132.9512972856044,391,Ambulance 4 1
+Creation,1101.0,392,Source A1
+Production started,1111.4513623444568,392,Ambulance 6 1
+Production complete,1134.6167663226977,392,Ambulance 6 1
+Creation,195.0,393,Source A2
+Production started,1114.1426754025142,393,Ambulance 7 1
+Production complete,1137.1795871888078,393,Ambulance 7 1
+Creation,197.0,394,Source A2
+Production started,1116.9311664678003,394,Ambulance 3 1
+Production complete,1138.6026749791613,394,Ambulance 3 1
+Creation,206.0,395,Source A2
+Production started,1132.9512972856044,395,Ambulance 4 1
+Production complete,1140.5147914401098,395,Ambulance 4 1
+Creation,1127.0,396,Source A1
+Production started,1127.8097417985143,396,Ambulance 2 1
+Production complete,1145.5320428148602,396,Ambulance 2 1
+Creation,201.0,397,Source A2
+Production started,1129.2311386728059,397,Ambulance 5 1
+Production complete,1146.0627528285072,397,Ambulance 5 1
+Creation,1118.0,398,Source A1
+Production started,1125.240292051082,398,Ambulance 1 1
+Production complete,1148.8443454035262,398,Ambulance 1 1
+Creation,1134.0,399,Source A1
+Production started,1134.6167663226977,399,Ambulance 6 1
+Production complete,1151.7528009344496,399,Ambulance 6 1
+Creation,209.0,400,Source A2
+Production started,1138.6026749791613,400,Ambulance 3 1
+Production complete,1154.9616299342613,400,Ambulance 3 1
+Creation,214.0,401,Source A2
+Production started,1140.5147914401098,401,Ambulance 4 1
+Production complete,1159.7642412733233,401,Ambulance 4 1
+Creation,1136.0,402,Source A1
+Production started,1137.1795871888078,402,Ambulance 7 1
+Production complete,1161.8891555210523,402,Ambulance 7 1
+Creation,223.0,403,Source A2
+Production started,1148.8443454035262,403,Ambulance 1 1
+Production complete,1167.4785363918434,403,Ambulance 1 1
+Creation,219.0,404,Source A2
+Production started,1146.0627528285072,404,Ambulance 5 1
+Production complete,1168.5127214671077,404,Ambulance 5 1
+Creation,1144.0,405,Source A1
+Production started,1145.5320428148602,405,Ambulance 2 1
+Production complete,1175.1248829462884,405,Ambulance 2 1
 Creation,1152.0,406,Source A1
-Production started,1164.665264925618,406,Ambulance -1 0
-Production complete,1182.6240451379415,406,Ambulance -1 0
-Creation,1151.0,407,Source A1
-Production started,1163.3435840498116,407,Ambulance -1 0
-Production complete,1184.4334570481194,407,Ambulance -1 0
-Creation,1150.0,408,Source A1
-Production started,1160.2263653262082,408,Ambulance -1 0
-Production complete,1187.2631439165048,408,Ambulance -1 0
-Creation,1157.0,409,Source A1
-Production started,1172.5887082683737,409,Ambulance -1 0
-Production complete,1189.6638879807701,409,Ambulance -1 0
-Creation,1168.0,410,Source A1
-Production started,1189.6638879807701,410,Ambulance -1 0
-Production complete,1195.1675187438989,410,Ambulance -1 0
-Creation,1153.0,411,Source A1
-Production started,1167.1831852568114,411,Ambulance -1 0
-Production complete,1197.1861998987092,411,Ambulance -1 0
-Creation,1155.0,412,Source A1
-Production started,1169.8228696509616,412,Ambulance -1 0
-Production complete,1199.1852985007733,412,Ambulance -1 0
-Creation,1160.0,413,Source A1
-Production started,1176.6025020830778,413,Ambulance -1 0
-Production complete,1199.8933874347483,413,Ambulance -1 0
-Creation,1176.0,414,Source A1
-Production started,1199.8933874347483,414,Ambulance -1 0
-Production complete,1203.107203723489,414,Ambulance -1 0
-Creation,1179.0,415,Source A1
-Production started,1203.107203723489,415,Ambulance -1 0
-Production complete,1208.9590827344944,415,Ambulance -1 0
-Creation,1162.0,416,Source A1
-Production started,1184.4334570481194,416,Ambulance -1 0
-Production complete,1210.4673653742063,416,Ambulance -1 0
-Creation,1165.0,417,Source A1
-Production started,1187.2631439165048,417,Ambulance -1 0
-Production complete,1210.8881620054556,417,Ambulance -1 0
-Creation,1161.0,418,Source A1
-Production started,1182.6240451379415,418,Ambulance -1 0
-Production complete,1211.0497012255398,418,Ambulance -1 0
-Creation,1188.0,419,Source A1
-Production started,1210.8881620054556,419,Ambulance -1 0
-Production complete,1215.3348882337011,419,Ambulance -1 0
-Creation,1172.0,420,Source A1
-Production started,1197.1861998987092,420,Ambulance -1 0
-Production complete,1219.6542100074662,420,Ambulance -1 0
-Creation,1170.0,421,Source A1
-Production started,1195.1675187438989,421,Ambulance -1 0
-Production complete,1220.4717762808925,421,Ambulance -1 0
-Creation,1182.0,422,Source A1
-Production started,1208.9590827344944,422,Ambulance -1 0
-Production complete,1229.386240859958,422,Ambulance -1 0
-Creation,1174.0,423,Source A1
-Production started,1199.1852985007733,423,Ambulance -1 0
-Production complete,1229.4869759687142,423,Ambulance -1 0
-Creation,1190.0,424,Source A1
-Production started,1211.0497012255398,424,Ambulance -1 0
-Production complete,1230.6680052299682,424,Ambulance -1 0
-Creation,1192.0,425,Source A1
-Production started,1215.3348882337011,425,Ambulance -1 0
-Production complete,1236.1251608152597,425,Ambulance -1 0
-Creation,1184.0,426,Source A1
-Production started,1210.4673653742063,426,Ambulance -1 0
-Production complete,1236.6511779034552,426,Ambulance -1 0
-Creation,1197.0,427,Source A1
-Production started,1220.4717762808925,427,Ambulance -1 0
-Production complete,1239.4367367817576,427,Ambulance -1 0
-Creation,1195.0,428,Source A1
-Production started,1219.6542100074662,428,Ambulance -1 0
-Production complete,1243.5939508959802,428,Ambulance -1 0
-Creation,1198.0,429,Source A1
-Production started,1229.386240859958,429,Ambulance -1 0
-Production complete,1247.3269178473117,429,Ambulance -1 0
-Creation,1230.0,430,Source A1
-Production started,1247.3269178473117,430,Ambulance -1 0
-Production complete,1249.9508207572487,430,Ambulance -1 0
-Creation,1216.0,431,Source A1
-Production started,1236.6511779034552,431,Ambulance -1 0
-Production complete,1251.8913517245685,431,Ambulance -1 0
-Creation,1238.0,432,Source A1
-Production started,1249.9508207572487,432,Ambulance -1 0
-Production complete,1257.2030277197641,432,Ambulance -1 0
-Creation,1201.0,433,Source A1
-Production started,1229.4869759687142,433,Ambulance -1 0
-Production complete,1258.4380758863244,433,Ambulance -1 0
-Creation,1219.0,434,Source A1
-Production started,1239.4367367817576,434,Ambulance -1 0
-Production complete,1259.0208173326619,434,Ambulance -1 0
-Creation,1211.0,435,Source A1
-Production started,1236.1251608152597,435,Ambulance -1 0
-Production complete,1259.7314063161998,435,Ambulance -1 0
-Creation,229.0,436,Source A2
-Production started,1259.0208173326619,436,Ambulance -1 0
-Production complete,1261.594628237878,436,Ambulance -1 0
-Creation,1207.0,437,Source A1
-Production started,1230.6680052299682,437,Ambulance -1 0
-Production complete,1262.3572461927229,437,Ambulance -1 0
-Creation,1226.0,438,Source A1
-Production started,1243.5939508959802,438,Ambulance -1 0
-Production complete,1264.4672752869803,438,Ambulance -1 0
-Creation,244.0,439,Source A2
-Production started,1261.594628237878,439,Ambulance -1 0
-Production complete,1268.453451640137,439,Ambulance -1 0
-Creation,1245.0,440,Source A1
-Production started,1251.8913517245685,440,Ambulance -1 0
-Production complete,1271.8891655333525,440,Ambulance -1 0
-Creation,1252.0,441,Source A1
-Production started,1257.2030277197641,441,Ambulance -1 0
-Production complete,1277.2707265794782,441,Ambulance -1 0
-Creation,1257.0,442,Source A1
-Production started,1258.4380758863244,442,Ambulance -1 0
-Production complete,1282.6029462783883,442,Ambulance -1 0
-Creation,241.0,443,Source A2
-Production started,1259.7314063161998,443,Ambulance -1 0
-Production complete,1283.5220838965115,443,Ambulance -1 0
-Creation,249.0,444,Source A2
-Production started,1262.3572461927229,444,Ambulance -1 0
-Production complete,1286.2206465754332,444,Ambulance -1 0
-Creation,1270.0,445,Source A1
-Production started,1271.8891655333525,445,Ambulance -1 0
-Production complete,1290.4309097423265,445,Ambulance -1 0
-Creation,1263.0,446,Source A1
-Production started,1264.4672752869803,446,Ambulance -1 0
-Production complete,1293.5038569348344,446,Ambulance -1 0
-Creation,1267.0,447,Source A1
-Production started,1268.453451640137,447,Ambulance -1 0
-Production complete,1295.4281869967135,447,Ambulance -1 0
-Creation,1272.0,448,Source A1
-Production started,1277.2707265794782,448,Ambulance -1 0
-Production complete,1299.526120258013,448,Ambulance -1 0
-Creation,1277.0,449,Source A1
-Production started,1283.5220838965115,449,Ambulance -1 0
-Production complete,1305.884883207756,449,Ambulance -1 0
-Creation,1276.0,450,Source A1
-Production started,1282.6029462783883,450,Ambulance -1 0
-Production complete,1312.754055101486,450,Ambulance -1 0
-Creation,1289.0,451,Source A1
-Production started,1295.4281869967135,451,Ambulance -1 0
-Production complete,1313.58933905918,451,Ambulance -1 0
-Creation,1279.0,452,Source A1
-Production started,1286.2206465754332,452,Ambulance -1 0
-Production complete,1315.8833922101182,452,Ambulance -1 0
-Creation,1283.0,453,Source A1
-Production started,1290.4309097423265,453,Ambulance -1 0
-Production complete,1318.0839230855213,453,Ambulance -1 0
-Creation,1293.0,454,Source A1
-Production started,1299.526120258013,454,Ambulance -1 0
-Production complete,1321.4737660974433,454,Ambulance -1 0
-Creation,1286.0,455,Source A1
-Production started,1293.5038569348344,455,Ambulance -1 0
-Production complete,1321.4826272887872,455,Ambulance -1 0
-Creation,1315.0,456,Source A1
-Production started,1321.4737660974433,456,Ambulance -1 0
-Production complete,1324.0481940547731,456,Ambulance -1 0
-Creation,1296.0,457,Source A1
-Production started,1305.884883207756,457,Ambulance -1 0
-Production complete,1327.7514825553478,457,Ambulance -1 0
-Creation,1305.0,458,Source A1
-Production started,1313.58933905918,458,Ambulance -1 0
-Production complete,1332.1123240570157,458,Ambulance -1 0
-Creation,1310.0,459,Source A1
-Production started,1318.0839230855213,459,Ambulance -1 0
-Production complete,1338.4783966725622,459,Ambulance -1 0
-Creation,1301.0,460,Source A1
-Production started,1312.754055101486,460,Ambulance -1 0
-Production complete,1344.2332077217152,460,Ambulance -1 0
-Creation,1309.0,461,Source A1
-Production started,1315.8833922101182,461,Ambulance -1 0
-Production complete,1344.485258218642,461,Ambulance -1 0
-Creation,1317.0,462,Source A1
-Production started,1321.4826272887872,462,Ambulance -1 0
-Production complete,1346.3551059494928,462,Ambulance -1 0
-Creation,1319.0,463,Source A1
-Production started,1324.0481940547731,463,Ambulance -1 0
-Production complete,1347.3621257132052,463,Ambulance -1 0
-Creation,1327.0,464,Source A1
-Production started,1332.1123240570157,464,Ambulance -1 0
-Production complete,1347.9423305471373,464,Ambulance -1 0
-Creation,1321.0,465,Source A1
-Production started,1327.7514825553478,465,Ambulance -1 0
-Production complete,1350.0986810974828,465,Ambulance -1 0
-Creation,1338.0,466,Source A1
-Production started,1344.485258218642,466,Ambulance -1 0
-Production complete,1362.2756550605568,466,Ambulance -1 0
-Creation,254.0,467,Source A2
-Production started,1347.9423305471373,467,Ambulance -1 0
-Production complete,1365.5761603321948,467,Ambulance -1 0
-Creation,1344.0,468,Source A1
-Production started,1347.3621257132052,468,Ambulance -1 0
-Production complete,1365.9389856356056,468,Ambulance -1 0
-Creation,1330.0,469,Source A1
-Production started,1338.4783966725622,469,Ambulance -1 0
-Production complete,1367.8003835409233,469,Ambulance -1 0
-Creation,1348.0,470,Source A1
-Production started,1350.0986810974828,470,Ambulance -1 0
-Production complete,1368.6232132707978,470,Ambulance -1 0
-Creation,1333.0,471,Source A1
-Production started,1344.2332077217152,471,Ambulance -1 0
-Production complete,1370.4295857382756,471,Ambulance -1 0
-Creation,1340.0,472,Source A1
-Production started,1346.3551059494928,472,Ambulance -1 0
-Production complete,1370.4855926522414,472,Ambulance -1 0
+Production started,1154.9616299342613,406,Ambulance 3 1
+Production complete,1178.8719552064663,406,Ambulance 3 1
+Creation,1153.0,407,Source A1
+Production started,1159.7642412733233,407,Ambulance 4 1
+Production complete,1180.772383783338,407,Ambulance 4 1
+Creation,1149.0,408,Source A1
+Production started,1151.7528009344496,408,Ambulance 6 1
+Production complete,1181.585576351335,408,Ambulance 6 1
+Creation,1155.0,409,Source A1
+Production started,1161.8891555210523,409,Ambulance 7 1
+Production complete,1187.0802737561637,409,Ambulance 7 1
+Creation,1156.0,410,Source A1
+Production started,1167.4785363918434,410,Ambulance 1 1
+Production complete,1190.7639666312596,410,Ambulance 1 1
+Creation,1160.0,411,Source A1
+Production started,1168.5127214671077,411,Ambulance 5 1
+Production complete,1195.2390118904154,411,Ambulance 5 1
+Creation,1162.0,412,Source A1
+Production started,1175.1248829462884,412,Ambulance 2 1
+Production complete,1196.253996752255,412,Ambulance 2 1
+Creation,1166.0,413,Source A1
+Production started,1181.585576351335,413,Ambulance 6 1
+Production complete,1200.160502343655,413,Ambulance 6 1
+Creation,1163.0,414,Source A1
+Production started,1178.8719552064663,414,Ambulance 3 1
+Production complete,1201.8663696597848,414,Ambulance 3 1
+Creation,1165.0,415,Source A1
+Production started,1180.772383783338,415,Ambulance 4 1
+Production complete,1204.6565095526296,415,Ambulance 4 1
+Creation,1167.0,416,Source A1
+Production started,1187.0802737561637,416,Ambulance 7 1
+Production complete,1214.6456444443502,416,Ambulance 7 1
+Creation,1168.0,417,Source A1
+Production started,1190.7639666312596,417,Ambulance 1 1
+Production complete,1214.760774472258,417,Ambulance 1 1
+Creation,1172.0,418,Source A1
+Production started,1196.253996752255,418,Ambulance 2 1
+Production complete,1221.1626311637328,418,Ambulance 2 1
+Creation,1174.0,419,Source A1
+Production started,1200.160502343655,419,Ambulance 6 1
+Production complete,1222.7649712578766,419,Ambulance 6 1
+Creation,1178.0,420,Source A1
+Production started,1201.8663696597848,420,Ambulance 3 1
+Production complete,1223.7202108779943,420,Ambulance 3 1
+Creation,1169.0,421,Source A1
+Production started,1195.2390118904154,421,Ambulance 5 1
+Production complete,1225.7577607660228,421,Ambulance 5 1
+Creation,1188.0,422,Source A1
+Production started,1223.7202108779943,422,Ambulance 3 1
+Production complete,1229.2066728796783,422,Ambulance 3 1
+Creation,1179.0,423,Source A1
+Production started,1204.6565095526296,423,Ambulance 4 1
+Production complete,1231.1668091346971,423,Ambulance 4 1
+Creation,1184.0,424,Source A1
+Production started,1214.760774472258,424,Ambulance 1 1
+Production complete,1231.2599016633364,424,Ambulance 1 1
+Creation,1186.0,425,Source A1
+Production started,1221.1626311637328,425,Ambulance 2 1
+Production complete,1242.587067143249,425,Ambulance 2 1
+Creation,1183.0,426,Source A1
+Production started,1214.6456444443502,426,Ambulance 7 1
+Production complete,1244.338602666741,426,Ambulance 7 1
+Creation,1195.0,427,Source A1
+Production started,1231.2599016633364,427,Ambulance 1 1
+Production complete,1246.1311285430359,427,Ambulance 1 1
+Creation,1192.0,428,Source A1
+Production started,1231.1668091346971,428,Ambulance 4 1
+Production complete,1250.1940590151257,428,Ambulance 4 1
+Creation,1191.0,429,Source A1
+Production started,1229.2066728796783,429,Ambulance 3 1
+Production complete,1252.1370881192079,429,Ambulance 3 1
+Creation,1187.0,430,Source A1
+Production started,1222.7649712578766,430,Ambulance 6 1
+Production complete,1253.3034686614913,430,Ambulance 6 1
+Creation,1189.0,431,Source A1
+Production started,1225.7577607660228,431,Ambulance 5 1
+Production complete,1255.9405329436045,431,Ambulance 5 1
+Creation,1221.0,432,Source A1
+Production started,1255.9405329436045,432,Ambulance 5 1
+Production complete,1259.9467978430305,432,Ambulance 5 1
+Creation,1220.0,433,Source A1
+Production started,1253.3034686614913,433,Ambulance 6 1
+Production complete,1261.1384301495764,433,Ambulance 6 1
+Creation,1227.0,434,Source A1
+Production started,1259.9467978430305,434,Ambulance 5 1
+Production complete,1262.4593513716138,434,Ambulance 5 1
+Creation,1202.0,435,Source A1
+Production started,1244.338602666741,435,Ambulance 7 1
+Production complete,1264.0409213175806,435,Ambulance 7 1
+Creation,1199.0,436,Source A1
+Production started,1242.587067143249,436,Ambulance 2 1
+Production complete,1264.756113422198,436,Ambulance 2 1
+Creation,1211.0,437,Source A1
+Production started,1250.1940590151257,437,Ambulance 4 1
+Production complete,1268.467896497253,437,Ambulance 4 1
+Creation,1208.0,438,Source A1
+Production started,1246.1311285430359,438,Ambulance 1 1
+Production complete,1273.247074113873,438,Ambulance 1 1
+Creation,1234.0,439,Source A1
+Production started,1261.1384301495764,439,Ambulance 6 1
+Production complete,1280.487582892931,439,Ambulance 6 1
+Creation,1215.0,440,Source A1
+Production started,1252.1370881192079,440,Ambulance 3 1
+Production complete,1282.3990668000704,440,Ambulance 3 1
+Creation,1241.0,441,Source A1
+Production started,1262.4593513716138,441,Ambulance 5 1
+Production complete,1285.3044521721715,441,Ambulance 5 1
+Creation,1254.0,442,Source A1
+Production started,1264.756113422198,442,Ambulance 2 1
+Production complete,1286.5515758353984,442,Ambulance 2 1
+Creation,1257.0,443,Source A1
+Production started,1268.467896497253,443,Ambulance 4 1
+Production complete,1289.3232095613434,443,Ambulance 4 1
+Creation,1261.0,444,Source A1
+Production started,1273.247074113873,444,Ambulance 1 1
+Production complete,1290.962330741432,444,Ambulance 1 1
+Creation,1272.0,445,Source A1
+Production started,1286.5515758353984,445,Ambulance 2 1
+Production complete,1292.4704864740204,445,Ambulance 2 1
+Creation,1245.0,446,Source A1
+Production started,1264.0409213175806,446,Ambulance 7 1
+Production complete,1294.081359894798,446,Ambulance 7 1
+Creation,1264.0,447,Source A1
+Production started,1280.487582892931,447,Ambulance 6 1
+Production complete,1295.949321427177,447,Ambulance 6 1
+Creation,1269.0,448,Source A1
+Production started,1282.3990668000704,448,Ambulance 3 1
+Production complete,1306.5567237312155,448,Ambulance 3 1
+Creation,1270.0,449,Source A1
+Production started,1285.3044521721715,449,Ambulance 5 1
+Production complete,1306.7772840665202,449,Ambulance 5 1
+Creation,1273.0,450,Source A1
+Production started,1289.3232095613434,450,Ambulance 4 1
+Production complete,1308.0224272704868,450,Ambulance 4 1
+Creation,1276.0,451,Source A1
+Production started,1290.962330741432,451,Ambulance 1 1
+Production complete,1309.0369716960122,451,Ambulance 1 1
+Creation,1298.0,452,Source A1
+Production started,1308.0224272704868,452,Ambulance 4 1
+Production complete,1312.9616939187722,452,Ambulance 4 1
+Creation,1285.0,453,Source A1
+Production started,1295.949321427177,453,Ambulance 6 1
+Production complete,1320.0124046636745,453,Ambulance 6 1
+Creation,1278.0,454,Source A1
+Production started,1292.4704864740204,454,Ambulance 2 1
+Production complete,1321.9214670648514,454,Ambulance 2 1
+Creation,1281.0,455,Source A1
+Production started,1294.081359894798,455,Ambulance 7 1
+Production complete,1324.126768104712,455,Ambulance 7 1
+Creation,1290.0,456,Source A1
+Production started,1306.5567237312155,456,Ambulance 3 1
+Production complete,1325.2395873865105,456,Ambulance 3 1
+Creation,1303.0,457,Source A1
+Production started,1312.9616939187722,457,Ambulance 4 1
+Production complete,1330.5314003122373,457,Ambulance 4 1
+Creation,1301.0,458,Source A1
+Production started,1309.0369716960122,458,Ambulance 1 1
+Production complete,1330.6915728721528,458,Ambulance 1 1
+Creation,1294.0,459,Source A1
+Production started,1306.7772840665202,459,Ambulance 5 1
+Production complete,1331.2466535416745,459,Ambulance 5 1
+Creation,1323.0,460,Source A1
+Production started,1330.6915728721528,460,Ambulance 1 1
+Production complete,1335.4865378261004,460,Ambulance 1 1
+Creation,1325.0,461,Source A1
+Production started,1331.2466535416745,461,Ambulance 5 1
+Production complete,1336.0671406829072,461,Ambulance 5 1
+Creation,1308.0,462,Source A1
+Production started,1321.9214670648514,462,Ambulance 2 1
+Production complete,1344.7575574068428,462,Ambulance 2 1
+Creation,1305.0,463,Source A1
+Production started,1320.0124046636745,463,Ambulance 6 1
+Production complete,1347.7736498777476,463,Ambulance 6 1
+Creation,1314.0,464,Source A1
+Production started,1324.126768104712,464,Ambulance 7 1
+Production complete,1350.9787357493237,464,Ambulance 7 1
+Creation,1317.0,465,Source A1
+Production started,1325.2395873865105,465,Ambulance 3 1
+Production complete,1353.3344355645484,465,Ambulance 3 1
+Creation,227.0,466,Source A2
+Production started,1336.0671406829072,466,Ambulance 5 1
+Production complete,1354.902129903081,466,Ambulance 5 1
+Creation,1319.0,467,Source A1
+Production started,1330.5314003122373,467,Ambulance 4 1
+Production complete,1359.13092614108,467,Ambulance 4 1
+Creation,1330.0,468,Source A1
+Production started,1335.4865378261004,468,Ambulance 1 1
+Production complete,1360.9343575853036,468,Ambulance 1 1
+Creation,1338.0,469,Source A1
+Production started,1344.7575574068428,469,Ambulance 2 1
+Production complete,1366.1444401597182,469,Ambulance 2 1
+Creation,1342.0,470,Source A1
+Production started,1347.7736498777476,470,Ambulance 6 1
+Production complete,1368.3801939712343,470,Ambulance 6 1
+Creation,1350.0,471,Source A1
+Production started,1353.3344355645484,471,Ambulance 3 1
+Production complete,1370.0565193810971,471,Ambulance 3 1
+Creation,1345.0,472,Source A1
+Production started,1350.9787357493237,472,Ambulance 7 1
+Production complete,1372.9314857269496,472,Ambulance 7 1
 Creation,1353.0,473,Source A1
-Production started,1365.9389856356056,473,Ambulance -1 0
-Production complete,1388.0977333813744,473,Ambulance -1 0
-Creation,1364.0,474,Source A1
-Production started,1368.6232132707978,474,Ambulance -1 0
-Production complete,1390.2075276331373,474,Ambulance -1 0
-Creation,1357.0,475,Source A1
-Production started,1367.8003835409233,475,Ambulance -1 0
-Production complete,1391.6219749171012,475,Ambulance -1 0
-Creation,1351.0,476,Source A1
-Production started,1365.5761603321948,476,Ambulance -1 0
-Production complete,1392.504392894683,476,Ambulance -1 0
-Creation,1349.0,477,Source A1
-Production started,1362.2756550605568,477,Ambulance -1 0
-Production complete,1393.5039386008305,477,Ambulance -1 0
-Creation,1369.0,478,Source A1
-Production started,1370.4295857382756,478,Ambulance -1 0
-Production complete,1393.5600002361539,478,Ambulance -1 0
-Creation,259.0,479,Source A2
-Production started,1370.4855926522414,479,Ambulance -1 0
-Production complete,1394.2724033461143,479,Ambulance -1 0
-Creation,1387.0,480,Source A1
-Production started,1393.5039386008305,480,Ambulance -1 0
-Production complete,1411.1737887605802,480,Ambulance -1 0
-Creation,1385.0,481,Source A1
-Production started,1392.504392894683,481,Ambulance -1 0
-Production complete,1416.220443478094,481,Ambulance -1 0
-Creation,1374.0,482,Source A1
-Production started,1388.0977333813744,482,Ambulance -1 0
-Production complete,1418.263676759463,482,Ambulance -1 0
-Creation,1380.0,483,Source A1
-Production started,1391.6219749171012,483,Ambulance -1 0
-Production complete,1420.7542073330349,483,Ambulance -1 0
-Creation,1377.0,484,Source A1
-Production started,1390.2075276331373,484,Ambulance -1 0
-Production complete,1420.9165361492996,484,Ambulance -1 0
-Creation,1391.0,485,Source A1
-Production started,1393.5600002361539,485,Ambulance -1 0
-Production complete,1421.2695593554254,485,Ambulance -1 0
-Creation,261.0,486,Source A2
-Production started,1394.2724033461143,486,Ambulance -1 0
-Production complete,1421.391573285156,486,Ambulance -1 0
-Creation,1395.0,487,Source A1
-Production started,1411.1737887605802,487,Ambulance -1 0
-Production complete,1434.1646130003683,487,Ambulance -1 0
-Creation,1398.0,488,Source A1
-Production started,1416.220443478094,488,Ambulance -1 0
-Production complete,1438.2050796599262,488,Ambulance -1 0
-Creation,1411.0,489,Source A1
-Production started,1420.9165361492996,489,Ambulance -1 0
-Production complete,1438.5293580988841,489,Ambulance -1 0
+Production started,1354.902129903081,473,Ambulance 5 1
+Production complete,1375.8020296235597,473,Ambulance 5 1
+Creation,1355.0,474,Source A1
+Production started,1359.13092614108,474,Ambulance 4 1
+Production complete,1379.142096397307,474,Ambulance 4 1
+Creation,1359.0,475,Source A1
+Production started,1360.9343575853036,475,Ambulance 1 1
+Production complete,1381.5207338965674,475,Ambulance 1 1
+Creation,240.0,476,Source A2
+Production started,1375.8020296235597,476,Ambulance 5 1
+Production complete,1383.1995240463216,476,Ambulance 5 1
+Creation,233.0,477,Source A2
+Production started,1370.0565193810971,477,Ambulance 3 1
+Production complete,1389.0535970919732,477,Ambulance 3 1
+Creation,1364.0,478,Source A1
+Production started,1366.1444401597182,478,Ambulance 2 1
+Production complete,1390.3470882274528,478,Ambulance 2 1
+Creation,1367.0,479,Source A1
+Production started,1368.3801939712343,479,Ambulance 6 1
+Production complete,1391.4084160560492,479,Ambulance 6 1
+Creation,1372.0,480,Source A1
+Production started,1372.9314857269496,480,Ambulance 7 1
+Production complete,1398.5548315899046,480,Ambulance 7 1
+Creation,1379.0,481,Source A1
+Production started,1381.5207338965674,481,Ambulance 1 1
+Production complete,1400.5811441098117,481,Ambulance 1 1
+Creation,1376.0,482,Source A1
+Production started,1379.142096397307,482,Ambulance 4 1
+Production complete,1402.6918065263562,482,Ambulance 4 1
+Creation,1386.0,483,Source A1
+Production started,1389.0535970919732,483,Ambulance 3 1
+Production complete,1410.8909091552564,483,Ambulance 3 1
+Creation,1381.0,484,Source A1
+Production started,1383.1995240463216,484,Ambulance 5 1
+Production complete,1410.9845106496052,484,Ambulance 5 1
+Creation,1408.0,485,Source A1
+Production started,1410.8909091552564,485,Ambulance 3 1
+Production complete,1416.1867880121745,485,Ambulance 3 1
+Creation,247.0,486,Source A2
+Production started,1391.4084160560492,486,Ambulance 6 1
+Production complete,1416.9918963613798,486,Ambulance 6 1
+Creation,243.0,487,Source A2
+Production started,1390.3470882274528,487,Ambulance 2 1
+Production complete,1419.099455117464,487,Ambulance 2 1
+Creation,1399.0,488,Source A1
+Production started,1400.5811441098117,488,Ambulance 1 1
+Production complete,1420.2877729095478,488,Ambulance 1 1
+Creation,253.0,489,Source A2
+Production started,1402.6918065263562,489,Ambulance 4 1
+Production complete,1420.777591038649,489,Ambulance 4 1
+Creation,1418.0,490,Source A1
+Production started,1419.099455117464,490,Ambulance 2 1
+Production complete,1421.7203735839773,490,Ambulance 2 1
+Creation,1392.0,491,Source A1
+Production started,1398.5548315899046,491,Ambulance 7 1
+Production complete,1427.6555655658472,491,Ambulance 7 1
+Creation,254.0,492,Source A2
+Production started,1410.9845106496052,492,Ambulance 5 1
+Production complete,1432.7267032670939,492,Ambulance 5 1
+Creation,261.0,493,Source A2
+Production started,1416.9918963613798,493,Ambulance 6 1
+Production complete,1438.8492723891623,493,Ambulance 6 1

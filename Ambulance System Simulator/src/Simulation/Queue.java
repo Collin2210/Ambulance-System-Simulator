@@ -1,7 +1,6 @@
 package Simulation;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 /**
  *	Queue that stores products until they can be handled on a machine
