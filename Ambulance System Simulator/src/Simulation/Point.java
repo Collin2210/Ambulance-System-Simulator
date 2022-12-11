@@ -4,6 +4,15 @@ import java.util.Random;
 
 class Hexagon {
     public static Point randomPositionInHexagon() {
+        Point [] docksRegions = City.getDockPositions();
+        
+        // pick a random region
+        Random r = new Random();
+        int high = docksRegions.length;
+        int result = r.nextInt(high);
+        Point dockResultRegion = docksRegions[result];
+
+        //generate a point in the center region and add it to the middle coords of the dock of the picked region
         Random random = new Random();
         double a = 2.5;
         double b = 2.5;
@@ -11,7 +20,7 @@ class Hexagon {
             double x = random.nextDouble() * 2 * a - a;
             double y = random.nextDouble() * 2 * b - b;
             if (x * x / (a * a) + y * y / (b * b) <= 1) {
-                return new Point(x, y);
+                return new Point(x + dockResultRegion.getX(), y + dockResultRegion.getY());
             }
         }
     }
@@ -29,10 +38,10 @@ public class Point {
 
     // Constructor to initialize the x and y coordinates of a random point in a
     // region
-    public Point(Region region) {
+    public Point() {
         Point r = Hexagon.randomPositionInHexagon();
-        this.x = region.dockPosition.getX() + r.getX();
-        this.y = region.dockPosition.getY() + r.getY();
+        this.x = r.getX();
+        this.y = r.getY();
     }
 
     // Method to calculate the Manhattan distance between this point and another

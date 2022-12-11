@@ -87,8 +87,11 @@ public class Source implements CProcess
 		// show arrival
 		System.out.println("Patient "+ priorityLevel +" at time = " + tme);
 
+		//create a random point in the city
+		Point randomPoint = new Point();
+		double[] randomPointUpdated = new double[]{randomPoint.getX(), randomPoint.getY()};
 		// give arrived product to queue
-		Patient p = new Patient(randomPosition(), priorityLevel);
+		Patient p = new Patient(randomPointUpdated, priorityLevel);
 		p.stamp(tme,"Creation",name);
 
 		queue.giveProduct(p);
@@ -112,9 +115,5 @@ public class Source implements CProcess
 				list.stop();
 			}
 		}
-	}
-
-	public static double[] randomPosition(){
-		return new double[] {1.,2};
 	}
 }

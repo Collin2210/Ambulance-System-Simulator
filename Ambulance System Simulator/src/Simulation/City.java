@@ -28,7 +28,7 @@ public class City {
             regions.add(new Region(dock, this));
     }
 
-    private static Point[] getDockPositions(){
+    public static Point[] getDockPositions(){
         double
                 oX = hospitalPosition.getX(),
                 oY = hospitalPosition.getY();
