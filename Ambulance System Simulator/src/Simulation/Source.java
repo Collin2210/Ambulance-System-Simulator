@@ -84,7 +84,7 @@ public class Source implements CProcess {
 	@Override
 	public void execute(int type, double tme) {
 		// show arrival
-		System.out.println("Patient " + priorityLevel + " at time = " + tme);
+		//TODO: System.out.println("Patient " + priorityLevel + " at time = " + tme);
 
 		// create a random point in the city
 		Point randomPoint = new Point();

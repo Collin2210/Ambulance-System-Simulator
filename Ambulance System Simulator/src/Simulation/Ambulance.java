@@ -103,7 +103,7 @@ public class Ambulance implements CProcess, ProductAcceptor {
 	 */
 	public void execute(int type, double tme) {
 		// show arrival
-		System.out.println("Patient " + patient.getPriorityLevel() + " finished at time = " + tme);
+		//TODO: System.out.println("Patient " + patient.getPriorityLevel() + " finished at time = " + tme);
 
 		// set position
 		currentPosition = City.hospitalPosition;

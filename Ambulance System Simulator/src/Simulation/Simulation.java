@@ -7,9 +7,6 @@
 package Simulation;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-
-import java.util.ArrayList;
 
 public class Simulation {
 
@@ -22,16 +19,17 @@ public class Simulation {
     public static void main(String[] args) {
 
         for (int numOfAmbulances = 1; numOfAmbulances < 6; numOfAmbulances++) {
-            String csvName = "data"+ numOfAmbulances;
+            System.out.println("\n\n= = = = = =\nNumber of ambulances: " + numOfAmbulances);
+            String csvName = "data" + numOfAmbulances;
             Region.numAmbulances = numOfAmbulances;
             runSimulation(csvName);
         }
 
-        for(String s : prints)
+        for (String s : prints)
             System.out.println(s);
     }
 
-    public static void runSimulation(String csvName){
+    public static void runSimulation(String csvName) {
         // An eventlist
         CEventList eventList = new CEventList();
 
@@ -64,7 +62,7 @@ public class Simulation {
                 sink.getTimes(),
                 sink.getNumbers(),
                 sink.getStations(),
-                csvName+".csv");
+                csvName + ".csv");
 
         exportToCSV.getWaitingTimes(sink);
 
