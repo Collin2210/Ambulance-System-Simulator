@@ -6,6 +6,7 @@
 
 package Simulation;
 
+import java.io.IOException;
 import java.util.ArrayList;
 
 public class Simulation {
@@ -15,8 +16,9 @@ public class Simulation {
 
     /**
      * @param args the command line arguments
+     * @throws IOException
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         for (int numOfAmbulances = 1; numOfAmbulances < 6; numOfAmbulances++) {
             System.out.println("\n\n= = = = = =\nNumber of ambulances: " + numOfAmbulances);
@@ -27,7 +29,7 @@ public class Simulation {
 
     }
 
-    public static void runSimulation(String csvName) {
+    public static void runSimulation(String csvName) throws IOException {
         // An eventlist
         CEventList eventList = new CEventList();
 
