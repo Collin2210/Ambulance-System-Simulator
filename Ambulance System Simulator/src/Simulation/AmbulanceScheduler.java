@@ -33,14 +33,14 @@ public class AmbulanceScheduler {
         // Call the calculateDemand method
         ArrayList<Double> demand = calculateDemand(rates, k);
 
-        System.out.println("Demand for each hour:");
+        // System.out.println("Demand for each hour:");
         // Print the demand for each hour
         double counter = 0;
         for (int i = 0; i < NUM_HOURS; i++) {
-            System.out.println("Hour " + i + ": " + demand.get(i));
+            // System.out.println("Hour " + i + ": " + demand.get(i));
             counter += demand.get(i);
         }
-        System.out.println("\nTotal demand: " + counter);
+        // System.out.println("\nTotal demand: " + counter);
 
         double shift_1 = 0; // from 7h to 13h
         double shift_2 = 0; // from 13h to 17h
@@ -57,8 +57,8 @@ public class AmbulanceScheduler {
             else
                 shift_4 += demand.get(i);
         }
-        System.out.println(
-                "\nAmount of patient served per shift:\nShift 1: " + shift_1 + "\nShift 2: " + shift_2 + "\nShift 3: "
-                        + shift_3 + "\nShift 4: " + shift_4);
+        // System.out.println(
+        //         "\nAmount of patient served per shift:\nShift 1: " + shift_1 + "\nShift 2: " + shift_2 + "\nShift 3: "
+        //                 + shift_3 + "\nShift 4: " + shift_4);
     }
 }

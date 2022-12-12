@@ -6,6 +6,8 @@
 
 package Simulation;
 
+import org.apache.commons.math3.stat.interval.ConfidenceInterval;
+import org.apache.commons.math3.stat.interval.TInterval;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -21,7 +23,7 @@ public class Simulation {
     public static void main(String[] args) throws IOException {
 
         for (int numOfAmbulances = 1; numOfAmbulances < 6; numOfAmbulances++) {
-            System.out.println("\n\n= = = = = =\nNumber of ambulances: " + numOfAmbulances);
+            System.out.println("\n= = = = = =\nNumber of ambulances: " + numOfAmbulances);
             String csvName = "data" + numOfAmbulances;
             Region.numAmbulances = numOfAmbulances;
             runSimulation(csvName);
