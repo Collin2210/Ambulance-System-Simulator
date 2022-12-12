@@ -58,13 +58,14 @@ public class exportToCSV {
             writer.write("A1 priority %");
             writer.newLine();
             // Shifts 8-4-4-8
-            int[] shift_times = new int[] { 0, 60 * 8, 60 * 8 + 60 * 4, 60 * 8 + 60 * 4 +
-            60 * 4,
-            60 * 8 + 60 * 4 + 60 * 4 + 60 * 8 };
+            // int[] shift_times = new int[] { 0, 60 * 8, 60 * 8 + 60 * 4, 60 * 8 + 60 * 4 +
+            // 60 * 4,
+            // 60 * 8 + 60 * 4 + 60 * 4 + 60 * 8 };
 
             // Shifts 4-4-4-4-4-4
-            // int[] shift_times = new int[] { 0, 60 * 4, (60 * 4) * 2, (60 * 4) * 3, (60 * 4) * 4, (60 * 4) * 5,
-            //         (60 * 4) * 6 };
+            int[] shift_times = new int[] { 0, 60 * 4, (60 * 4) * 2, (60 * 4) * 3, (60 *
+                    4) * 4, (60 * 4) * 5,
+                    (60 * 4) * 6 };
 
             // create the datasets according to the shifts and their creation time
             for (int i = 0; i < shift_times.length - 1; i++) {
