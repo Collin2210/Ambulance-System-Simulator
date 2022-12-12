@@ -103,8 +103,8 @@ public class exportToCSV {
                 writer.write(getAVGWaitingTime(
                         dataset_waiting_time, dataset_priority, 3) + "");
                 writer.write(",");
-                writer.write(df.format(
-                        getPercentage(dataset_waiting_time, dataset_priority) * 100) + "");
+                writer.write(
+                        getPercentage(dataset_waiting_time, dataset_priority) * 100 + "");
                 System.out
                         .println("Shift " + (i + 1) + " : \nAverage waiting time A1: " + getAVGWaitingTime(
                                 dataset_waiting_time, dataset_priority, 1));
