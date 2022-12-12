@@ -6,8 +6,6 @@
 
 package Simulation;
 
-import org.apache.commons.math3.stat.interval.ConfidenceInterval;
-import org.apache.commons.math3.stat.interval.TInterval;
 import java.io.IOException;
 import java.util.ArrayList;
 
