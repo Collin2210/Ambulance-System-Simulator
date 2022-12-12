@@ -25,8 +25,6 @@ public class Simulation {
             runSimulation(csvName);
         }
 
-        for (String s : prints)
-            System.out.println(s);
     }
 
     public static void runSimulation(String csvName) {

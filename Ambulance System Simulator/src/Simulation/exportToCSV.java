@@ -132,5 +132,4 @@ public class exportToCSV {
 
         return (double) numOverLimit / (A1Times.size());
     }
-
 }
